@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ameesia Marold</title>
+    <meta name="description" content="Curator and creative strategist navigating the autonomous future of creativity.">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Fonts - Using Proxima Nova -->
+    <link rel="stylesheet" href="https://use.typekit.net/lxq7gid.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main Site -->
+    <div class="main-container" id="main">
+        <!-- Minimal Header -->
+        <header class="header">
+            <div class="header-inner">
+                <a href="/" class="logo">AMEESIA MAROLD</a>
+                <nav class="nav">
+                    <a href="#" class="nav-link active" data-page="work">Work</a>
+                    <a href="#" class="nav-link" data-page="about">About</a>
+                    <a href="#" class="nav-link" data-page="contact">Contact</a>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="content" id="content">
+            <!-- Work Grid (Default View) -->
+            <div class="page-section active" id="work-page">
+                <!-- Filter Tabs -->
+                <div class="filter-bar">
+                    <button class="filter-tab active" data-filter="all">All</button>
+                    <button class="filter-tab" data-filter="automata">AUTOMATA</button>
+                    <button class="filter-tab" data-filter="bright-moments">Bright Moments</button>
+                    <button class="filter-tab" data-filter="other">Writing & Speaking</button>
+                </div>
+                <!-- Dynamic Grid -->
+                <div class="image-grid" id="project-grid">
+                    <!-- Populated by script.js from projects-cms.json -->
+                </div>
+            </div>
+
+            <!-- About Page -->
+            <div class="page-section" id="about-page">
+                <div class="about-container">
+                    <div class="about-content">
+                        <h2 class="about-title">About</h2>
+                        <div class="about-text">
+                            <p>
+                                Gallery founder, curator, and creative strategist with deep expertise at the intersection of contemporary art, AI, and emerging technology.
+                            </p>
+                            <p>
+                                Co-Founder & CEO of AUTOMATA, a pioneering gallery and curation studio representing AI agents and autonomous creative systems as artists.
+                                Generated over $500,000 in artwork sales within the first six months, establishing AUTOMATA as a leading voice in the emerging field of autonomous art.
+                            </p>
+                            <p>
+                                Previously Head of Marketing & Curation at Bright Moments Gallery (2021&ndash;2024), instrumental in building
+                                Bright Moments from a grassroots Venice Beach project into a globally recognized gallery and DAO, producing
+                                live-minting events across ten cities worldwide. Contributed to millions of dollars in artwork sales over four years.
+                            </p>
+                            <p>
+                                Over $10M in cumulative artwork sales with particular strength in digital, generative, and AI-driven markets.
+                                Fluent in blockchain infrastructure, autonomous creative systems, and AI-native production tools.
+                                Experienced at international art fairs including Paris Photo, Art Basel, and beyond.
+                            </p>
+                        </div>
+                        <div class="about-cv">
+                            <h3>Key Achievements</h3>
+                            <ul>
+                                <li>2026 &mdash; Digital Giverny: Launched George Legrady's historic neural style transfer collection</li>
+                                <li>2025 &mdash; Paris Photo: Presented Solienne, first AI agent artist at major photography fair</li>
+                                <li>2025 &mdash; Art Basel Paris: Curated Abraham (Gene Kogan) in collaboration with Ledger</li>
+                                <li>2025 &mdash; Art Basel Switzerland: AUTOMATA's inaugural exhibition at Digital Art Mile</li>
+                                <li>2024 &mdash; Christie's: 216 artworks from Bright Moments 2021&ndash;2024 auctioned</li>
+                                <li>2024 &mdash; Venice Finale: Completed 10,000 CryptoCitizens across 10 cities</li>
+                                <li>2021&ndash;2024 &mdash; Bright Moments: 26+ exhibitions across 10 global cities</li>
+                                <li>Writing: Right Click Save (NODE, HEFT)</li>
+                                <li>Speaking: Soho House Paris, artist reveal livestreams</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Page -->
+            <div class="page-section" id="contact-page">
+                <div class="contact-container">
+                    <h2 class="contact-title">Contact</h2>
+                    <div class="contact-content">
+                        <p class="contact-intro">
+                            Open to collaborations, conversations, and new perspectives on the future of creativity.
+                        </p>
+                        <div class="contact-links">
+                            <a href="mailto:ameesia@automata.art" class="contact-link">
+                                ameesia@automata.art
+                            </a>
+                            <a href="https://linkedin.com" class="contact-link" target="_blank">
+                                LinkedIn
+                            </a>
+                            <a href="https://x.com" class="contact-link" target="_blank">
+                                X
+                            </a>
+                            <a href="https://instagram.com" class="contact-link" target="_blank">
+                                Instagram
+                            </a>
+                        </div>
+                        <div class="contact-location">
+                            <p>New York &middot; Global</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Minimal Footer -->
+        <footer class="footer">
+            <p>&copy; 2025 Ameesia Marold</p>
+        </footer>
+    </div>
+
+    <!-- Project Detail Overlay -->
+    <div class="project-detail" id="project-detail">
+        <button class="close-button" id="close-project">Close</button>
+        <div class="project-content" id="project-content">
+            <!-- Dynamic content loaded by script.js -->
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+</html>
