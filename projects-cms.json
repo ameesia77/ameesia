@@ -3,7 +3,7 @@
     {
       "id": "bm-venice-beach-genesis",
       "title": "Venice Beach, CA — Genesis",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2021",
       "dateRange": "May – August 2021",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -48,7 +48,7 @@
     {
       "id": "bm-rituals",
       "title": "Rituals — Aaron Penne × Boreta",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2021",
       "dateRange": "September 2021",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -87,7 +87,7 @@
     {
       "id": "bm-new-york",
       "title": "New York",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2021",
       "dateRange": "November – December 2021",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -122,7 +122,7 @@
     {
       "id": "bm-incomplete-control",
       "title": "Incomplete Control — Tyler Hobbs",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2021",
       "dateRange": "December 2021",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -168,7 +168,7 @@
     {
       "id": "bm-berlin",
       "title": "Berlin — NFT Art Berlin at Kraftwerk",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2022",
       "dateRange": "April 6–23, 2022",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -281,7 +281,7 @@
     {
       "id": "bm-100-print",
       "title": "100 PRINT — Ben Kovach",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2022",
       "dateRange": "May 18–19, 2022",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -311,7 +311,7 @@
     {
       "id": "bm-london",
       "title": "London",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2022",
       "dateRange": "July 2022",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -364,7 +364,7 @@
     {
       "id": "bm-mexico-city",
       "title": "Mexico City — NFT ART CDMX",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2022",
       "dateRange": "November 16–19, 2022",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -434,7 +434,7 @@
     {
       "id": "bm-velum",
       "title": "Velum — Harvey Rayner",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "January 26, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -461,7 +461,7 @@
     {
       "id": "bm-fsm",
       "title": "Klangteppich — Andreas Rau",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "July 7–21, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -495,7 +495,7 @@
     {
       "id": "bm-agar",
       "title": "Agar — Emily Edelman",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "April 11, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -524,7 +524,7 @@
     {
       "id": "bm-tokyo",
       "title": "Tokyo",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "May 5–12, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -646,7 +646,7 @@
     {
       "id": "bm-totems",
       "title": "Totems: Symbols of Change — Beervangeer & Studio Poca",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "July 28, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -674,7 +674,7 @@
     {
       "id": "bm-buenos-aires",
       "title": "Buenos Aires",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "November 2–5, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -771,7 +771,7 @@
     {
       "id": "bm-hashmarks",
       "title": "HASHMARKS — 0xDeafbeef in Patagonia",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "November 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -804,7 +804,7 @@
     {
       "id": "bm-techno-animism",
       "title": "Techno-Animism — Emi Kusano",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2023",
       "dateRange": "December 6–18, 2023",
       "role": "Marketing, Production, Curation, Creative Direction — Tour Director",
@@ -849,7 +849,7 @@
     {
       "id": "bm-paris",
       "title": "Paris",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2024",
       "dateRange": "February 21–24, 2024",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -966,7 +966,7 @@
     {
       "id": "bm-venice-italy-finale",
       "title": "Venice, Italy — The Finale",
-      "category": "Bright Moments City Activation",
+      "category": "Exhibition",
       "year": "2024",
       "dateRange": "April 20–22, 2024",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -1030,7 +1030,7 @@
     {
       "id": "bm-christies",
       "title": "Christie's — Bright Moments 2021–2024 Complete Works",
-      "category": "Bright Moments Standalone Show",
+      "category": "Exhibition",
       "year": "2024",
       "dateRange": "June 27, 2024",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -1060,7 +1060,7 @@
     {
       "id": "automata-debut-basel",
       "title": "AUTOMATA Debut — Art Basel, Switzerland",
-      "category": "AUTOMATA",
+      "category": "Exhibition",
       "year": "2025",
       "dateRange": "June 16–22, 2025",
       "role": "Co-Founder & CEO",
@@ -1117,7 +1117,7 @@
     {
       "id": "automata-abraham",
       "title": "Abraham — First Works",
-      "category": "AUTOMATA",
+      "category": "Exhibition",
       "year": "2025",
       "dateRange": "October 8, 2025",
       "role": "Co-Founder & CEO",
@@ -1169,7 +1169,7 @@
     {
       "id": "automata-solienne-paris-photo",
       "title": "Solienne at Paris Photo",
-      "category": "AUTOMATA",
+      "category": "Exhibition",
       "year": "2025",
       "dateRange": "November 13–16, 2025",
       "role": "Co-Founder & CEO",
@@ -1243,7 +1243,7 @@
     {
       "id": "automata-digital-giverny",
       "title": "George Legrady — Digital Giverny",
-      "category": "AUTOMATA",
+      "category": "Exhibition",
       "year": "2026",
       "dateRange": "January 19 – February 19, 2026",
       "role": "Co-Founder & CEO",

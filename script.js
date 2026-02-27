@@ -105,13 +105,10 @@ document.addEventListener('DOMContentLoaded', async function() {
         article.setAttribute('data-project-id', project.id);
         article.setAttribute('data-category', project.category);
 
-        // Determine category label for the grid
-        let categoryLabel = project.category;
-        if (project.organization === 'AUTOMATA') categoryLabel = 'AUTOMATA';
-        else if (project.category === 'Writing') categoryLabel = 'Writing';
+        // Determine category label for the grid — show organization, not category
+        let categoryLabel = project.organization || project.category;
+        if (project.category === 'Writing') categoryLabel = 'Writing';
         else if (project.category === 'Speaking & Directing') categoryLabel = 'Speaking';
-        else if (project.category === 'Publication') categoryLabel = 'Publication';
-        else categoryLabel = 'Bright Moments';
 
         // Build year display
         const yearDisplay = project.year || '';
@@ -191,12 +188,12 @@ document.addEventListener('DOMContentLoaded', async function() {
                 const category = item.getAttribute('data-category');
                 if (filter === 'all') {
                     item.style.display = '';
-                } else if (filter === 'automata') {
-                    item.style.display = category === 'AUTOMATA' ? '' : 'none';
-                } else if (filter === 'bright-moments') {
-                    item.style.display = (category.startsWith('Bright Moments') ? '' : 'none');
-                } else if (filter === 'other') {
-                    item.style.display = (!category.startsWith('Bright Moments') && category !== 'AUTOMATA') ? '' : 'none';
+                } else if (filter === 'exhibitions') {
+                    item.style.display = category === 'Exhibition' ? '' : 'none';
+                } else if (filter === 'writing') {
+                    item.style.display = category === 'Writing' ? '' : 'none';
+                } else if (filter === 'speaking') {
+                    item.style.display = category === 'Speaking & Directing' ? '' : 'none';
                 }
             });
         });
