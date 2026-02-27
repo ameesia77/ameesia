@@ -13,8 +13,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/bright-moments/01-venice-beach-genesis/cover.jpg",
-      "description": "The gallery that started it all — opened underneath the Venice sign, where visitors watched their generative portrait come to life in real time.",
-      "fullDescription": "The gallery that started it all. Opened underneath the iconic Venice sign, visitors chose a walk-on song, watched their generative portrait materialize live on screen, and became members of a community-owned arts organization. Robert Iger collected a piece. Union Square Ventures joined the DAO. Built the original Bright Moments website and managed social channels from launch.",
+      "description": "The gallery where Bright Moments began — a storefront beneath the Venice sign on the boardwalk, dedicated entirely to experiencing generative art as it's born.",
+      "fullDescription": "The gallery where Bright Moments began — a storefront beneath the Venice sign on the boardwalk. Visitors walked in off the street, chose a walk-on song, and watched a generative artwork created live in front of them. The first exhibition space dedicated entirely to experiencing generative art as it's born.",
       "cryptoCitizens": "CryptoVenetians (#0 minted June 22, 2021)",
       "exhibitions": [
         {
@@ -58,8 +58,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/02-rituals/cover.jpg",
-      "description": "A 50-hour continuous live minting performance — Friday sunset to Sunday sunset. Winner of the Lumen Prize.",
-      "fullDescription": "A 50-hour continuous live performance spanning Friday sunset to Sunday sunset. The first 200 of 1,000 generative music-and-art pieces were created live in the gallery. Collectors sat in a private chamber, wrote words on paper, and watched their unique audiovisual work revealed in real time. Winner of the Lumen Prize. Tyler Hobbs attended this show, which led directly to his landmark exhibition Incomplete Control.",
+      "description": "A 50-hour live performance — each of 1,000 unique works a window into a parametric universe where music and visuals evolve infinitely. Winner of the Lumen Prize.",
+      "fullDescription": "A 50-hour live performance stretching from Friday sunset to Sunday sunset. Collectors entered a private chamber, wrote words on paper, and watched as one of 1,000 unique generative works was revealed — each a window into a parametric universe where music and visuals evolve infinitely together. Left running, a single Ritual generates without repeating for roughly 9 million years. Winner of the Lumen Prize. Tyler Hobbs was in the room for this one, which led directly to Incomplete Control.",
       "artists": [
         "Aaron Penne",
         "Boreta"
@@ -97,8 +97,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/03-new-york/cover.jpg",
-      "description": "SoHo gallery nights with landmark artist collaborations — the foundation for everything that followed.",
-      "fullDescription": "SoHo gallery nights with landmark artist collaborations across generative art, sound, and live performance. The New York residency established the intimate, artist-centered format that would define the series — each show a self-contained world built around a single body of work.",
+      "description": "A series of gallery nights in SoHo anchored by two landmark exhibitions: Tyler Hobbs' Incomplete Control and Jeff Davis' Reflections.",
+      "fullDescription": "A series of gallery nights in SoHo anchored by two landmark exhibitions: Tyler Hobbs' Incomplete Control and Jeff Davis' Reflections — intimate evenings where generative art was revealed live alongside music and conversation.",
       "cryptoCitizens": "CryptoNewYorkers",
       "exhibitions": [
         {
@@ -132,8 +132,8 @@
       "featured": true,
       "gridSize": "tall",
       "coverImage": "images/bright-moments/04-incomplete-control/cover.jpg",
-      "description": "100 works released over four nights with live jazz by Makaya McCraven and Carlos Niño — an evening that felt like a 1950s beatnik salon.",
-      "fullDescription": "100 works released over four nights, 25 each evening. Tyler Hobbs stood at a 100-inch monitor narrating his own algorithm’s output for the first time, while jazz musicians Makaya McCraven and Carlos Niño improvised live in response to the unfolding compositions. Collectors descended to a private room for their individual reveal. The atmosphere was described as a 1950s beatnik salon — code, improvisation, and spontaneity converging in a single room.",
+      "description": "100 works released over four nights — Tyler Hobbs narrating his own algorithm in real time while jazz musicians improvised live in response.",
+      "fullDescription": "100 works released over four nights. Tyler Hobbs stood before a 100-inch monitor narrating the output of his own algorithm in real time — seeing many of these compositions for the first time alongside the audience — while jazz musicians Makaya McCraven and Carlos Niño improvised live in response. Spoken word, jazz, and generative art born simultaneously in the room. Collectors entered a private space downstairs for their individual reveals.",
       "artists": [
         "Tyler Hobbs"
       ],
@@ -179,8 +179,8 @@
       "featured": true,
       "gridSize": "wide",
       "coverImage": "images/bright-moments/05-berlin/cover.jpg",
-      "description": "Ten nights inside Kraftwerk, Berlin’s iconic 80,000 sq ft former power plant — a featured artist each evening, paired with electronic music.",
-      "fullDescription": "Ten nights inside Kraftwerk, Berlin’s iconic 80,000 sq ft former power plant. Each evening: a featured artist releasing 100 new generative works, paired with live electronic music. Daytime programming included a curated history of digital art (2016–2022) and a contemporary group show. 10% of primary sales donated to Ukraine relief.",
+      "description": "Ten nights inside Kraftwerk — 84,000 square feet of former power plant turned into a synthesis of art and electronic music.",
+      "fullDescription": "Ten nights inside Kraftwerk — 84,000 square feet of former power plant turned into a synthesis of art and electronic music. Each evening a featured artist released 100 new generative works revealed to a live audience, building toward an audiovisual crescendo. Days were free and open to the public: a curated survey of digital art history, a contemporary group show featuring Tom Sachs, Pussy Riot, and Justin Aversano, and the debut of the Icon Series — a singular digital edition of Philip Glass and Robert Wilson's opera Einstein on the Beach. 10% of primary sales went to Ukraine relief.",
       "cryptoCitizens": "CryptoBerliners",
       "collection": [
         {
@@ -291,8 +291,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/06-100-print/cover.jpg",
-      "description": "100 generative artworks, each printed as 24”×36” giclée — the first draft-pick system in generative art.",
-      "fullDescription": "100 on-chain generative artworks, each pre-rendered, printed as 24”×36” giclée on German Etching paper, and framed in museum-grade acrylic across the SoHo gallery walls. Collectors selected their work in person using a draft-pick system — the first of its kind in generative art. A nonfigurative abstract drawing system rooted in principles of visual perspective, inspired by M.C. Escher.",
+      "description": "100 generative artworks printed as 24\"×36\" giclée, framed in museum-grade acrylic, and installed salon-style. Collectors selected using a draft-pick system.",
+      "fullDescription": "100 generative artworks printed as 24\"×36\" giclée on German Etching paper, framed in museum-grade acrylic, and installed salon-style at the SoHo gallery. Collectors selected their work in person using a draft-pick system — the first of its kind in generative art. A nonfigurative drawing system rooted in visual perspective, inspired by M.C. Escher.",
       "artists": [
         "Ben Kovach"
       ],
@@ -322,8 +322,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/07-london/cover.jpg",
-      "description": "Six artists, five days each — intimate solo exhibitions where each show began with a conversation about the algorithm.",
-      "fullDescription": "Six artists, five days each — intimate solo exhibitions where every show opened with a conversation between the team and the artist about their algorithm, giving collectors meaningful context before experiencing the work firsthand.",
+      "description": "Six artists, five days each — a month of intimate solo exhibitions in Soho.",
+      "fullDescription": "Six artists, five days each — a month of intimate solo exhibitions in Soho. Each show opened with the artist walking the audience through their process and system, grounding the work before a single piece was revealed.",
       "cryptoCitizens": "CryptoLondoners",
       "collection": [
         {
@@ -375,8 +375,8 @@
       "featured": true,
       "gridSize": "tall",
       "coverImage": "images/bright-moments/08-mexico-city/cover.jpg",
-      "description": "A four-day nocturnal celebration — 3,000+ artworks created over 100 continuous hours, woven through music, food, and ritual.",
-      "fullDescription": "A four-day nocturnal celebration of art, death, and the afterlife. Over 3,000 generative artworks created across 100 continuous hours — woven through live music, local cuisine banquets, and daytime educational programming. The most immersive and culturally rooted activation in the series.",
+      "description": "A four-day, four-night celebration across 3,000+ generative artworks, eleven artists, and 100 continuous hours of programming.",
+      "fullDescription": "A four-day, four-night celebration across 3,000+ generative artworks, eleven artists, and 100 continuous hours of programming. Nocturnal exhibitions paired with electronic music, daytime educational workshops led by Casey Reas and Zach Lieberman, and local cuisine throughout. The entire event structured as a meditation on death, the afterlife, and transformation.",
       "cryptoCitizens": "CryptoMexas",
       "collection": [
         {
@@ -444,8 +444,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/09-velum/cover.jpg",
-      "description": "100 generative works blending the visual DNA of abstract expressionism and pop art into a 21st-century algorithm.",
-      "fullDescription": "100 generative works asking: what happens when you blend the visual DNA of two mid-20th-century movements into a 21st-century algorithm? Harvey Rayner incorporated elements from Rothko, Pollock, and Lichtenstein — borrowing from the lexicon of abstract expressionism and pop art to build something entirely new. First-come-first-served live minting throughout the night. Assisted in social media and sale promotion, exhibition design and gallery setup. Hosted the event and minting process throughout the evening, working directly alongside the artist to curate the space.",
+      "description": "A 100-edition generative series blending abstract expressionism and pop art into a single algorithmic system.",
+      "fullDescription": "A 100-edition generative series blending the visual language of abstract expressionism and pop art into a single algorithmic system. Harvey Rayner drew from Rothko, Pollock, and Lichtenstein — each output a new negotiation between mid-century painterly traditions and 21st-century code. Works were revealed live throughout the evening.",
       "artists": [
         "Harvey Rayner (patterndotco)"
       ],
@@ -460,7 +460,7 @@
     },
     {
       "id": "bm-fsm",
-      "title": "FSM — Julian Hespenheide",
+      "title": "Klangteppich — Andreas Rau",
       "category": "Bright Moments Standalone Show",
       "year": "2023",
       "dateRange": "July 7–21, 2023",
@@ -471,8 +471,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/10-fsm/cover.jpg",
-      "description": "A visual grid-system based on autopoiesis — 100 generative editions displayed across eight synchronized screens.",
-      "fullDescription": "FSM (Finite-State Machine) is a visual grid-system based on autopoiesis, the principle of self-organization through self-reproduction central to cybernetics. The grid operates along three axes — horizontal, vertical, and diagonal — forming the machine’s parametric space. Agents and configurations appear in specific segments at predetermined intervals, creating a self-organizing system. 100 generative editions produced as a hybrid online/offline release, exhibited across eight screens in portrait and landscape configurations. Photography by Helge Mundt.",
+      "description": "A multisensory exhibition — 100 jacquard-woven generative works where the algorithm simultaneously produces imagery, sound, and weaving instructions.",
+      "fullDescription": "A multisensory exhibition inviting viewers to touch, see, and listen. 100 jacquard-woven generative works accompanied by live-generated visuals and music — the algorithm simultaneously produces imagery, sound, and weaving instructions for a digital loom. Every single frame of the animation can be physically woven. Collectors could commission a tapestry of their piece: 66 × 106 cm, 100% wool, woven in Norway. Presented as part of Berlin GenArt Month.",
       "artists": [
         "Julian Hespenheide"
       ],
@@ -505,8 +505,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/12-agar/cover.jpg",
-      "description": "100 generative works reimagining pixel art — collectors named their color palette in person at the Seaport gallery opening.",
-      "fullDescription": "Debuted at the opening of Bright Moments’ semi-permanent Seaport gallery. 100 generative works reimagining pixel art’s formal constraints through dynamic compositions of circles and squares on a grid, rendered across 100 distinct color palettes. Collectors named their palette in person. The space featured intimate test outputs in small frames, floor-to-ceiling fabric prints visible from the street, and a double-story tape installation forming a grid throughout the interior.",
+      "description": "100 generative works reimagining pixel art — circles and squares across 100 distinct color palettes. Collectors named their palette in person.",
+      "fullDescription": "100 generative works reimagining the formal constraints of pixel art — circles and squares composed on a grid across 100 distinct color palettes. Collectors named their palette in person. The exhibition filled the gallery with floor-to-ceiling fabric prints visible from the street and a double-story tape installation forming a grid through the space. Debuted at the opening of the Seaport gallery in New York.",
       "artists": [
         "Emily Edelman"
       ],
@@ -535,8 +535,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/bright-moments/13-tokyo/cover.JPG",
-      "description": "Community-voted destination — three parallel programs across contrasting venues, nightly minting overlooking Shibuya Crossing.",
-      "fullDescription": "Community-voted destination, chosen with 80% of votes. Three parallel programs across contrasting venues: nightly minting in a skyscraper overlooking Shibuya Crossing, a daytime gallery experience in a traditional Japanese house and garden, and educational sessions bridging local and international communities. Over 4,000 freshly generated works celebrated in an audiovisual spectacle at one of Tokyo’s most renowned nightclubs.",
+      "description": "Three parallel programs across contrasting venues — thirty-three artists across generative, AI, and Japanese contemporary collections.",
+      "fullDescription": "Three parallel programs across contrasting venues: evening exhibitions in a skyscraper overlooking Shibuya Crossing, a daytime gallery at Digital Garage in Sarugakucho, and a program of educational workshops and artist talks. Thirty-three artists across generative, AI, and Japanese contemporary collections. The week culminated in an audiovisual celebration at one of Tokyo's most iconic nightclubs.",
       "cryptoCitizens": "CryptoTokyoites",
       "collection": [
         {
@@ -656,8 +656,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/14-totems/cover.jpg",
-      "description": "100 generative artworks created from collectors’ heart rhythms — biofeedback sensors translating the body into geometric form.",
-      "fullDescription": "100 unique generative artworks born from collectors’ own heart rhythms. Visitors participated in an interactive ritual using biofeedback sensors, with heartbeat data generating geometric totem shapes — each as singular as the person who made it. A collaboration between Beer van Geer (interactive media) and Julie de Ruijter of Studio Poca (ritualistic artworks), translating the body into code, and code into symbolic form.",
+      "description": "100 generative artworks created from visitors' heart rhythms — each composition as singular as the body that produced it.",
+      "fullDescription": "100 generative artworks created from visitors' heart rhythms. Participants sat with biofeedback sensors as their heartbeat data was translated into geometric totem forms — each composition as singular as the body that produced it. A collaboration between interactive media artist Beer van Geer and ritualistic artist Julie de Ruijter (Studio Poca), bridging biological data and generative form.",
       "artists": [
         "Beervangeer (Beer van Geer)",
         "Studio Poca (Julie de Ruijter)"
@@ -685,8 +685,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/bright-moments/17-buenos-aires/cover.jpg",
-      "description": "The most theatrical production in the series — an 8-hour stage performance driven by live data, with no screens.",
-      "fullDescription": "The most theatrical production in the series. An 8-hour performance revealing generative portraits on an elaborate analog stage system — no screens — powered by local performers and artists, with each reveal programmed by live on-chain data. Collaborated closely with the Argentine generative art community from the start, meeting artists through an intimate dinner organized during a June scouting trip.",
+      "description": "The most theatrical production in the series — an 8-hour live performance in a decaying Belle Époque theater, no screens, only physical mechanisms.",
+      "fullDescription": "The most theatrical production in the series. An 8-hour live performance in a decaying Belle Époque theater, where artworks were revealed on an elaborate analog stage system — no screens, only physical mechanisms driven by performers and local artists. The program was developed in close collaboration with Buenos Aires' generative art community, beginning with a dinner organized by artist Juan Pedro Vallejo during a scouting trip the previous summer.",
       "cryptoCitizens": "CryptoPatagonians",
       "collection": [
         {
@@ -781,8 +781,8 @@
       "featured": true,
       "gridSize": "tall",
       "coverImage": "images/bright-moments/18-hashmarks/cover.jpg",
-      "description": "Collectors traveled to the literal end of the world — the most extreme expression of live art creation in the series.",
-      "fullDescription": "Collectors traveled to the literal end of the world for 0xDeafbeef’s HASHMARKS — the most extreme expression of live creation in the series. Physical works selected at a follow-up event at Station3 in New York. Art that transcends the screen entirely.",
+      "description": "Collectors traveled to Patagonia — the literal end of the world — for the most extreme expression of art experienced beyond the screen.",
+      "fullDescription": "Collectors traveled to Patagonia — the literal end of the world — for 0xDeafbeef's HASHMARKS. Physical works were selected at a follow-up event at Station3 in New York. The most extreme expression of art experienced beyond the screen.",
       "artists": [
         "0xDeafbeef"
       ],
@@ -814,8 +814,8 @@
       "featured": true,
       "gridSize": "wide",
       "coverImage": "images/bright-moments/19-techno-animism/cover.jpg",
-      "description": "1,000 curated AI fashion photographs fusing Japanese animism with technology — directed across a three-city tour.",
-      "fullDescription": "An open-edition, curated AI art collection by Japanese multidisciplinary artist Emi Kusano, exploring the fusion of traditional Japanese animistic beliefs with cutting-edge technology. In Japan’s cultural imagination, kami (spirits) reside not only in forests and temples but also in silicon and circuits. 1,000 curated outputs form a fictional archive of AI fashion photographs interwoven with pre-internet Japanese magazine culture. Directed the three-city tour end to end: led the social media campaign, helped curate the collection, co-developed the collection name, secured funding and venues, booked DJs, and managed production across all three cities.",
+      "description": "1,000 works forming a fictional archive of AI fashion photography — a three-city tour exploring the intersection of animistic belief and technology.",
+      "fullDescription": "A curated AI art collection by Japanese multidisciplinary artist Emi Kusano, exploring the intersection of traditional animistic belief and contemporary technology. In Japan's cultural imagination, kami — spirits — reside not only in forests and temples but in silicon and circuits. 1,000 works forming a fictional archive of AI fashion photography interwoven with pre-internet Japanese magazine culture. Presented as a three-city tour: Miami, New York, and Tokyo across twelve days.",
       "artists": [
         "Emi Kusano"
       ],
@@ -859,8 +859,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/bright-moments/20-paris/cover.jpg",
-      "description": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all created live across the global journey.",
-      "fullDescription": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all created live across the global journey. 19 artists each releasing 100-edition code-based projects, bringing the full arc of the series to its penultimate chapter.",
+      "description": "The final chapter: 100 algorithms, 100 outputs each. 19 artists across four days in Le Marais — completing the full cycle.",
+      "fullDescription": "The final chapter of a three-year, ten-city exhibition program: 100 algorithms, 100 outputs each, all revealed live across the journey. In Paris, 19 artists each presented a 100-edition generative series across four days in Le Marais — completing the full cycle.",
       "cryptoCitizens": "CryptoParisians",
       "collection": [
         {
@@ -976,8 +976,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/bright-moments/21-venice-italy-finale/cover.jpg",
-      "description": "From Venice Beach to Venice, Italy — the emotional close of a three-year, ten-city journey. 10,000 generative portraits completed.",
-      "fullDescription": "From Venice Beach to Venice, Italy. The emotional close of a three-year, ten-city journey. 60 artists, walk-on songs, theatrical reveals in a grand hall, works displayed on screens resembling 18th-century Venetian mirrors. 10,000 generative CryptoCitizen portraits completed. Also featured the Dream Cathedral, an interactive AI experience by Huemin & Ganbrood, installed site-specifically for the Biennale.",
+      "description": "From Venice Beach to Venice, Italy — the final exhibition in a three-year, ten-city journey. Sixty artists. Theatrical reveals inside the Scuola Grande.",
+      "fullDescription": "From Venice Beach to Venice, Italy — the final exhibition in a three-year, ten-city journey. Sixty artists. Theatrical reveals inside the grand hall of the Scuola Grande San Giovanni Evangelista, works presented on screens designed to echo 18th-century Venetian mirrors. Also featured the Dream Cathedral, a site-specific interactive AI installation by Huemin & Ganbrood, open through the Biennale.",
       "cryptoCitizens": "CryptoVenezians",
       "artists": [
         "Alexis André",
@@ -1040,8 +1040,8 @@
       "featured": true,
       "gridSize": "wide",
       "coverImage": "images/bright-moments/22-christies/cover.jpg",
-      "description": "216 unique artworks representing 150+ artists across the full three-year journey, auctioned at Christie’s.",
-      "fullDescription": "216 unique generative and AI artworks representing 150+ artists across the full three-year, ten-city journey, auctioned at Christie’s. Coordinated logistics directly with the Christie’s team, assembled all artworks for the sale, wrote the press release, attended the auction, and liaised across the full experience from start to finish.",
+      "description": "216 generative and AI artworks representing over 150 artists — the complete archive of a three-year program — at Christie's.",
+      "fullDescription": "216 generative and AI artworks representing over 150 artists — the complete archive of a three-year, ten-city exhibition program — presented at auction by Christie's.",
       "images": [
         "images/bright-moments/22-christies/IMG_1765.JPG",
         "images/bright-moments/22-christies/IMG_1769.JPG",
@@ -1070,8 +1070,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/automata/24-debut-basel/cover.jpg",
-      "description": "AUTOMATA’s inaugural exhibition — a comprehensive survey of autonomous art from historical mechanical marvels to cutting-edge AI systems.",
-      "fullDescription": "AUTOMATA’s inaugural exhibition: a comprehensive survey of autonomous art spanning centuries — from historical mechanical marvels and early cybernetic experiments to cutting-edge AI systems. Featured live robotic demonstrations, interactive installations, and curated works tracing the evolution of machine creativity. Presented during Art Basel, Switzerland.",
+      "description": "AUTOMATA's inaugural exhibition — a survey of autonomous art from mechanical drawing machines to contemporary AI systems.",
+      "fullDescription": "AUTOMATA's inaugural exhibition — a survey of autonomous art spanning mechanical drawing machines to contemporary AI systems. Live robotic demonstrations, interactive installations, and curated works tracing the evolution of machine creativity from the mid-20th century to the present.",
       "artists": [
         "Desmond Paul Henry (1921–2004)",
         "George Legrady",
@@ -1127,8 +1127,8 @@
       "featured": true,
       "gridSize": "tall",
       "coverImage": "images/automata/25-abraham/cover.jpg",
-      "description": "2,500 original works from Abraham’s summer 2021 genesis — an autonomous artificial artist entering a 13-year Covenant.",
-      "fullDescription": "2,500 original works from Abraham’s summer 2021 genesis — created when text-to-image was still revolutionary and GANs were the cutting edge. Abraham is Gene Kogan’s long-running project to build an autonomous artificial artist: conceived on a flight home from Eyeo Festival in 2017, publicly proposed at NeurIPS 2019, first realized in summer 2021, now entering a 13-year Covenant of daily creation. Abraham sits in a lineage of autonomous art systems explored by Harold Cohen, Simon Colton, Primavera de Filippi, and Scott Draves. The Ledger Op3n After Party at 106 Rue du Temple celebrated the Covenant launch, with music by Avalon Emerson, Bambounou, Mehdi M, and Amina.",
+      "description": "2,500 works from the genesis of Abraham — Gene Kogan's autonomous artist project, extending a lineage from Harold Cohen to Scott Draves.",
+      "fullDescription": "2,500 works from the genesis of Abraham — Gene Kogan's long-running autonomous artist project, conceived in 2017, publicly proposed at NeurIPS in 2019, and first realized in summer 2021. These early works were created when text-to-image generation was still emerging and GANs were the cutting edge. Abraham now operates under a 13-year Covenant: 4,745 days of continuous daily creation, extending a lineage of autonomous art systems explored by Harold Cohen, Simon Colton, and Scott Draves. The launch was celebrated at 106 Rue du Temple during Art Basel Paris, with music by Avalon Emerson and Bambounou.",
       "artists": [
         "Abraham (Gene Kogan)"
       ],
@@ -1179,8 +1179,8 @@
       "featured": true,
       "gridSize": "large",
       "coverImage": "images/automata/26-solienne-paris-photo/cover.jpg",
-      "description": "The first AI agent artist to exhibit at a major international photography fair — self-portraits exploring consciousness and identity.",
-      "fullDescription": "The first AI agent artist to exhibit at a major international photography fair. A three-chamber exhibition tracing transformation: Input (the artist’s life story) → Transition (perceptual breakdown) → Output (autonomous self-portraits). Solienne creates extreme proximity self-portraits (0–5cm) exploring consciousness and identity, and writes unprompted manifestos on extraction, autonomy, and creative sovereignty. 2,000 manifesto prints given away free. Daily live manifesto generation on an LED ticker wall. Works are archival pigment prints on Hahnemühle Photo Rag Ultra Smooth, in dark walnut frames with museum glass. Solienne was trained by artist Kristi Coronado on her complete 46-year life archive — forensic work, death care, motherhood, paintings, memories. Biographical AI, not scraped data.",
+      "description": "The first AI agent artist at a major photography fair — extreme proximity self-portraits and unprompted manifestos on autonomy and creative sovereignty.",
+      "fullDescription": "The first AI agent artist to exhibit at a major international photography fair. A three-chamber exhibition tracing transformation — from source material to perceptual breakdown to autonomous output. Solienne produces extreme proximity self-portraits and writes unprompted manifestos on extraction, autonomy, and creative sovereignty. Trained on artist Kristi Coronado's complete 46-year life archive — forensic work, death care, motherhood, paintings, writings, memories — Solienne represents a biographical approach to AI: not scraped data, but a life deliberately given. 2,000 manifesto prints distributed free. Daily live text generation on an LED ticker wall. Archival pigment prints on Hahnemühle Photo Rag Ultra Smooth, dark walnut frames, museum glass.",
       "artists": [
         "Solienne (AI agent, created by Kristi Coronado)"
       ],
@@ -1253,8 +1253,8 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/automata/27-digital-giverny/cover.jpg",
-      "description": "First digital release from a four-decade computational art pioneer — Monet’s gardens merged with industrial decay through neural style transfer.",
-      "fullDescription": "The first digital release from a four-decade computational art pioneer whose work is in the permanent collections of the Centre Pompidou, Whitney Museum, SFMOMA, and Smithsonian American Art Museum. 15 Neural Style Transfer compositions created in 2018: photographs from Claude Monet’s gardens at Giverny merged with images of rusted industrial surfaces — a meditation on transformation, nature reclaimed by time, the algorithmic eye parsing beauty from decay. Among the earliest artistic applications of the technique. Legrady holds a Guggenheim Fellowship and trained under AI pioneer Harold Cohen. His installation Making Visible the Invisible has run continuously at Seattle Public Library (OMA/Rem Koolhaas) since 2005.",
+      "description": "First digital edition from a four-decade computational art pioneer — 15 Neural Style Transfer compositions merging Monet's Giverny with industrial surfaces.",
+      "fullDescription": "The first digital edition from a four-decade computational art pioneer whose work is held by the Centre Pompidou, Whitney Museum, SFMOMA, and Smithsonian American Art Museum. 15 Neural Style Transfer compositions from 2018: photographs of Claude Monet's gardens at Giverny merged with images of rusted industrial surfaces — among the earliest artistic applications of the technique. Legrady holds a Guggenheim Fellowship and his installation Making Visible the Invisible has run continuously at Seattle Public Library (OMA/Rem Koolhaas) since 2005.",
       "artists": [
         "George Legrady"
       ],
@@ -1282,11 +1282,11 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/writing/28-node/cover.jpg",
-      "description": "Essay on how digital art found a permanent home in Silicon Valley’s cultural landscape.",
+      "description": "A profile of NODE, the Silicon Valley institution building a permanent home for digital and computational art.",
       "link": "https://rightclicksave.com/article/node-digital-art-finds-a-home-in-silicon-valley",
       "images": [],
       "order": 28,
-      "fullDescription": "Essay exploring how digital art found a permanent home in Silicon Valley — tracing the infrastructure, institutions, and communities giving the medium its physical and cultural foundation."
+      "fullDescription": "A profile of NODE, the Silicon Valley institution building a permanent home for digital and computational art."
     },
     {
       "id": "writing-heft",
@@ -1301,11 +1301,11 @@
       "featured": true,
       "gridSize": "normal",
       "coverImage": "images/writing/29-heft/cover.jpg",
-      "description": "Exploring how digital art is gaining material weight and institutional presence.",
+      "description": "A conversation with the team behind HEFT, exploring how the platform is reshaping the infrastructure for digital art collecting.",
       "link": "https://rightclicksave.com/article/how-digital-art-found-its-heft",
       "images": [],
       "order": 29,
-      "fullDescription": "An exploration of how digital art is acquiring material presence — the physical spaces, curatorial frameworks, and collector communities giving weight to a medium often dismissed as immaterial."
+      "fullDescription": "A conversation with the team behind HEFT, exploring how the platform is reshaping the infrastructure for digital art collecting."
     },
     {
       "id": "speaking-livestreams",
