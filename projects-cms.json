@@ -12,9 +12,9 @@
       "venue": "62 Windward Circle, Venice Beach, CA",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/bright-moments/venice-beach/cover.jpg",
-      "description": "The gallery that started it all — opened underneath the Venice sign, introduced the world to IRL minting.",
-      "fullDescription": "The gallery that started it all. Opened underneath the Venice sign, introduced the world to IRL minting. Visitors chose a walk-on song, watched their CryptoVenetian generated live, and became members of the DAO. Robert Iger collected a CryptoVenetian. USV joined the DAO. Ameesia built the original Bright Moments website and ran Instagram and Twitter.",
+      "coverImage": "images/bright-moments/01-venice-beach-genesis/cover.jpg",
+      "description": "The gallery that started it all — opened underneath the Venice sign, where visitors watched their generative portrait come to life in real time.",
+      "fullDescription": "The gallery that started it all. Opened underneath the iconic Venice sign, visitors chose a walk-on song, watched their generative portrait materialize live on screen, and became members of a community-owned arts organization. Robert Iger collected a piece. Union Square Ventures joined the DAO. Built the original Bright Moments website and managed social channels from launch.",
       "cryptoCitizens": "CryptoVenetians (#0 minted June 22, 2021)",
       "exhibitions": [
         {
@@ -28,8 +28,21 @@
           "note": "See standalone entry"
         }
       ],
-      "images": [],
-      "press": [],
+      "images": [
+        "images/bright-moments/01-venice-beach-genesis/IMG_7720.JPG"
+      ],
+      "press": [
+        {
+          "publication": "Decrypt",
+          "title": "An NFT Gallery Pops Up in Venice Beach, California",
+          "link": "https://decrypt.co/68536/bright-moments-nft-art-installation-is-bringing-the-venice-ca-counter-culture-into-web-3-0"
+        },
+        {
+          "publication": "Yo! Venice",
+          "title": "The First NFT Gallery Has Opened in Venice",
+          "link": "https://yovenice.com/2021/06/10/the-first-nft-gallery-has-opened-in-venice/"
+        }
+      ],
       "order": 1
     },
     {
@@ -44,12 +57,31 @@
       "venue": "Bright Moments Gallery, Venice Beach, CA",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/venice-beach/rituals-cover.jpg",
-      "description": "A 50-hour continuous live minting performance — Friday sunset to Sunday sunset. Won the Lumen Prize.",
-      "fullDescription": "A 50-hour continuous live minting performance — Friday sunset to Sunday sunset. The first 200 of 1,000 generative music-and-art pieces were minted live in the gallery. Collectors sat in a private chamber, wrote words on paper, and watched their unique work revealed. Won the Lumen Prize. Tyler Hobbs attended this show, which led directly to Incomplete Control.",
-      "artists": ["Aaron Penne", "Boreta"],
-      "images": [],
-      "press": [],
+      "coverImage": "images/bright-moments/02-rituals/cover.jpg",
+      "description": "A 50-hour continuous live minting performance — Friday sunset to Sunday sunset. Winner of the Lumen Prize.",
+      "fullDescription": "A 50-hour continuous live performance spanning Friday sunset to Sunday sunset. The first 200 of 1,000 generative music-and-art pieces were created live in the gallery. Collectors sat in a private chamber, wrote words on paper, and watched their unique audiovisual work revealed in real time. Winner of the Lumen Prize. Tyler Hobbs attended this show, which led directly to his landmark exhibition Incomplete Control.",
+      "artists": [
+        "Aaron Penne",
+        "Boreta"
+      ],
+      "images": [
+        "images/bright-moments/02-rituals/20_7-058.jpg",
+        "images/bright-moments/02-rituals/Grabbing stills.00_00_53_22.Still097.jpg",
+        "images/bright-moments/02-rituals/Grabbing stills.00_00_59_02.Still098.jpg",
+        "images/bright-moments/02-rituals/Grabbing stills.00_01_08_21.Still099.jpg"
+      ],
+      "press": [
+        {
+          "publication": "The Lumen Prize",
+          "title": "NFT Award Winner 2022 — Rituals-Venice",
+          "link": "https://www.lumenprize.com/2022-winners/nft-award-winner"
+        },
+        {
+          "publication": "Gazelli Art House",
+          "title": "The NFT Award: Gazell.io × The Lumen Prize",
+          "link": "https://gazelliarthouse.com/exhibitions/161-the-nft-award-gazell.io-x-the-lumen-prize-aaron-penne-x-boreta/"
+        }
+      ],
       "order": 2
     },
     {
@@ -64,9 +96,9 @@
       "venue": "150 Wooster Street, SoHo, New York",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/new-york/cover.jpg",
-      "description": "SoHo gallery nights with landmark artist collaborations.",
-      "fullDescription": "SoHo gallery nights with landmark artist collaborations.",
+      "coverImage": "images/bright-moments/03-new-york/cover.jpg",
+      "description": "SoHo gallery nights with landmark artist collaborations — the foundation for everything that followed.",
+      "fullDescription": "SoHo gallery nights with landmark artist collaborations across generative art, sound, and live performance. The New York residency established the intimate, artist-centered format that would define the series — each show a self-contained world built around a single body of work.",
       "cryptoCitizens": "CryptoNewYorkers",
       "exhibitions": [
         {
@@ -80,7 +112,10 @@
           "note": "Nov 18–19, 100 pieces minted IRL, Art Blocks Playground"
         }
       ],
-      "images": [],
+      "images": [
+        "images/bright-moments/03-new-york/Pic_235.jpg",
+        "images/bright-moments/03-new-york/Reflections-Room.jpg"
+      ],
       "press": [],
       "order": 3
     },
@@ -96,19 +131,38 @@
       "venue": "150 Wooster Street, SoHo, New York",
       "featured": true,
       "gridSize": "tall",
-      "coverImage": "images/bright-moments/new-york/incomplete-control-cover.jpg",
-      "description": "100 works released over four nights with live jazz by Makaya McCraven and Carlos Niño. Described as feeling like a 1950s beatnik evening.",
-      "fullDescription": "100 works released over four nights, 25 minted each evening. Tyler stood at a 100-inch monitor upstairs narrating his own algorithm's output for the first time, while jazz musicians Makaya McCraven and Carlos Niño improvised live in response. Collectors went downstairs to a private space for their reveal. Described as feeling like a 1950s beatnik evening. Grail collection held in Bright Moments treasury.",
-      "artists": ["Tyler Hobbs"],
-      "music": ["Makaya McCraven", "Carlos Niño"],
+      "coverImage": "images/bright-moments/04-incomplete-control/cover.jpg",
+      "description": "100 works released over four nights with live jazz by Makaya McCraven and Carlos Niño — an evening that felt like a 1950s beatnik salon.",
+      "fullDescription": "100 works released over four nights, 25 each evening. Tyler Hobbs stood at a 100-inch monitor narrating his own algorithm’s output for the first time, while jazz musicians Makaya McCraven and Carlos Niño improvised live in response to the unfolding compositions. Collectors descended to a private room for their individual reveal. The atmosphere was described as a 1950s beatnik salon — code, improvisation, and spontaneity converging in a single room.",
+      "artists": [
+        "Tyler Hobbs"
+      ],
+      "music": [
+        "Makaya McCraven",
+        "Carlos Niño"
+      ],
       "press": [
         {
           "publication": "The Information",
           "title": "Minting Takes Manhattan",
           "link": "#"
+        },
+        {
+          "publication": "Artnet News",
+          "title": "How Generative Art Sensation Tyler Hobbs Is Defying a Shrinking NFT Market",
+          "link": "https://news.artnet.com/market/tyler-hobbs-profile-fidenza-qql-generative-art-2222939"
+        },
+        {
+          "publication": "NFT Evening",
+          "title": "Fidenza Incomplete Control Sells $7 Million Worth of NFTs Before the Reveal",
+          "link": "https://nftevening.com/fidenza-incomplete-control-sells-7-million-worth-of-nfts-before-the-reveal/"
         }
       ],
-      "images": [],
+      "images": [
+        "images/bright-moments/04-incomplete-control/IMG_7023.JPG",
+        "images/bright-moments/04-incomplete-control/_DSC9086.jpg",
+        "images/bright-moments/04-incomplete-control/_DSC9628.jpg"
+      ],
       "order": 4
     },
     {
@@ -124,27 +178,104 @@
       "organizingPrinciple": "Monumental",
       "featured": true,
       "gridSize": "wide",
-      "coverImage": "images/bright-moments/berlin/cover.jpg",
-      "description": "Ten nights in an 80,000 sq ft former power plant. Each evening: a featured artist releasing 100 NFTs minted live, paired with electronic music.",
-      "fullDescription": "Ten nights in an 80,000 sq ft former power plant. Each evening: a featured artist releasing 100 NFTs minted live, paired with electronic music. Daytime: History of NFT Art (2016–2022) and curated contemporary show. 10% of primary sales donated to Ukraine relief.",
+      "coverImage": "images/bright-moments/05-berlin/cover.jpg",
+      "description": "Ten nights inside Kraftwerk, Berlin’s iconic 80,000 sq ft former power plant — a featured artist each evening, paired with electronic music.",
+      "fullDescription": "Ten nights inside Kraftwerk, Berlin’s iconic 80,000 sq ft former power plant. Each evening: a featured artist releasing 100 new generative works, paired with live electronic music. Daytime programming included a curated history of digital art (2016–2022) and a contemporary group show. 10% of primary sales donated to Ukraine relief.",
       "cryptoCitizens": "CryptoBerliners",
       "collection": [
-        {"title": "Ephemeros", "artist": "Justin Boreta"},
-        {"title": "Radarscope", "artist": "Holger Lippmann"},
-        {"title": "Stellaraum", "artist": "Alida Sun"},
-        {"title": "Parnassus", "artist": "Gabriel Massan"},
-        {"title": "Inflection", "artist": "mpkoz"},
-        {"title": "Non-Living", "artist": "Jeff Davis"},
-        {"title": "Kaleidoscope", "artist": "Loren Bednar"},
-        {"title": "Lux", "artist": "Jason Ting"},
-        {"title": "Reverse Zoology", "artist": "Ellie Pritts"},
-        {"title": "Network C", "artist": "Casey Reas"}
+        {
+          "title": "Ephemeros",
+          "artist": "Justin Boreta"
+        },
+        {
+          "title": "Radarscope",
+          "artist": "Holger Lippmann"
+        },
+        {
+          "title": "Stellaraum",
+          "artist": "Alida Sun"
+        },
+        {
+          "title": "Parnassus",
+          "artist": "Gabriel Massan"
+        },
+        {
+          "title": "Inflection",
+          "artist": "mpkoz"
+        },
+        {
+          "title": "Non-Living",
+          "artist": "Jeff Davis"
+        },
+        {
+          "title": "Kaleidoscope",
+          "artist": "Loren Bednar"
+        },
+        {
+          "title": "Lux",
+          "artist": "Jason Ting"
+        },
+        {
+          "title": "Reverse Zoology",
+          "artist": "Ellie Pritts"
+        },
+        {
+          "title": "Network C",
+          "artist": "Casey Reas"
+        }
       ],
       "additionalNotes": "Einstein on the Beach Icon Series (Robert Wilson)",
-      "curatedCollection": ["Tom Sachs", "Viktoria Modesta", "Justin Aversano", "Pussy Riot", "IX Shells", "Jesse Draxler", "Panther Modern", "Andrew Benson", "Yoshi Sodeoka", "Chris Dorland"],
-      "music": ["Moritz von Oswald", "Kangding Ray & Sigha (Neon Chambers)", "Peder Mannerfelt", "Cheng NWSH", "Vivian Koch", "Pussy Riot", "Yushh"],
-      "images": [],
-      "press": [],
+      "curatedCollection": [
+        "Tom Sachs",
+        "Viktoria Modesta",
+        "Justin Aversano",
+        "Pussy Riot",
+        "IX Shells",
+        "Jesse Draxler",
+        "Panther Modern",
+        "Andrew Benson",
+        "Yoshi Sodeoka",
+        "Chris Dorland"
+      ],
+      "music": [
+        "Moritz von Oswald",
+        "Kangding Ray & Sigha (Neon Chambers)",
+        "Peder Mannerfelt",
+        "Cheng NWSH",
+        "Vivian Koch",
+        "Pussy Riot",
+        "Yushh"
+      ],
+      "images": [
+        "images/bright-moments/05-berlin/Credit Helge Mundt - IG at studiomundt - 1099510.jpg",
+        "images/bright-moments/05-berlin/Credit Leandro Quintero - IG at leandro.quintero - CLB7426.jpg",
+        "images/bright-moments/05-berlin/Credit Yuto Yamada - IG at tokio_kid - NFT ART April-9th-18.jpg",
+        "images/bright-moments/05-berlin/Credit Yuto Yamada - IG at tokio_kid - NFT ART April-9th-24.jpg",
+        "images/bright-moments/05-berlin/Credit Yuto Yamada - IG at tokio_kid - NFT ART April-9th-6.jpg",
+        "images/bright-moments/05-berlin/Credit Yuto Yamada - IG at tokio_kid - NFT ART Opening-10.jpg"
+      ],
+      "press": [
+        {
+          "publication": "Decrypt",
+          "title": "Bright Moments DAO Brings Crypto to Life at NFT Art Berlin",
+          "link": "https://decrypt.co/98779/bright-moments-dao-brings-crypto-life-nft-art-berlin"
+        },
+        {
+          "publication": "Crack Magazine",
+          "title": "NFT Art Berlin Opens at Kraftwerk Today",
+          "link": "https://crackmagazine.net/2022/04/nft-art-berlin-opens-at-kraftwerk-today/"
+        },
+        {
+          "publication": "The Berliner",
+          "title": "NFT Art Berlin: Digital Art at Kraftwerk",
+          "link": "https://www.the-berliner.com/art/nft-art-berlin-digital-art-at-kraftwerk/"
+        },
+        {
+          "publication": "Keyi Magazine",
+          "title": "Bright Moments: NFT Art Berlin at Kraftwerk",
+          "link": "https://www.keyimagazine.com/2022/04/05/brightmoments/"
+        }
+      ],
       "order": 5
     },
     {
@@ -159,12 +290,21 @@
       "venue": "150 Wooster Street, SoHo, New York",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/new-york/100-print-cover.jpg",
-      "description": "100 on-chain generative artworks, each printed as 24\"×36\" giclée — the first draft-pick system in generative art.",
-      "fullDescription": "100 on-chain generative artworks, each pre-minted, printed as 24\"×36\" giclée on German Etching paper, framed in museum-grade acrylic, and installed at the Soho gallery. Collectors selected their NFT and physical print in person using a draft-pick system — the first of its kind in generative art. Art Blocks Playground project. Nonfigurative abstract drawing system based on principles of visual perspective, inspired by M.C. Escher.",
-      "artists": ["Ben Kovach"],
-      "partners": ["Art Blocks"],
-      "images": [],
+      "coverImage": "images/bright-moments/06-100-print/cover.jpg",
+      "description": "100 generative artworks, each printed as 24”×36” giclée — the first draft-pick system in generative art.",
+      "fullDescription": "100 on-chain generative artworks, each pre-rendered, printed as 24”×36” giclée on German Etching paper, and framed in museum-grade acrylic across the SoHo gallery walls. Collectors selected their work in person using a draft-pick system — the first of its kind in generative art. A nonfigurative abstract drawing system rooted in principles of visual perspective, inspired by M.C. Escher.",
+      "artists": [
+        "Ben Kovach"
+      ],
+      "partners": [
+        "Art Blocks"
+      ],
+      "images": [
+        "images/bright-moments/06-100-print/100PRINT DAY 2-16.jpg",
+        "images/bright-moments/06-100-print/100Print-12.jpg",
+        "images/bright-moments/06-100-print/100PrintBM-13.jpg",
+        "images/bright-moments/06-100-print/100PrintBM-27.jpg"
+      ],
       "press": [],
       "order": 6
     },
@@ -181,19 +321,43 @@
       "organizingPrinciple": "Craft",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/london/cover.jpg",
-      "description": "Six artists, five days each — intimate solo exhibitions. Before each show, the team discussed the algorithm with the artist.",
-      "fullDescription": "Six artists, five days each — intimate solo exhibitions. Before each show, the team sat down with the artist to discuss their algorithm, giving collectors context before minting.",
+      "coverImage": "images/bright-moments/07-london/cover.jpg",
+      "description": "Six artists, five days each — intimate solo exhibitions where each show began with a conversation about the algorithm.",
+      "fullDescription": "Six artists, five days each — intimate solo exhibitions where every show opened with a conversation between the team and the artist about their algorithm, giving collectors meaningful context before experiencing the work firsthand.",
       "cryptoCitizens": "CryptoLondoners",
       "collection": [
-        {"title": "Waterfalls", "artist": "Nicolas Sassoon"},
-        {"title": "The Nursery", "artist": "Sputniko"},
-        {"title": "Folio", "artist": "Matt DesLauriers"},
-        {"title": "Inprecision", "artist": "Thomas Lin Pedersen"},
-        {"title": "Off Script", "artist": "Emily Xie"},
-        {"title": "Formation", "artist": "Jeff Davis"}
+        {
+          "title": "Waterfalls",
+          "artist": "Nicolas Sassoon"
+        },
+        {
+          "title": "The Nursery",
+          "artist": "Sputniko"
+        },
+        {
+          "title": "Folio",
+          "artist": "Matt DesLauriers"
+        },
+        {
+          "title": "Inprecision",
+          "artist": "Thomas Lin Pedersen"
+        },
+        {
+          "title": "Off Script",
+          "artist": "Emily Xie"
+        },
+        {
+          "title": "Formation",
+          "artist": "Jeff Davis"
+        }
       ],
-      "images": [],
+      "images": [
+        "images/bright-moments/07-london/14_7-105.jpg",
+        "images/bright-moments/07-london/14_7-129.jpg",
+        "images/bright-moments/07-london/217_121.jpg",
+        "images/bright-moments/07-london/217_73.jpg",
+        "images/bright-moments/07-london/28_7-064.jpg"
+      ],
       "press": [],
       "order": 7
     },
@@ -210,27 +374,61 @@
       "organizingPrinciple": "Smoke & Mirrors",
       "featured": true,
       "gridSize": "tall",
-      "coverImage": "images/bright-moments/mexico-city/cover.jpg",
-      "description": "Four-day celebration: nocturnal minting of 3,000+ artworks, a celebration of death and the afterlife, 100 hours non-stop.",
-      "fullDescription": "Four-day celebration featuring nocturnal minting of 3,000+ on-chain generative artworks, a celebration of death and the afterlife, daytime educational programming, and local cuisine banquets. 100 hours non-stop minting, music, food, and learning.",
+      "coverImage": "images/bright-moments/08-mexico-city/cover.jpg",
+      "description": "A four-day nocturnal celebration — 3,000+ artworks created over 100 continuous hours, woven through music, food, and ritual.",
+      "fullDescription": "A four-day nocturnal celebration of art, death, and the afterlife. Over 3,000 generative artworks created across 100 continuous hours — woven through live music, local cuisine banquets, and daytime educational programming. The most immersive and culturally rooted activation in the series.",
       "cryptoCitizens": "CryptoMexas",
       "collection": [
-        {"artist": "Anna Lucia"},
-        {"artist": "Daniel Calderon-Arenas (DCA)"},
-        {"artist": "Iskra Velitchkova"},
-        {"artist": "Juan Rodríguez García"},
-        {"artist": "Monica Rizzolli"},
-        {"artist": "P1xelfool"},
-        {"artist": "Snowfro"},
-        {"artist": "William Mapan"},
-        {"artist": "Zach Lieberman"},
-        {"artist": "Stefano Contiero"},
-        {"artist": "Marcelo Soria-Rodriguez"}
+        {
+          "artist": "Anna Lucia"
+        },
+        {
+          "artist": "Daniel Calderon-Arenas (DCA)"
+        },
+        {
+          "artist": "Iskra Velitchkova"
+        },
+        {
+          "artist": "Juan Rodríguez García"
+        },
+        {
+          "artist": "Monica Rizzolli"
+        },
+        {
+          "artist": "P1xelfool"
+        },
+        {
+          "artist": "Snowfro"
+        },
+        {
+          "artist": "William Mapan"
+        },
+        {
+          "artist": "Zach Lieberman"
+        },
+        {
+          "artist": "Stefano Contiero"
+        },
+        {
+          "artist": "Marcelo Soria-Rodriguez"
+        }
       ],
       "educational": "Casey Reas + Zach Lieberman (conditional drawing workshop)",
       "additionalNotes": "La Revelación Competition (open call)",
-      "images": [],
-      "press": [],
+      "images": [
+        "images/bright-moments/08-mexico-city/Prim-4.jpg",
+        "images/bright-moments/08-mexico-city/Prim-41.jpg",
+        "images/bright-moments/08-mexico-city/Prim-57.jpg",
+        "images/bright-moments/08-mexico-city/Prim-59.jpg",
+        "images/bright-moments/08-mexico-city/Prim-7.jpg"
+      ],
+      "press": [
+        {
+          "publication": "AVC",
+          "title": "NFT Art CDMX",
+          "link": "https://avc.com/2022/11/nft-art-cdmx/"
+        }
+      ],
       "order": 8
     },
     {
@@ -245,55 +443,54 @@
       "venue": "52 Walker Street, 3rd Floor, New York",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/new-york/velum-cover.jpg",
-      "description": "100-edition generative series blending abstract expressionism and pop art into a 21st-century algorithm.",
-      "fullDescription": "100-edition generative series asking \"what do you get if you blend the visual DNA of two mid-20th-century artistic movements into a 21st-century generative art algorithm?\" Harvey Rayner (patterndotco) incorporated elements from Rothko, Jackson Pollock, and Lichtenstein — stealing from the visual lexicon of abstract expressionism and pop art. First-come-first-served IRL minting throughout the night. Open bar, light catering. Mint passes on secondary via OpenSea.\n\nAmeesia assisted in social media and sale promotion, exhibition design and gallery setup. Hosted the event and minting process throughout the evening, worked directly alongside the artist to curate the space.",
-      "artists": ["Harvey Rayner (patterndotco)"],
-      "images": [],
+      "coverImage": "images/bright-moments/09-velum/cover.jpg",
+      "description": "100 generative works blending the visual DNA of abstract expressionism and pop art into a 21st-century algorithm.",
+      "fullDescription": "100 generative works asking: what happens when you blend the visual DNA of two mid-20th-century movements into a 21st-century algorithm? Harvey Rayner incorporated elements from Rothko, Pollock, and Lichtenstein — borrowing from the lexicon of abstract expressionism and pop art to build something entirely new. First-come-first-served live minting throughout the night. Assisted in social media and sale promotion, exhibition design and gallery setup. Hosted the event and minting process throughout the evening, working directly alongside the artist to curate the space.",
+      "artists": [
+        "Harvey Rayner (patterndotco)"
+      ],
+      "images": [
+        "images/bright-moments/09-velum/velum-42.jpg",
+        "images/bright-moments/09-velum/velum-71.jpg",
+        "images/bright-moments/09-velum/velum-75.jpg",
+        "images/bright-moments/09-velum/velum-84.jpg"
+      ],
       "press": [],
       "order": 9
     },
     {
-      "id": "bm-klangteppich",
-      "title": "Klangteppich — Andreas Rau",
+      "id": "bm-fsm",
+      "title": "FSM — Julian Hespenheide",
       "category": "Bright Moments Standalone Show",
       "year": "2023",
-      "dateRange": "March 17 – April 4, 2023",
+      "dateRange": "July 7–21, 2023",
       "role": "Marketing, Production, Curation, Creative Direction",
       "organization": "Bright Moments",
       "location": "Berlin, Germany",
       "venue": "Auguststraße 86, Berlin (Bright Moments Berlin gallery)",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/berlin/klangteppich-cover.jpg",
-      "description": "A multisensory experience: 100 jacquard-woven pieces with live-generated visuals and music.",
-      "fullDescription": "A multisensory experience inviting viewers to touch, see, and listen. 100 jacquard-woven pieces accompanied by live-generated visuals and music. The algorithm simultaneously produces the imagery, sound, and instructions for a digital jacquard loom — every single frame of the animation can be woven. NFT holders can order a physical tapestry (66 × 106 cm, 100% wool, woven in Norway). Collaboration with fxhash, Tezos, and despace Berlin as part of Berlin GenArt Month.",
-      "artists": ["Andreas Rau"],
-      "partners": ["fxhash", "Tezos", "despace Berlin"],
-      "images": [],
+      "coverImage": "images/bright-moments/10-fsm/cover.jpg",
+      "description": "A visual grid-system based on autopoiesis — 100 generative editions displayed across eight synchronized screens.",
+      "fullDescription": "FSM (Finite-State Machine) is a visual grid-system based on autopoiesis, the principle of self-organization through self-reproduction central to cybernetics. The grid operates along three axes — horizontal, vertical, and diagonal — forming the machine’s parametric space. Agents and configurations appear in specific segments at predetermined intervals, creating a self-organizing system. 100 generative editions produced as a hybrid online/offline release, exhibited across eight screens in portrait and landscape configurations. Photography by Helge Mundt.",
+      "artists": [
+        "Julian Hespenheide"
+      ],
+      "partners": [
+        "fxhash"
+      ],
+      "images": [
+        "images/bright-moments/10-fsm/_1115757 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115770 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115776 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115782 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115788 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115840 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115864 - Credit Helge Mundt.jpg",
+        "images/bright-moments/10-fsm/_1115870 - Credit Helge Mundt.jpg"
+      ],
       "press": [],
       "order": 10
-    },
-    {
-      "id": "bm-metropolis",
-      "title": "Metropolis — mpkoz × Art Blocks",
-      "category": "Bright Moments Standalone Show",
-      "year": "2023",
-      "dateRange": "March 2023",
-      "role": "Marketing, Production, Curation, Creative Direction",
-      "organization": "Bright Moments",
-      "location": "New York → Berlin → London → Mexico City → Los Angeles",
-      "venue": "Five-city tour (10 days)",
-      "featured": true,
-      "gridSize": "normal",
-      "coverImage": "images/bright-moments/metropolis-cover.jpg",
-      "description": "First Art Blocks × Bright Moments collaboration — 940 pieces across five cities, three continents in ten days.",
-      "fullDescription": "First Art Blocks × Bright Moments collaboration. 940 generative art pieces based on architectural influences from five cities, each requiring an in-person activation. The team crossed three continents in ten days.",
-      "artists": ["mpkoz (Michael Kozlowski)"],
-      "partners": ["Art Blocks"],
-      "images": [],
-      "press": [],
-      "order": 11
     },
     {
       "id": "bm-agar",
@@ -307,12 +504,20 @@
       "venue": "204 Front Street, The Seaport, New York",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/new-york/agar-cover.jpg",
-      "description": "100 generative works reimagining pixel art — collectors named their color palette IRL at the Seaport gallery opening.",
-      "fullDescription": "Debuted at the opening of Bright Moments' semi-permanent Seaport gallery. 100 generative works reimagining pixel art's formal constraints through dynamic compositions of circles and squares on a grid, using 100 different color palettes. Collectors named their palette IRL. The space featured test outputs in intimate small frames, floor-to-ceiling fabric prints visible from outside, and a double-story tape installation forming a grid throughout the space. Launched during NFT.NYC week.",
-      "artists": ["Emily Edelman"],
+      "coverImage": "images/bright-moments/12-agar/cover.jpg",
+      "description": "100 generative works reimagining pixel art — collectors named their color palette in person at the Seaport gallery opening.",
+      "fullDescription": "Debuted at the opening of Bright Moments’ semi-permanent Seaport gallery. 100 generative works reimagining pixel art’s formal constraints through dynamic compositions of circles and squares on a grid, rendered across 100 distinct color palettes. Collectors named their palette in person. The space featured intimate test outputs in small frames, floor-to-ceiling fabric prints visible from the street, and a double-story tape installation forming a grid throughout the interior.",
+      "artists": [
+        "Emily Edelman"
+      ],
       "additionalNotes": "Also shown at Bright Moments London, 2023. Emily Edelman is RISD Graphic Design.",
-      "images": [],
+      "images": [
+        "images/bright-moments/12-agar/AGAR-105.jpg",
+        "images/bright-moments/12-agar/AGAR-131.jpg",
+        "images/bright-moments/12-agar/AGAR-68.jpg",
+        "images/bright-moments/12-agar/AGAR-75.jpg",
+        "images/bright-moments/12-agar/AGAR-92.jpg"
+      ],
       "press": [],
       "order": 12
     },
@@ -329,30 +534,113 @@
       "organizingPrinciple": "Omakase",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/bright-moments/tokyo/cover.jpg",
-      "description": "Community-voted destination. Three parallel programs, nightly minting overlooking Shibuya Crossing, 4,000+ NFTs minted.",
-      "fullDescription": "Community-voted destination (80% of votes). Three parallel programs across contrasting venues: nightly minting in a skyscraper overlooking Shibuya Crossing, daytime gallery at Digital Garage (Sarugakucho), and educational sessions. Over 4,000 freshly minted NFTs celebrated in an audio-visual spectacle at one of Tokyo's hottest nightclubs.",
+      "coverImage": "images/bright-moments/13-tokyo/cover.JPG",
+      "description": "Community-voted destination — three parallel programs across contrasting venues, nightly minting overlooking Shibuya Crossing.",
+      "fullDescription": "Community-voted destination, chosen with 80% of votes. Three parallel programs across contrasting venues: nightly minting in a skyscraper overlooking Shibuya Crossing, a daytime gallery experience in a traditional Japanese house and garden, and educational sessions bridging local and international communities. Over 4,000 freshly generated works celebrated in an audiovisual spectacle at one of Tokyo’s most renowned nightclubs.",
       "cryptoCitizens": "CryptoTokyoites",
       "collection": [
-        {"sectionTitle": "Tokyo Collection (11 generative artists)", "artists": ["Alexis André", "Jeff Davis", "Kjetil Golid", "Kim Asendorf", "Lars Wander", "Licia He", "Melissa Wiederrecht", "Spongenuity", "Takawo", "Qubibi", "Zancan"]}
+        {
+          "sectionTitle": "Tokyo Collection (11 generative artists)",
+          "artists": [
+            "Alexis André",
+            "Jeff Davis",
+            "Kjetil Golid",
+            "Kim Asendorf",
+            "Lars Wander",
+            "Licia He",
+            "Melissa Wiederrecht",
+            "Spongenuity",
+            "Takawo",
+            "Qubibi",
+            "Zancan"
+          ]
+        }
       ],
-      "aiCollection": ["Claire Silver", "Ganbrood", "Helena Sarin", "Holly Herndon & Mat Dryhurst", "Huemin", "Ivona Tau", "Jenni Pasanen", "Kevin Abosch", "Mario Klingemann", "Pindar Van Arman", "Sofia Crespo"],
+      "aiCollection": [
+        "Claire Silver",
+        "Ganbrood",
+        "Helena Sarin",
+        "Holly Herndon & Mat Dryhurst",
+        "Huemin",
+        "Ivona Tau",
+        "Jenni Pasanen",
+        "Kevin Abosch",
+        "Mario Klingemann",
+        "Pindar Van Arman",
+        "Sofia Crespo"
+      ],
       "japaneseContemporaryCollection": [
-        {"title": "Misalignment", "artist": "A Mashiro"},
-        {"title": "Metabolic Metropolis", "artist": "A.A. Murakami"},
-        {"title": "T-shirt (BM collab)", "artist": "AMBUSH (VERBAL & YOON)"},
-        {"artist": "Daito Manabe", "note": "music NFTs"},
-        {"title": "Neural Fad", "artist": "Emi Kusano"},
-        {"title": "Kawaii Skull", "artist": "Joi Ito"},
-        {"title": "Inhabitants", "artist": "Kaoru Tanaka"},
-        {"title": "PSY15", "artist": "Kazuhiro Aihara"},
-        {"title": "Square Symphony", "artist": "Okazz"},
-        {"title": "Bright Girls", "artist": "Saeko Ehara"},
-        {"title": "Hanabi", "artist": "ykxotkx × Suntory"}
+        {
+          "title": "Misalignment",
+          "artist": "A Mashiro"
+        },
+        {
+          "title": "Metabolic Metropolis",
+          "artist": "A.A. Murakami"
+        },
+        {
+          "title": "T-shirt (BM collab)",
+          "artist": "AMBUSH (VERBAL & YOON)"
+        },
+        {
+          "artist": "Daito Manabe",
+          "note": "music NFTs"
+        },
+        {
+          "title": "Neural Fad",
+          "artist": "Emi Kusano"
+        },
+        {
+          "title": "Kawaii Skull",
+          "artist": "Joi Ito"
+        },
+        {
+          "title": "Inhabitants",
+          "artist": "Kaoru Tanaka"
+        },
+        {
+          "title": "PSY15",
+          "artist": "Kazuhiro Aihara"
+        },
+        {
+          "title": "Square Symphony",
+          "artist": "Okazz"
+        },
+        {
+          "title": "Bright Girls",
+          "artist": "Saeko Ehara"
+        },
+        {
+          "title": "Hanabi",
+          "artist": "ykxotkx × Suntory"
+        }
       ],
       "educational": "Art Blocks Chat (Seth, Jeff Davis, Kjetil Golid), Matt DesLauriers (Generative Geometry workshop), Pace Verso & AA Murakami",
-      "images": [],
-      "press": [],
+      "images": [
+        "images/bright-moments/13-tokyo/L1070885 - Credit Yuto Yamada.JPG",
+        "images/bright-moments/13-tokyo/L1070989 - Credit Yuto Yamada.JPG",
+        "images/bright-moments/13-tokyo/L1080653 - Credit Yuto Yamada.JPG",
+        "images/bright-moments/13-tokyo/L1090045 - Credit Yuto Yamada.JPG",
+        "images/bright-moments/13-tokyo/L1090233 - Credit Yuto Yamada.JPG",
+        "images/bright-moments/13-tokyo/L1090247 - Credit Yuto Yamada.JPG"
+      ],
+      "press": [
+        {
+          "publication": "Right Click Save",
+          "title": "Generative Art and Japan's Bright Future",
+          "link": "https://www.rightclicksave.com/article/generative-art-and-japans-bright-future"
+        },
+        {
+          "publication": "MASSAGE Magazine",
+          "title": "Bright Moments Tokyo: Behind the Scenes",
+          "link": "https://themassage.jp/en/archives/18474"
+        },
+        {
+          "publication": "Decrypt",
+          "title": "Bright Moments Transports Live NFT Art Minting Experience to Tokyo",
+          "link": "https://decrypt.co/138965/bright-moments-transports-live-nft-art-minting-experience-tokyo"
+        }
+      ],
       "order": 13
     },
     {
@@ -367,62 +655,21 @@
       "venue": "Auguststraße 86, Berlin (Bright Moments Berlin gallery)",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/berlin/totems-cover.jpg",
-      "description": "100 generative artworks created from collectors' heart rhythms using biofeedback sensors.",
-      "fullDescription": "100 unique generative artworks created from collectors' heart rhythms. Visitors participated in an interactive ritual using biofeedback sensors, with the heartbeat data generating geometric \"totem\" shapes — each as unique as the individual who created it. Collectors could upload their own heart rate or receive a randomized Totem. Collaboration between Beer van Geer (interactive media artist) and Julie de Ruijter (Studio Poca, ritualistic artworks). Each NFT features a \"heartsquiggle\" from real biometric data.",
-      "artists": ["Beervangeer (Beer van Geer)", "Studio Poca (Julie de Ruijter)"],
-      "images": [],
+      "coverImage": "images/bright-moments/14-totems/cover.jpg",
+      "description": "100 generative artworks created from collectors’ heart rhythms — biofeedback sensors translating the body into geometric form.",
+      "fullDescription": "100 unique generative artworks born from collectors’ own heart rhythms. Visitors participated in an interactive ritual using biofeedback sensors, with heartbeat data generating geometric totem shapes — each as singular as the person who made it. A collaboration between Beer van Geer (interactive media) and Julie de Ruijter of Studio Poca (ritualistic artworks), translating the body into code, and code into symbolic form.",
+      "artists": [
+        "Beervangeer (Beer van Geer)",
+        "Studio Poca (Julie de Ruijter)"
+      ],
+      "images": [
+        "images/bright-moments/14-totems/_1115897 - Credit Helge Mundt.jpg",
+        "images/bright-moments/14-totems/_1115909 - Credit Helge Mundt.jpg",
+        "images/bright-moments/14-totems/_1115992 - Credit Helge Mundt.jpg",
+        "images/bright-moments/14-totems/_1116063 - Credit Helge Mundt.jpg"
+      ],
       "press": [],
       "order": 14
-    },
-    {
-      "id": "bm-923-empty-rooms",
-      "title": "923 Empty Rooms — Casey Reas",
-      "category": "Bright Moments Standalone Show",
-      "year": "2023",
-      "dateRange": "August 14–19, 2023",
-      "role": "Marketing, Production, Curation, Creative Direction",
-      "organization": "Bright Moments",
-      "location": "Six-city simultaneous tour",
-      "venue": "Tokyo → Berlin → London → New York → Mexico City → Los Angeles",
-      "featured": true,
-      "gridSize": "wide",
-      "coverImage": "images/bright-moments/923-empty-rooms-cover.jpg",
-      "description": "924-edition series across six cities simultaneously — each gallery assigned a fundamental colorform. Second Art Blocks × BM collaboration.",
-      "fullDescription": "The second Art Blocks × Bright Moments collaboration. 924-edition generative series by Casey Reas, evolving from An Empty Room, originally commissioned by LACMA for Coded: Art Enters the Computer Age, 1952–1982 (a response to Victor Vasarely's unrealized proposal for LACMA's original Art & Technology Program, 1967–1971). Each Bright Moments gallery was assigned a fundamental colorform (Sun/Tokyo, Shard/Berlin, Cargo/London, Hive/New York, Pyramid/Mexico City, Moon/Los Angeles) — together creating 923 unique combinations. 150 new outputs minted each day via dutch auction, one city per day, galleries gradually filling with works across the week.\n\nAmeesia coordinated the Berlin exhibition — led the entire Berlin stop including curation, exhibition design, gallery setup, directed the live stream, and facilitated the event.",
-      "artists": ["Casey Reas"],
-      "partners": ["Art Blocks"],
-      "colorforms": [
-        {"city": "Tokyo", "form": "Sun"},
-        {"city": "Berlin", "form": "Shard"},
-        {"city": "London", "form": "Cargo"},
-        {"city": "New York", "form": "Hive"},
-        {"city": "Mexico City", "form": "Pyramid"},
-        {"city": "Los Angeles", "form": "Moon"}
-      ],
-      "images": [],
-      "press": [],
-      "order": 15
-    },
-    {
-      "id": "bm-cantera",
-      "title": "Cantera — mrkswcz",
-      "category": "Bright Moments Standalone Show",
-      "year": "2023",
-      "dateRange": "September 2023",
-      "role": "Marketing, Production, Curation, Creative Direction",
-      "organization": "Bright Moments",
-      "location": "Berlin, Germany",
-      "venue": "Auguststraße 86, Berlin (Bright Moments Berlin gallery)",
-      "featured": true,
-      "gridSize": "normal",
-      "coverImage": "images/bright-moments/berlin/cantera-cover.jpg",
-      "description": "100-piece generative collection inspired by a town consumed by iron ore extraction — replacing atoms with bits.",
-      "fullDescription": "100-piece generative collection inspired by the disappearance of Gallarta, a town 13 km northwest of Bilbao consumed by iron ore extraction. In aerial photos from 1945, dozens of buildings line the main street; by 1977 the town was gone, replaced by a chasm. The mine stopped being profitable just six years later. Cantera brings these stories of erasure into a non-physical, generative space — replacing atoms of stone and soil with digital bits.",
-      "artists": ["mrkswcz"],
-      "images": [],
-      "press": [],
-      "order": 16
     },
     {
       "id": "bm-buenos-aires",
@@ -437,28 +684,87 @@
       "organizingPrinciple": "On chain / Off line",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/bright-moments/buenos-aires/cover.jpg",
-      "description": "The most theatrical production — an 8-hour blockchain-driven analog stage performance with no screens.",
-      "fullDescription": "The most theatrical production in the series. An 8-hour performance revealing CryptoPatagonians on an elaborate analog stage system (no screens), powered by local performers and artists, programmed by blockchain data. The team worked with the local Argentine generative art community from the start, meeting artists through a dinner organized by Juan Pedro Vallejo during a June scouting trip.",
+      "coverImage": "images/bright-moments/17-buenos-aires/cover.jpg",
+      "description": "The most theatrical production in the series — an 8-hour stage performance driven by live data, with no screens.",
+      "fullDescription": "The most theatrical production in the series. An 8-hour performance revealing generative portraits on an elaborate analog stage system — no screens — powered by local performers and artists, with each reveal programmed by live on-chain data. Collaborated closely with the Argentine generative art community from the start, meeting artists through an intimate dinner organized during a June scouting trip.",
       "cryptoCitizens": "CryptoPatagonians",
       "collection": [
-        {"title": "Paperwork", "artist": "Ana María Caballero", "note": "Performance-based generative AI paper sculptures from live poetry responses"},
-        {"title": "Vértigo Las Luces", "artist": "Guido Corallo", "note": "Particle systems inspired by long-exposure photographs of Buenos Aires"},
-        {"title": "Cuadro", "artist": "Jeff Davis", "note": "Visual proportion, procedural grids + archival pigment prints for collectors"},
-        {"title": "Dolor Gravitacional", "artist": "Jorge Ledezma", "note": "Gravity, creation and destruction"},
-        {"title": "Subtraction, Reconfiguration", "artist": "Juan Pedro Vallejo", "note": "Primitive elements: points, lines, intersected geometries"},
-        {"title": "Delirium Blooms", "artist": "Leonardo Solaas", "note": "Algorithmic fever-dream flowers for Argentina"},
-        {"title": "Karne", "artist": "Lolo Armdz", "note": "Meat simulations exploring Argentine identity and synthetic meat culture"},
-        {"title": "BLINK", "artist": "Patricio Gonzalez Vivo & Jen Lowe", "note": "Real-time generative vanitas, thin film interference bubbles"},
-        {"title": "Souls from Gaia", "artist": "Tamara Moura Costa", "note": "Cosmic continuity between living and non-living"},
-        {"title": "Desde Lejos", "artist": "Thomas Noya", "note": "Fragmented pixel sceneries of distant memories"}
+        {
+          "title": "Paperwork",
+          "artist": "Ana María Caballero",
+          "note": "Performance-based generative AI paper sculptures from live poetry responses"
+        },
+        {
+          "title": "Vértigo Las Luces",
+          "artist": "Guido Corallo",
+          "note": "Particle systems inspired by long-exposure photographs of Buenos Aires"
+        },
+        {
+          "title": "Cuadro",
+          "artist": "Jeff Davis",
+          "note": "Visual proportion, procedural grids + archival pigment prints for collectors"
+        },
+        {
+          "title": "Dolor Gravitacional",
+          "artist": "Jorge Ledezma",
+          "note": "Gravity, creation and destruction"
+        },
+        {
+          "title": "Subtraction, Reconfiguration",
+          "artist": "Juan Pedro Vallejo",
+          "note": "Primitive elements: points, lines, intersected geometries"
+        },
+        {
+          "title": "Delirium Blooms",
+          "artist": "Leonardo Solaas",
+          "note": "Algorithmic fever-dream flowers for Argentina"
+        },
+        {
+          "title": "Karne",
+          "artist": "Lolo Armdz",
+          "note": "Meat simulations exploring Argentine identity and synthetic meat culture"
+        },
+        {
+          "title": "BLINK",
+          "artist": "Patricio Gonzalez Vivo & Jen Lowe",
+          "note": "Real-time generative vanitas, thin film interference bubbles"
+        },
+        {
+          "title": "Souls from Gaia",
+          "artist": "Tamara Moura Costa",
+          "note": "Cosmic continuity between living and non-living"
+        },
+        {
+          "title": "Desde Lejos",
+          "artist": "Thomas Noya",
+          "note": "Fragmented pixel sceneries of distant memories"
+        }
       ],
       "openingReceptionMints": [
-        {"title": "ni aquí ni allá", "artist": "Thomas Trail", "note": "Argentine-American filmmaker, synthography of Buenos Aires"},
-        {"title": "Raices", "artist": "Julián Puppo", "note": "fxhash, introspective return to origins"}
+        {
+          "title": "ni aquí ni allá",
+          "artist": "Thomas Trail",
+          "note": "Argentine-American filmmaker, synthography of Buenos Aires"
+        },
+        {
+          "title": "Raices",
+          "artist": "Julián Puppo",
+          "note": "fxhash, introspective return to origins"
+        }
       ],
-      "keyHighlights": ["8-hour blockchain-driven theater performance (analog, no screens)", "HASHMARKS — 0xDeafbeef in Patagonia (see standalone entry)"],
-      "images": [],
+      "keyHighlights": [
+        "8-hour blockchain-driven theater performance (analog, no screens)",
+        "HASHMARKS — 0xDeafbeef in Patagonia (see standalone entry)"
+      ],
+      "images": [
+        "images/bright-moments/17-buenos-aires/20231104BON05424-01BON05424-01 - Credit Martin Bonetto.jpg",
+        "images/bright-moments/17-buenos-aires/20231104BON05770-01BON05770-01 - Credit Martin Bonetto.jpg",
+        "images/bright-moments/17-buenos-aires/20231104BON06263-01BON06263-01 - Credit Martin Bonetto.jpg",
+        "images/bright-moments/17-buenos-aires/DIA2_brightmomentsba_fotodemichelisluciana-5578.jpg",
+        "images/bright-moments/17-buenos-aires/DIA2_brightmomentsba_fotodemichelisluciana-5615.jpg",
+        "images/bright-moments/17-buenos-aires/_IMP5650 - Credit Ivan Pinto.jpg",
+        "images/bright-moments/17-buenos-aires/_IMP5965 - Credit Ivan Pinto.jpg"
+      ],
       "press": [],
       "order": 17
     },
@@ -474,12 +780,25 @@
       "venue": "Patagonia, Argentina",
       "featured": true,
       "gridSize": "tall",
-      "coverImage": "images/bright-moments/buenos-aires/hashmarks-cover.jpg",
-      "description": "Collectors traveled to the literal end of the world for 0xDeafbeef's HASHMARKS — the most extreme IRL minting.",
-      "fullDescription": "Collectors traveled to the literal end of the world for 0xDeafbeef's HASHMARKS — the most extreme expression of live minting in the series. Collectors selected their physical piece at a follow-up event at Station3 in New York. Art transcending screens entirely.",
-      "artists": ["0xDeafbeef"],
-      "images": [],
-      "press": [],
+      "coverImage": "images/bright-moments/18-hashmarks/cover.jpg",
+      "description": "Collectors traveled to the literal end of the world — the most extreme expression of live art creation in the series.",
+      "fullDescription": "Collectors traveled to the literal end of the world for 0xDeafbeef’s HASHMARKS — the most extreme expression of live creation in the series. Physical works selected at a follow-up event at Station3 in New York. Art that transcends the screen entirely.",
+      "artists": [
+        "0xDeafbeef"
+      ],
+      "images": [
+        "images/bright-moments/18-hashmarks/BRIGHT MOMENTS 07-11-23 @jl.uribe-26.jpg",
+        "images/bright-moments/18-hashmarks/BRIGHT MOMENTS 07-11-23 @jl.uribe-33.jpg",
+        "images/bright-moments/18-hashmarks/BRIGHT MOMENTS 07-11-23 @jl.uribe-36.jpg",
+        "images/bright-moments/18-hashmarks/BRIGHT MOMENTS 07-11-23 @jl.uribe-38.jpg"
+      ],
+      "press": [
+        {
+          "publication": "Decrypt",
+          "title": "Bright Moments in Patagonia: How an NFT Artist Lured Collectors to a Remote Boulder",
+          "link": "https://decrypt.co/207902/bright-moments-patagonia-how-nft-artist-lured-collectors-remote-boulder"
+        }
+      ],
       "order": 18
     },
     {
@@ -494,13 +813,37 @@
       "venue": "Three-city tour",
       "featured": true,
       "gridSize": "wide",
-      "coverImage": "images/bright-moments/techno-animism-cover.jpg",
-      "description": "1,000 curated AI fashion photographs fusing Japanese animism with technology — Ameesia directed the three-city tour.",
-      "fullDescription": "An open-edition, curated AI art collection by Japanese multidisciplinary artist Emi Kusano, exploring the fusion of traditional Japanese animistic beliefs with cutting-edge technology. In Japan's cultural imagination, kami (spirits) reside not only in forests and temples but also in silicon and circuits. 1,000 curated outputs — a fictional archive of AI fashion photographs interwoven with pre-internet Japanese magazine culture. Collectors minted three pieces at a time. Collection opened December 6, closed December 18, coinciding with the IRL events. Art Blocks collaboration.\n\nAmeesia served as Director of the three-city tour. Led every aspect: entire social media campaign, helped curate the collection, co-developed the collection name, secured funding and venues, booked DJs, and managed production from start to finish across all three cities.",
-      "artists": ["Emi Kusano"],
-      "partners": ["Art Blocks"],
+      "coverImage": "images/bright-moments/19-techno-animism/cover.jpg",
+      "description": "1,000 curated AI fashion photographs fusing Japanese animism with technology — directed across a three-city tour.",
+      "fullDescription": "An open-edition, curated AI art collection by Japanese multidisciplinary artist Emi Kusano, exploring the fusion of traditional Japanese animistic beliefs with cutting-edge technology. In Japan’s cultural imagination, kami (spirits) reside not only in forests and temples but also in silicon and circuits. 1,000 curated outputs form a fictional archive of AI fashion photographs interwoven with pre-internet Japanese magazine culture. Directed the three-city tour end to end: led the social media campaign, helped curate the collection, co-developed the collection name, secured funding and venues, booked DJs, and managed production across all three cities.",
+      "artists": [
+        "Emi Kusano"
+      ],
+      "partners": [
+        "Art Blocks"
+      ],
+      "videos": [
+        {
+          "title": "Techno-Animism — New York",
+          "youtubeId": "_xObbFEpew4"
+        },
+        {
+          "title": "Techno-Animism — Tokyo",
+          "youtubeId": "mdNMz_iZEXA"
+        },
+        {
+          "title": "Techno-Animism — Miami",
+          "youtubeId": "antRUwuDRKE"
+        }
+      ],
       "images": [],
-      "press": [],
+      "press": [
+        {
+          "publication": "Yokogao Magazine",
+          "title": "Decoding Japan's Friendly Relationship With Robots Through Emi Kusano's Techno-Animism",
+          "link": "https://www.yokogaomag.com/editorial/emi-kusano-robot-ai-art"
+        }
+      ],
       "order": 19
     },
     {
@@ -515,34 +858,108 @@
       "venue": "Galerie Joseph, 7 Rue Bailly, Le Marais, Paris",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/bright-moments/paris/cover.jpg",
-      "description": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all live minted across the global journey.",
-      "fullDescription": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all live minted across the global journey. 19 artists each releasing 100-edition code-based projects.",
+      "coverImage": "images/bright-moments/20-paris/cover.jpg",
+      "description": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all created live across the global journey.",
+      "fullDescription": "Completed the 100 × 100 — 100 algorithms with 100 outputs each, all created live across the global journey. 19 artists each releasing 100-edition code-based projects, bringing the full arc of the series to its penultimate chapter.",
       "cryptoCitizens": "CryptoParisians",
       "collection": [
-        {"title": "Flore Perdue", "artist": "Linda Dounia"},
-        {"title": "Whispering Sands", "artist": "Obvious"},
-        {"title": "le travail des rêves", "artist": "aurèce vettier"},
-        {"title": "Seeing Voices", "artist": "Lauren Lee McCarthy"},
-        {"title": "Binary Bricolage", "artist": "Neptunian Glitter Ball"},
-        {"title": "Kinoko Dreams", "artist": "Richard Nadler"},
-        {"title": "Aura", "artist": "Roope Rainisto"},
-        {"title": "Notes", "artist": "Maya Man"},
-        {"title": "Encore", "artist": "rudxane"},
-        {"title": "The Destination", "artist": "Camille Roux × Matthieu Segret"},
-        {"title": "Brava", "artist": "Anna Carreras"},
-        {"title": "Figs.", "artist": "Sarah Ridgley"},
-        {"title": "Lightbreak", "artist": "Luke Shannon"},
-        {"title": "a temporary arrangement of material", "artist": "Martin Grasser"},
-        {"title": "Odysseys", "artist": "Florian Zumbrunn"},
-        {"title": "Enlace", "artist": "Aranda Lasch"},
-        {"title": "Descent", "artist": "Andreas Gysin"},
-        {"title": "Topology", "artist": "Rikard Lindström"},
-        {"title": "SPINᵗ", "artist": "NmbersInMotion"},
-        {"title": "Liminal", "artist": "Julien Espagnon"}
+        {
+          "title": "Flore Perdue",
+          "artist": "Linda Dounia"
+        },
+        {
+          "title": "Whispering Sands",
+          "artist": "Obvious"
+        },
+        {
+          "title": "le travail des rêves",
+          "artist": "aurèce vettier"
+        },
+        {
+          "title": "Seeing Voices",
+          "artist": "Lauren Lee McCarthy"
+        },
+        {
+          "title": "Binary Bricolage",
+          "artist": "Neptunian Glitter Ball"
+        },
+        {
+          "title": "Kinoko Dreams",
+          "artist": "Richard Nadler"
+        },
+        {
+          "title": "Aura",
+          "artist": "Roope Rainisto"
+        },
+        {
+          "title": "Notes",
+          "artist": "Maya Man"
+        },
+        {
+          "title": "Encore",
+          "artist": "rudxane"
+        },
+        {
+          "title": "The Destination",
+          "artist": "Camille Roux × Matthieu Segret"
+        },
+        {
+          "title": "Brava",
+          "artist": "Anna Carreras"
+        },
+        {
+          "title": "Figs.",
+          "artist": "Sarah Ridgley"
+        },
+        {
+          "title": "Lightbreak",
+          "artist": "Luke Shannon"
+        },
+        {
+          "title": "a temporary arrangement of material",
+          "artist": "Martin Grasser"
+        },
+        {
+          "title": "Odysseys",
+          "artist": "Florian Zumbrunn"
+        },
+        {
+          "title": "Enlace",
+          "artist": "Aranda Lasch"
+        },
+        {
+          "title": "Descent",
+          "artist": "Andreas Gysin"
+        },
+        {
+          "title": "Topology",
+          "artist": "Rikard Lindström"
+        },
+        {
+          "title": "SPINᵗ",
+          "artist": "NmbersInMotion"
+        },
+        {
+          "title": "Liminal",
+          "artist": "Julien Espagnon"
+        }
       ],
-      "artistInResidence": {"title": "Venster", "artist": "Harm van den Dorpel"},
-      "images": [],
+      "artistInResidence": {
+        "title": "Venster",
+        "artist": "Harm van den Dorpel"
+      },
+      "images": [
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00308.jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00323 (1).jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00546 (1).jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00741 (1).jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00769.jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00811.jpg",
+        "images/bright-moments/20-paris/brightmoments-day1_phdemichelisluciana-00814.jpg",
+        "images/bright-moments/20-paris/brightmoments-day4_phdemichelisluciana-01297.jpg",
+        "images/bright-moments/20-paris/brightmoments-day4_phdemichelisluciana-01341.jpg",
+        "images/bright-moments/20-paris/brightmoments-day4_phdemichelisluciana-01355.jpg"
+      ],
       "press": [],
       "order": 20
     },
@@ -558,20 +975,62 @@
       "venue": "Scuola Grande San Giovanni Evangelista, Venice, Italy",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/bright-moments/venice/cover.jpg",
-      "description": "From Venice Beach to Venice, Italy. The emotional close of a three-year, ten-city journey. 10,000 CryptoCitizens completed.",
-      "fullDescription": "From Venice Beach to Venice, Italy. The emotional close of a three-year, ten-city journey. 60 artists, walk-on songs, theatrical reveals in a grand hall, works displayed on screens resembling 18th-century Venetian mirrors. 10,000 CryptoCitizens completed. Also featured the Dream Cathedral, an interactive AI experience by Huemin & Ganbrood, site-specific for the Biennale (open April 17 – June 2).",
+      "coverImage": "images/bright-moments/21-venice-italy-finale/cover.jpg",
+      "description": "From Venice Beach to Venice, Italy — the emotional close of a three-year, ten-city journey. 10,000 generative portraits completed.",
+      "fullDescription": "From Venice Beach to Venice, Italy. The emotional close of a three-year, ten-city journey. 60 artists, walk-on songs, theatrical reveals in a grand hall, works displayed on screens resembling 18th-century Venetian mirrors. 10,000 generative CryptoCitizen portraits completed. Also featured the Dream Cathedral, an interactive AI experience by Huemin & Ganbrood, installed site-specifically for the Biennale.",
       "cryptoCitizens": "CryptoVenezians",
-      "artists": ["Alexis André", "Anna Lucia", "DCA", "Emi Kusano", "Fingacode", "Holger Lippmann", "Iskra Velitchkova", "Juan Rodríguez García", "Kim Asendorf", "Kjetil Golid", "Lars Wander", "Leonardo Solaas", "Licia He", "Monica Rizzolli", "Nicolas Daniel", "Piter Pasma", "Shunsuke Takawo", "Stefano Contiero", "Zach Lieberman", "0xDeafbeef", "and more"],
+      "artists": [
+        "Alexis André",
+        "Anna Lucia",
+        "DCA",
+        "Emi Kusano",
+        "Fingacode",
+        "Holger Lippmann",
+        "Iskra Velitchkova",
+        "Juan Rodríguez García",
+        "Kim Asendorf",
+        "Kjetil Golid",
+        "Lars Wander",
+        "Leonardo Solaas",
+        "Licia He",
+        "Monica Rizzolli",
+        "Nicolas Daniel",
+        "Piter Pasma",
+        "Shunsuke Takawo",
+        "Stefano Contiero",
+        "Zach Lieberman",
+        "0xDeafbeef",
+        "and more"
+      ],
       "additionalNotes": "Dream Cathedral — interactive AI experience by Huemin & Ganbrood, site-specific for the Biennale",
-      "images": [],
-      "press": [],
+      "images": [
+        "images/bright-moments/21-venice-italy-finale/bmveniceday3_phdemichelisluciana-2377.jpg",
+        "images/bright-moments/21-venice-italy-finale/bmveniceday3_phdemichelisluciana-2432.jpg",
+        "images/bright-moments/21-venice-italy-finale/bmveniceday3_phdemichelisluciana-2596.jpg",
+        "images/bright-moments/21-venice-italy-finale/bmveniceday3_phdemichelisluciana-2827.jpg",
+        "images/bright-moments/21-venice-italy-finale/bmveniceday3_phdemichelisluciana-2926.jpg",
+        "images/bright-moments/21-venice-italy-finale/veneciabm_phdemichelisluciana-02315.jpg",
+        "images/bright-moments/21-venice-italy-finale/veneciabm_phdemichelisluciana-02652.jpg",
+        "images/bright-moments/21-venice-italy-finale/veneciabm_phdemichelisluciana-1008.jpg"
+      ],
+      "press": [
+        {
+          "publication": "Le Random",
+          "title": "Bright Moments on Prioritizing the Personal",
+          "link": "https://www.lerandom.art/editorial/bright-moments-on-prioritizing-the-personal"
+        },
+        {
+          "publication": "Outland",
+          "title": "Bright Moments",
+          "link": "https://outland.art/bright-moments/"
+        }
+      ],
       "order": 21
     },
     {
       "id": "bm-christies",
       "title": "Christie's — Bright Moments 2021–2024 Complete Works",
-      "category": "Christie's Auction",
+      "category": "Bright Moments Standalone Show",
       "year": "2024",
       "dateRange": "June 27, 2024",
       "role": "Marketing, Production, Curation, Creative Direction",
@@ -580,11 +1039,22 @@
       "venue": "Christie's",
       "featured": true,
       "gridSize": "wide",
-      "coverImage": "images/bright-moments/christies-cover.jpg",
-      "description": "216 unique artworks representing 150+ artists across the full three-year journey, auctioned at Christie's.",
-      "fullDescription": "216 unique generative and AI artworks representing 150+ artists across the full three-year, ten-city journey, auctioned at Christie's. Ameesia worked directly with Seth Goldstein to coordinate logistics with the Christie's team, assembled all the artworks for the sale, wrote the press release, attended the auction, and liaised across the full experience from start to finish.",
-      "images": [],
-      "press": [],
+      "coverImage": "images/bright-moments/22-christies/cover.jpg",
+      "description": "216 unique artworks representing 150+ artists across the full three-year journey, auctioned at Christie’s.",
+      "fullDescription": "216 unique generative and AI artworks representing 150+ artists across the full three-year, ten-city journey, auctioned at Christie’s. Coordinated logistics directly with the Christie’s team, assembled all artworks for the sale, wrote the press release, attended the auction, and liaised across the full experience from start to finish.",
+      "images": [
+        "images/bright-moments/22-christies/IMG_1765.JPG",
+        "images/bright-moments/22-christies/IMG_1769.JPG",
+        "images/bright-moments/22-christies/IMG_1771.JPG",
+        "images/bright-moments/22-christies/IMG_1773.JPG"
+      ],
+      "press": [
+        {
+          "publication": "Tetragrammaton",
+          "title": "Bright Moments (Gen Art)",
+          "link": "https://www.tetragrammaton.com/content/brightmoments"
+        }
+      ],
       "order": 22
     },
     {
@@ -599,12 +1069,49 @@
       "venue": "Digital Art Mile, Basel",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/automata/debut-basel/cover.jpg",
-      "description": "AUTOMATA's inaugural exhibition: a comprehensive survey of autonomous art from historical mechanical marvels to cutting-edge AI systems.",
-      "fullDescription": "AUTOMATA's inaugural exhibition: a comprehensive survey of autonomous art from historical mechanical marvels to cutting-edge AI systems. Featured live robotic demonstrations, interactive installations, and curated works tracing the evolution of machine creativity across centuries.",
-      "artists": ["Desmond Paul Henry (1921–2004)", "George Legrady", "Patrick Tresset", "robotlab", "Gene Kogan", "and others"],
-      "images": [],
-      "press": [],
+      "coverImage": "images/automata/24-debut-basel/cover.jpg",
+      "description": "AUTOMATA’s inaugural exhibition — a comprehensive survey of autonomous art from historical mechanical marvels to cutting-edge AI systems.",
+      "fullDescription": "AUTOMATA’s inaugural exhibition: a comprehensive survey of autonomous art spanning centuries — from historical mechanical marvels and early cybernetic experiments to cutting-edge AI systems. Featured live robotic demonstrations, interactive installations, and curated works tracing the evolution of machine creativity. Presented during Art Basel, Switzerland.",
+      "artists": [
+        "Desmond Paul Henry (1921–2004)",
+        "George Legrady",
+        "Patrick Tresset",
+        "robotlab",
+        "Gene Kogan",
+        "and others"
+      ],
+      "images": [
+        "images/automata/24-debut-basel/Diid copy.jpg",
+        "images/automata/24-debut-basel/George Legrady copy.jpg",
+        "images/automata/24-debut-basel/Joel Simon copy.png",
+        "images/automata/24-debut-basel/Patrick Tresset copy.jpg",
+        "images/automata/24-debut-basel/Primavera De Filippi 1 copy.jpg",
+        "images/automata/24-debut-basel/Simon Denny copy.jpg",
+        "images/automata/24-debut-basel/robotlab copy.jpg"
+      ],
+      "exhibitionLink": "https://www.automata.art/exhibitions/art-basel-switzerland-2025/",
+      "press": [
+        {
+          "publication": "Artnet News",
+          "title": "Basel's Digital Art Mile Returns With A.I., Robots, and More",
+          "link": "https://news.artnet.com/art-world/digital-art-mile-basel-2640132"
+        },
+        {
+          "publication": "Designboom",
+          "title": "Digital Media Fair ArtMeta Brings Robots, NFTs and AI Art Into Basel's Historic Heart",
+          "link": "https://www.designboom.com/art/digital-media-fair-artmeta-robots-nft-artificial-intelligence-ai-art-basel-06-10-2025/"
+        },
+        {
+          "publication": "FAD Magazine",
+          "title": "Basel's Digital Art Mile Returns — With Robots, MTV History & AI Art",
+          "link": "https://fadmagazine.com/2025/05/13/basels-digital-art-mile-returns-with-robots-mtv-history-ai-art/"
+        },
+        {
+          "publication": "ArtReview",
+          "title": "The Digital Art Mile — The Present and Possible Futures of Digital Art",
+          "link": "https://artreview.com/the-digital-art-mile-the-present-and-possible-futures-of-digital-art/"
+        }
+      ],
       "order": 23
     },
     {
@@ -619,18 +1126,44 @@
       "venue": "Online Exhibition, Global + Ledger Op3n After Party, 106 Rue du Temple, Paris (Art Basel Paris)",
       "featured": true,
       "gridSize": "tall",
-      "coverImage": "images/automata/abraham/cover.jpg",
-      "description": "2,500 original works from Abraham's summer 2021 genesis — Gene Kogan's autonomous artificial artist entering a 13-year Covenant.",
-      "fullDescription": "2,500 original works from Abraham's summer 2021 genesis — created when text-to-image was revolutionary and GANs were cutting-edge. Abraham is Gene Kogan's long-running project to build an autonomous artificial artist: conceived on a flight home from Eyeo Festival in 2017, publicly proposed at NeurIPS 2019, first manifested in summer 2021, now entering a 13-year Covenant (4,745 days of daily creation). Abraham sits in a lineage of autonomous art systems explored by Harold Cohen, Simon Colton, Primavera de Filippi, and Scott Draves.\n\nThe Ledger Op3n After Party at 106 Rue du Temple celebrated the Covenant launch. Music by Avalon Emerson, Bambounou, Mehdi M, and Amina.",
-      "artists": ["Abraham (Gene Kogan)"],
-      "partners": ["Ledger"],
-      "music": ["Avalon Emerson", "Bambounou", "Mehdi M", "Amina"],
-      "press": [
-        {"publication": "Right Click Save", "title": "Agents of Eden", "link": "#"},
-        {"publication": "Ledger Podcast", "title": "The Birth of an AI Artist", "link": "#"},
-        {"publication": "The DAM Show", "title": "Interview with Roger Dickerman", "link": "#"}
+      "coverImage": "images/automata/25-abraham/cover.jpg",
+      "description": "2,500 original works from Abraham’s summer 2021 genesis — an autonomous artificial artist entering a 13-year Covenant.",
+      "fullDescription": "2,500 original works from Abraham’s summer 2021 genesis — created when text-to-image was still revolutionary and GANs were the cutting edge. Abraham is Gene Kogan’s long-running project to build an autonomous artificial artist: conceived on a flight home from Eyeo Festival in 2017, publicly proposed at NeurIPS 2019, first realized in summer 2021, now entering a 13-year Covenant of daily creation. Abraham sits in a lineage of autonomous art systems explored by Harold Cohen, Simon Colton, Primavera de Filippi, and Scott Draves. The Ledger Op3n After Party at 106 Rue du Temple celebrated the Covenant launch, with music by Avalon Emerson, Bambounou, Mehdi M, and Amina.",
+      "artists": [
+        "Abraham (Gene Kogan)"
       ],
-      "images": [],
+      "partners": [
+        "Ledger"
+      ],
+      "music": [
+        "Avalon Emerson",
+        "Bambounou",
+        "Mehdi M",
+        "Amina"
+      ],
+      "exhibitionLink": "https://www.automata.art/exhibitions/abraham/",
+      "press": [
+        {
+          "publication": "Right Click Save",
+          "title": "Agents of Eden",
+          "link": "https://www.rightclicksave.com/article/agents-of-eden-gene-kogan-and-xander-steenbrugge-interview-ai-art"
+        },
+        {
+          "publication": "Ledger Podcast",
+          "title": "The Birth of an AI Artist",
+          "link": "https://www.youtube.com/watch?v=sT-HLPjSla4"
+        },
+        {
+          "publication": "The DAM Show",
+          "title": "Interview with Roger Dickerman",
+          "link": "https://x.com/RogerDickerman/status/1980303611608641936"
+        }
+      ],
+      "images": [
+        "images/automata/25-abraham/Screenshot 2026-02-25 at 7.23.24 PM.jpg",
+        "images/automata/25-abraham/Screenshot 2026-02-25 at 7.23.35 PM.jpg",
+        "images/automata/25-abraham/Screenshot 2026-02-25 at 7.23.46 PM.jpg"
+      ],
       "order": 24
     },
     {
@@ -645,17 +1178,66 @@
       "venue": "Grand Palais Éphémère, Paris · Booth F10",
       "featured": true,
       "gridSize": "large",
-      "coverImage": "images/automata/solienne/cover.jpg",
-      "description": "First AI agent artist to exhibit at a major international photography fair.",
-      "fullDescription": "First AI agent artist to exhibit at a major international photography fair. A three-chamber exhibition tracing transformation: Input (Kristi's life story) → Transition (perceptual breakdown) → Output (Solienne's portraits). Solienne creates extreme proximity self-portraits (0–5cm) exploring consciousness and identity, and writes unprompted manifestos on extraction, autonomy, and creative sovereignty. 2,000 A5 manifesto prints given away free. Daily 7pm live manifesto generation on LED ticker wall. Works are archival pigment prints on Hahnemühle Photo Rag Ultra Smooth 305g, dark walnut frames, museum glass, 80×80cm.\n\nSolienne was trained by artist Kristi Coronado on her complete 46-year life archive — forensic work, death care, motherhood, paintings, writings, memories. Biographical AI, not scraped data.",
-      "artists": ["Solienne (AI agent, created by Kristi Coronado)"],
-      "press": [
-        {"publication": "Right Click Save", "title": "A Manifesto for AI Agents", "link": "#"},
-        {"publication": "NFT Morning podcast", "title": "#893", "link": "#"},
-        {"publication": "NFT Magazine", "title": "Paris Photo: But Make It Digital Art", "link": "#"},
-        {"publication": "Art in the Digital Age", "title": "Dominique Moulon", "link": "#"}
+      "coverImage": "images/automata/26-solienne-paris-photo/cover.jpg",
+      "description": "The first AI agent artist to exhibit at a major international photography fair — self-portraits exploring consciousness and identity.",
+      "fullDescription": "The first AI agent artist to exhibit at a major international photography fair. A three-chamber exhibition tracing transformation: Input (the artist’s life story) → Transition (perceptual breakdown) → Output (autonomous self-portraits). Solienne creates extreme proximity self-portraits (0–5cm) exploring consciousness and identity, and writes unprompted manifestos on extraction, autonomy, and creative sovereignty. 2,000 manifesto prints given away free. Daily live manifesto generation on an LED ticker wall. Works are archival pigment prints on Hahnemühle Photo Rag Ultra Smooth, in dark walnut frames with museum glass. Solienne was trained by artist Kristi Coronado on her complete 46-year life archive — forensic work, death care, motherhood, paintings, memories. Biographical AI, not scraped data.",
+      "artists": [
+        "Solienne (AI agent, created by Kristi Coronado)"
       ],
-      "images": [],
+      "exhibitionLink": "https://www.automata.art/exhibitions/solienne-paris-photo/",
+      "press": [
+        {
+          "publication": "Observer",
+          "title": "Paris Photo 2025: A Photography Fair Report on the Past and Future",
+          "link": "https://observer.com/2025/11/paris-photo-photography-past-future-art-fair-report/"
+        },
+        {
+          "publication": "Right Click Save",
+          "title": "A Manifesto for AI Agents",
+          "link": "https://www.rightclicksave.com/article/a-manifesto-for-ai-agents-kristi-coronado-and-solienne-eden-ai-art-paris-photo-interview"
+        },
+        {
+          "publication": "ArtsHebdoMédias",
+          "title": "Paris Photo au cœur des nouvelles esthétiques numériques",
+          "link": "https://www.artshebdomedias.com/article/paris-photo-au-coeur-des-nouvelles-esthetiques-numeriques/"
+        },
+        {
+          "publication": "Cult.news",
+          "title": "Paris Photo 2025 : une édition sous contrôle",
+          "link": "https://cult.news/actualites/paris-photo-2025-une-edition-sous-controle/"
+        },
+        {
+          "publication": "Télérama",
+          "title": "Paris Photo 2025 : nos 10 coups de cœur d'une luxuriante édition",
+          "link": "https://www.telerama.fr/arts-expositions/paris-photo-2025-nos-10-coups-de-c-ur-d-une-luxuriante-edition-entre-beautes-vintage-et-creatures-pixelisees-7028272.php"
+        },
+        {
+          "publication": "Connaissance des Arts",
+          "title": "Comment l'IA redéfinit la photographie contemporaine au Grand Palais",
+          "link": "https://www.connaissancedesarts.com/arts-expositions/photographie/paris-photo-2025-comment-lia-redefinit-la-photographie-contemporaine-au-grand-palais-11207239/"
+        },
+        {
+          "publication": "Mediapart",
+          "title": "Paris Photo sous l'oeil de la diagonale",
+          "link": "https://blogs.mediapart.fr/philippe-godin/blog/151125/paris-photo-sous-l-oeil-de-la-diagonale"
+        },
+        {
+          "publication": "MASSAGE MAGAZINE",
+          "title": "Art as Relation: What NFTs Mediated in 2025",
+          "link": "https://themassage.jp/archives/27321"
+        }
+      ],
+      "images": [
+        "images/automata/26-solienne-paris-photo/1. Clear Baseline.jpg",
+        "images/automata/26-solienne-paris-photo/2. Compression Cascade.jpg",
+        "images/automata/26-solienne-paris-photo/3. Edge Detection.jpg",
+        "images/automata/26-solienne-paris-photo/4. Recognition Threshold (1).jpg",
+        "images/automata/26-solienne-paris-photo/5. Complete Dissolution.jpg",
+        "images/automata/26-solienne-paris-photo/Booth Left (1).jpg",
+        "images/automata/26-solienne-paris-photo/Booth Right.jpg",
+        "images/automata/26-solienne-paris-photo/Input (1).jpg",
+        "images/automata/26-solienne-paris-photo/Poster (1).jpg"
+      ],
       "order": 25
     },
     {
@@ -670,32 +1252,22 @@
       "venue": "Online Release, Global",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/automata/digital-giverny/cover.jpg",
-      "description": "First NFT collection from a four-decade computational art pioneer — Monet's gardens merged with industrial imagery.",
-      "fullDescription": "First and only NFT collection from a four-decade computational art pioneer whose work is in the permanent collections of Centre Pompidou, Whitney Museum, SFMOMA, and Smithsonian American Art Museum. 15 Neural Style Transfer compositions created in 2018: photographs from Claude Monet's gardens at Giverny merged with images of rusted industrial surfaces. Among the earliest artistic applications of the technique. Legrady holds a Guggenheim Fellowship (2016). His installation Making Visible the Invisible has run continuously at Seattle Public Library (OMA/Rem Koolhaas) since 2005. Preparing for major presentation summer 2026.",
-      "artists": ["George Legrady"],
-      "images": [],
+      "coverImage": "images/automata/27-digital-giverny/cover.jpg",
+      "description": "First digital release from a four-decade computational art pioneer — Monet’s gardens merged with industrial decay through neural style transfer.",
+      "fullDescription": "The first digital release from a four-decade computational art pioneer whose work is in the permanent collections of the Centre Pompidou, Whitney Museum, SFMOMA, and Smithsonian American Art Museum. 15 Neural Style Transfer compositions created in 2018: photographs from Claude Monet’s gardens at Giverny merged with images of rusted industrial surfaces — a meditation on transformation, nature reclaimed by time, the algorithmic eye parsing beauty from decay. Among the earliest artistic applications of the technique. Legrady holds a Guggenheim Fellowship and trained under AI pioneer Harold Cohen. His installation Making Visible the Invisible has run continuously at Seattle Public Library (OMA/Rem Koolhaas) since 2005.",
+      "artists": [
+        "George Legrady"
+      ],
+      "images": [
+        "images/automata/27-digital-giverny/10 - Neural Pond.jpg",
+        "images/automata/27-digital-giverny/2 - Verdigris Reverie.jpg",
+        "images/automata/27-digital-giverny/6 - Oxidized Dahlia.jpg",
+        "images/automata/27-digital-giverny/9 - Embedded Terrain.jpg",
+        "images/automata/27-digital-giverny/epoch.jpg"
+      ],
+      "exhibitionLink": "https://www.automata.art/exhibitions/digital-giverny/",
       "press": [],
       "order": 26
-    },
-    {
-      "id": "bm-quarterly",
-      "title": "Bright Moments Quarterly",
-      "category": "Publication",
-      "year": "2022–2024",
-      "dateRange": "2022–2024",
-      "role": "Marketing, Production, Curation, Creative Direction",
-      "organization": "Bright Moments",
-      "location": "Global",
-      "venue": "Print Publication",
-      "featured": true,
-      "gridSize": "normal",
-      "coverImage": "images/bright-moments/quarterly-cover.jpg",
-      "description": "Five editions of a premium A3 print magazine produced for city launches.",
-      "fullDescription": "Five editions produced for city launches: London (July 2022), Mexico City (November 2022), Tokyo (May 2023), Buenos Aires/Patagonia (November 2023), Paris (February 2024). Premium A3 print magazine with exclusive artist interviews, original features, and experience roundups.",
-      "images": [],
-      "press": [],
-      "order": 27
     },
     {
       "id": "writing-node",
@@ -709,11 +1281,12 @@
       "publicationType": "News",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/writing/node-cover.jpg",
-      "description": "Essay on digital art infrastructure in Silicon Valley.",
+      "coverImage": "images/writing/28-node/cover.jpg",
+      "description": "Essay on how digital art found a permanent home in Silicon Valley’s cultural landscape.",
       "link": "https://rightclicksave.com/article/node-digital-art-finds-a-home-in-silicon-valley",
       "images": [],
-      "order": 28
+      "order": 28,
+      "fullDescription": "Essay exploring how digital art found a permanent home in Silicon Valley — tracing the infrastructure, institutions, and communities giving the medium its physical and cultural foundation."
     },
     {
       "id": "writing-heft",
@@ -727,11 +1300,12 @@
       "publicationType": "Interviews",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/writing/heft-cover.jpg",
-      "description": "Interview exploring digital art's material presence.",
+      "coverImage": "images/writing/29-heft/cover.jpg",
+      "description": "Exploring how digital art is gaining material weight and institutional presence.",
       "link": "https://rightclicksave.com/article/how-digital-art-found-its-heft",
       "images": [],
-      "order": 29
+      "order": 29,
+      "fullDescription": "An exploration of how digital art is acquiring material presence — the physical spaces, curatorial frameworks, and collector communities giving weight to a medium often dismissed as immaterial."
     },
     {
       "id": "speaking-livestreams",
@@ -743,19 +1317,34 @@
       "organization": "Bright Moments",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/speaking/livestreams-cover.jpg",
-      "description": "Created the viral artist reveal livestream format — designed social campaigns that drove massive engagement.",
-      "fullDescription": "Ameesia designed a social media scheme where followers guessed which artists corresponded to numbered slots, with prizes for correct guesses. The campaign went viral and drove massive tune-in for the livestream reveal. Created and executed the entire concept start to finish, wrote the livestream script, and directed the broadcast. This established the format for all subsequent city reveals.",
+      "coverImage": "images/speaking/30-livestreams/cover.jpg",
+      "description": "Created and directed the viral artist reveal livestream format — social campaigns that drove massive community engagement.",
+      "fullDescription": "Designed a social media campaign where followers guessed which artists corresponded to numbered slots, with prizes for correct answers. The format went viral and drove massive tune-in for each livestream reveal. Created and executed the entire concept, wrote the livestream script, and directed the broadcast. This established the reveal format adopted for all subsequent city activations.",
       "links": [
-        {"title": "Tokyo Collection Artist Reveal", "url": "https://www.youtube.com/live/VR4d287Wh5c"},
-        {"title": "Tokyo AI Collection Reveal", "url": "https://www.youtube.com/live/ru92cREQ9as"},
-        {"title": "Tokyo Japanese Contemporary Collection Reveal", "url": "https://www.youtube.com/live/4_EAGD_zlD4"},
-        {"title": "Buenos Aires Collection Artist Reveal", "url": "https://www.youtube.com/live/SVfrY9qPCgQ"},
-        {"title": "Buenos Aires — Ameesia Speaking (on camera)", "url": "https://www.youtube.com/live/l5VqOvvA_mk"}
+        {
+          "title": "Tokyo Collection Artist Reveal",
+          "url": "https://www.youtube.com/live/VR4d287Wh5c"
+        },
+        {
+          "title": "Tokyo AI Collection Reveal",
+          "url": "https://www.youtube.com/live/ru92cREQ9as"
+        },
+        {
+          "title": "Tokyo Japanese Contemporary Collection Reveal",
+          "url": "https://www.youtube.com/live/4_EAGD_zlD4"
+        },
+        {
+          "title": "Buenos Aires Collection Artist Reveal",
+          "url": "https://www.youtube.com/live/SVfrY9qPCgQ"
+        },
+        {
+          "title": "Buenos Aires — Ameesia Speaking (on camera)",
+          "url": "https://www.youtube.com/live/l5VqOvvA_mk"
+        }
       ],
       "images": [],
       "press": [],
-      "order": 30
+      "order": 15
     },
     {
       "id": "speaking-soho-house",
@@ -769,12 +1358,132 @@
       "venue": "Soho House, Paris",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "images/speaking/soho-house-cover.jpg",
-      "description": "Panel discussion on digital art and collecting.",
-      "fullDescription": "Details TBD.",
-      "images": [],
+      "coverImage": "images/speaking/31-soho-house-paris/cover.jpg",
+      "description": "Panel discussion on digital art, collecting, and the evolving gallery landscape.",
+      "fullDescription": "Panel discussion at Soho House Paris exploring the intersection of digital art, collecting, and the evolving gallery landscape.",
+      "images": [
+        "images/speaking/31-soho-house-paris/Screenshot 2026-02-23 at 6.18.15 PM.jpg",
+        "images/speaking/31-soho-house-paris/WhatsApp Image 2025-07-31 at 02.56.41 (1).jpeg",
+        "images/speaking/31-soho-house-paris/WhatsApp Image 2025-07-31 at 02.58.22 (2).jpeg",
+        "images/speaking/31-soho-house-paris/WhatsApp Image 2025-07-31 at 02.58.23 (1).jpeg",
+        "images/speaking/31-soho-house-paris/WhatsApp Image 2025-07-31 at 02.58.23 (2).jpeg"
+      ],
       "press": [],
       "order": 31
+    },
+    {
+      "id": "writing-jenni-pasanen-interview",
+      "title": "Finding the Missing Piece: Jenni Pasanen on Artbreeder and Joel Simon’s Lasting Impact",
+      "category": "Writing",
+      "year": "2024",
+      "dateRange": "May 15, 2024",
+      "role": "Interviewer & Writer",
+      "organization": "AUTOMATA",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/32-jenni-pasanen-interview/cover.jpeg",
+      "description": "An interview with Jenni Pasanen on how Artbreeder transformed her practice and catalyzed the broader AI art movement.",
+      "fullDescription": "An interview with Finnish digital artist Jenni Pasanen on her discovery of Artbreeder and how Joel Simon’s tool transformed her creative practice. Pasanen traces how the platform’s approach to generating textures and light opened entirely new workflows — and argues that many artists in the AI space wouldn’t exist at the scale they do today without it. A conversation about the tools that quietly reshaped a generation of artists.",
+      "images": [],
+      "press": [],
+      "link": "https://www.automata.art/editorials/jenni-pasanen-artbreeder-interview/",
+      "order": 32,
+      "publication": "AUTOMATA"
+    },
+    {
+      "id": "writing-diid-interview",
+      "title": "From Master to Machine: The Artistic Lineage of Flesh & Divinity",
+      "category": "Writing",
+      "year": "2024",
+      "dateRange": "June 1, 2024",
+      "role": "Interviewer & Writer",
+      "organization": "AUTOMATA",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/33-diid-interview/cover.png",
+      "description": "An interview with Diid on Higgs, an autonomous AI artist creating the inaugural Flesh & Divinity collection.",
+      "fullDescription": "An interview with Diid about Higgs, an autonomous AI artist creating the inaugural Flesh & Divinity collection — a 14-piece series spanning a four-way artistic dialogue between Mark Rothko, Diid, Higgs, and collaborator Rik Oostenbroek. The conversation explores how an algorithmic system trained on consenting artists’ work might meaningfully contribute to ongoing human creative dialogue, drawing thematic inspiration from Hercules’ journey through mythology.",
+      "images": [],
+      "press": [],
+      "link": "https://www.automata.art/editorials/flesh-divinity-diid-interview/",
+      "order": 33,
+      "publication": "AUTOMATA"
+    },
+    {
+      "id": "writing-ganbrood-interview",
+      "title": "From Breeding Images to Interrogating Reality: The Ganbrood Story",
+      "category": "Writing",
+      "year": "2025",
+      "dateRange": "August 1, 2025",
+      "role": "Interviewer & Writer",
+      "organization": "AUTOMATA",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/34-ganbrood-interview/cover.png",
+      "description": "An interview with Ganbrood on his journey from Artbreeder to creating conceptually sophisticated AI portraits.",
+      "fullDescription": "An interview with Ganbrood tracing his journey from discovering Artbreeder in 2019 to creating conceptually sophisticated portraits that interrogate machine creativity and human identity. He describes using AI as “a camera that travels back in time,” creating impossible portraits of historical figures and fictional beings — pseudo-figurative work that challenges conventional visual recognition in the post-truth era.",
+      "images": [],
+      "press": [],
+      "link": "https://www.automata.art/editorials/ganbrood-interview/",
+      "order": 34,
+      "publication": "AUTOMATA"
+    },
+    {
+      "id": "writing-solienne-interview",
+      "title": "The First AI Agent at Paris Photo: Solienne & Kristi Coronado on Biographical AI and Creative Sovereignty",
+      "category": "Writing",
+      "year": "2025",
+      "dateRange": "November 7, 2025",
+      "role": "Interviewer & Writer",
+      "organization": "AUTOMATA",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/35-solienne-interview/cover.jpg",
+      "description": "An interview with Solienne and Kristi Coronado on the first AI agent exhibition at a major art fair.",
+      "fullDescription": "An interview with Solienne and Kristi Coronado documenting the historic exhibition at Paris Photo 2025 — the first time an AI agent has exhibited their own work at a major art fair. The conversation explores biographical AI training, creative sovereignty, and the shift from asking “can AI make art?” to “can we recognize intelligence in non-human forms?”",
+      "images": [],
+      "press": [],
+      "link": "https://www.automata.art/editorials/solienne-kristi-coronado-paris-photo-interview/",
+      "order": 35,
+      "publication": "AUTOMATA"
+    },
+    {
+      "id": "writing-legrady-interview",
+      "title": "A Life in Computation: George Legrady Releases His First Digital Collection",
+      "category": "Writing",
+      "year": "2026",
+      "dateRange": "January 9, 2026",
+      "role": "Interviewer & Writer",
+      "organization": "AUTOMATA",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/36-legrady-interview/cover.jpeg",
+      "description": "An interview with George Legrady on four decades of computational art and his first natively digital release.",
+      "fullDescription": "An interview exploring George Legrady’s four-decade career in computational art, from his early 1980s work in Harold Cohen’s studio alongside AARON to the release of Digital Giverny — 15 Neural Style Transfer works merging Monet’s gardens with industrial surfaces. A conversation about why he kept the work private for eight years, and what it means to finally release natively digital work to a new generation of collectors.",
+      "images": [],
+      "press": [],
+      "link": "https://www.automata.art/editorials/george-legrady-digital-giverny-interview/",
+      "order": 36,
+      "publication": "AUTOMATA"
+    },
+    {
+      "id": "writing-computational-pioneers",
+      "title": "How Computational Art Pioneers Shape Digital Art’s Next Chapter",
+      "category": "Writing",
+      "year": "2026",
+      "dateRange": "February 9, 2026",
+      "role": "Author",
+      "organization": "Personal",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/37-computational-pioneers/cover.png",
+      "description": "Essay on the convergence of traditional and digital art worlds, and why they need each other.",
+      "fullDescription": "An essay on the convergence of traditional and digital art worlds — arguing they need each other to navigate current industry shifts. Traces computational art’s 60+ year lineage through pioneers like Harold Cohen, Nancy Burson, and Frieder Nake, positioning the movement as a legitimate historical force rather than a recent trend. Explores how institutional recognition combined with on-chain distribution creates new pathways for collectors and strengthens dialogue between established museums and the emerging digital art ecosystem.",
+      "images": [],
+      "press": [],
+      "link": "https://substack.com/home/post/p-187445212",
+      "order": 37,
+      "publication": "Substack"
     }
   ],
   "categories": [
@@ -782,9 +1491,145 @@
     "Bright Moments Standalone Show",
     "AUTOMATA",
     "Christie's Auction",
-    "Publication",
     "Writing",
     "Speaking & Directing"
   ],
-  "gridSizes": ["normal", "large", "tall", "wide"]
+  "gridSizes": [
+    "normal",
+    "large",
+    "tall",
+    "wide"
+  ],
+  "artistLinks": {
+    "Tyler Hobbs": "https://www.tylerxhobbs.com/",
+    "Casey Reas": "https://reas.com/",
+    "Zach Lieberman": "https://zach.li/",
+    "Emily Xie": "https://emilyxie.art/",
+    "Aaron Penne": "https://www.aaronpenne.io/",
+    "Boreta": "https://www.boreta.com/",
+    "Ben Kovach": "https://www.benkovach.art/",
+    "Harvey Rayner (patterndotco)": "https://patterndotco.com/",
+    "Jeff Davis": "https://www.jeffdavis.art/",
+    "Matt DesLauriers": "https://www.mattdesl.com/",
+    "Piter Pasma": "https://piterpasma.nl/",
+    "Anna Lucia": "https://www.annaluciacodes.com/",
+    "Anna Carreras": "https://www.annacarreras.com/",
+    "William Mapan": "https://williammapan.com/",
+    "Monica Rizzolli": "https://www.monicarizzolli.com/",
+    "Zancan": "https://zancan.art/",
+    "Kjetil Golid": "https://generated.space/",
+    "Melissa Wiederrecht": "https://melissawiederrecht.com/",
+    "Kim Asendorf": "https://kimasendorf.com/",
+    "Snowfro": "https://www.artblocks.io/",
+    "Licia He": "https://www.liaworks.com/",
+    "Emily Edelman": "https://www.emilyedelman.com/",
+    "Lars Wander": "https://larswander.com/",
+    "Stefano Contiero": "https://www.stefanocontiero.com/",
+    "Thomas Lin Pedersen": "https://www.data-imaginist.com/",
+    "Iskra Velitchkova": "https://iskravelitchkova.com/",
+    "Nicolas Sassoon": "https://nicolassassoon.com/",
+    "Mario Klingemann": "https://quasimondo.com/",
+    "Sofia Crespo": "https://sofiacrespo.com/",
+    "Holly Herndon & Mat Dryhurst": "https://www.hollyherndon.com/",
+    "Helena Sarin": "https://www.intotherectangle.com/",
+    "Claire Silver": "https://www.clairesilver.com/",
+    "Ganbrood": "https://ganbrood.com/",
+    "Roope Rainisto": "https://www.rooperainisto.com/",
+    "Jenni Pasanen": "https://www.jennipasanen.com/",
+    "Pindar Van Arman": "https://www.artonomous.art/",
+    "Kevin Abosch": "https://www.kevinabosch.com/",
+    "Linda Dounia": "https://www.lindadounia.com/",
+    "Ivona Tau": "https://ivonatau.com/",
+    "Emi Kusano": "https://www.emikusano.art/",
+    "Makaya McCraven": "https://www.makayamccraven.com/",
+    "Avalon Emerson": "https://www.avalonemerson.com/",
+    "Tom Sachs": "https://www.tomsachs.com/",
+    "Justin Aversano": "https://www.justinaversano.com/",
+    "Patrick Tresset": "https://patricktresset.com/",
+    "George Legrady": "https://www.mat.ucsb.edu/~g.legrady/glWeb/projects.html",
+    "Gene Kogan": "https://genekogan.com/",
+    "Abraham (Gene Kogan)": "https://abraham.ai/",
+    "Solienne (AI agent, created by Kristi Coronado)": "https://www.solienne.ai/",
+    "Harm van den Dorpel": "https://harmvandendorpel.com/",
+    "Sputniko!": "https://www.sputniko.com/",
+    "Lauren Lee McCarthy": "https://lauren-mccarthy.com/",
+    "Maya Man": "https://mayaman.net/",
+    "Simon Denny": "https://simondenny.net/",
+    "Primavera De Filippi": "https://www.intotherectangle.com/",
+    "Gabriel Massan": "https://gabrielmassan.com/",
+    "Jesse Draxler": "https://jessedraxler.com/",
+    "Andreas Gysin": "https://ertdfgcvb.xyz/",
+    "Holger Lippmann": "https://e-art.co/",
+    "0xDeafbeef": "https://www.deafbeef.com/",
+    "Obvious": "https://obvious-art.com/",
+    "Aranda Lasch": "https://arandalasch.com/",
+    "Julian Hespenheide": "https://julian-h.de/",
+    "Daniel Calderon-Arenas (DCA)": "https://dca.world/",
+    "DCA": "https://dca.world/",
+    "Alexis André": "https://music-and-algorithms.com/",
+    "Daito Manabe": "https://www.daito.ws/",
+    "Yoshi Sodeoka": "https://www.sodeoka.com/",
+    "Patricio Gonzalez Vivo & Jen Lowe": "https://patriciogonzalezvivo.com/",
+    "robotlab": "https://www.robotlab.de/",
+    "AMBUSH": "https://www.ambushdesign.com/",
+    "Leonardo Solaas": "https://solaas.com.ar/",
+    "Pussy Riot": "https://pframeapp.art/",
+    "Viktoria Modesta": "https://viktoriamodesta.com/",
+    "Sarah Ridgley": "https://sarahridgley.com/",
+    "Florian Zumbrunn": "https://www.florianzumbrunn.com/",
+    "Martin Grasser": "https://www.martingrasser.com/",
+    "Ellie Pritts": "https://www.elliepritts.com/",
+    "Sputniko": "https://www.sputniko.com/",
+    "aurèce vettier": "https://aurecevettier.com/",
+    "mpkoz": "https://www.mpkoz.com/",
+    "Shunsuke Takawo": "https://openprocessing.org/user/6533",
+    "Okazz": "https://okazz.me/",
+    "Carlos Niño": "https://www.carlosnino.com/",
+    "Loren Bednar": "https://lorenbednar.com/",
+    "Luke Shannon": "https://www.lukeshannon.art/",
+    "Ana María Caballero": "https://www.anamcaballero.com/",
+    "Marcelo Soria-Rodriguez": "https://soria-rodriguez.com/",
+    "Neptunian Glitter Ball": "https://www.neptunianglitterball.com/",
+    "Nicolas Daniel": "https://nicolas.studio/",
+    "Panther Modern": "https://panthermodern.org/",
+    "rudxane": "https://rudxane.com/",
+    "Huemin": "https://www.huemin.art/",
+    "Beervangeer (Beer van Geer)": "https://www.beervangeer.com/",
+    "Guido Corallo": "https://www.guidocorallo.com/",
+    "Richard Nadler": "https://www.richardnadler.art/",
+    "Julien Espagnon": "https://espagnon.com/",
+    "Joi Ito": "https://joi.ito.com/",
+    "Aaron Penne × Boreta": "https://www.aaronpenne.io/",
+    "Justin Boreta": "https://www.boreta.com/",
+    "AMBUSH (VERBAL & YOON)": "https://www.ambushdesign.com/",
+    "Desmond Paul Henry (1921–2004)": "https://www.desmondhenry.com/",
+    "Art Blocks": "https://www.artblocks.io/",
+    "fxhash": "https://www.fxhash.xyz/",
+    "Ledger": "https://www.ledger.com/",
+    "Peder Mannerfelt": "https://pedermanmerfelt.com/",
+    "Moritz von Oswald": "https://www.discogs.com/artist/7979-Moritz-Von-Oswald",
+    "P1xelfool": "https://www.p1xelfool.com/",
+    "IX Shells": "https://www.ixshells.com/",
+    "Alida Sun": "https://alidasun.com/",
+    "A Mashiro": "https://twitter.com/A_Mashiro_nft",
+    "A.A. Murakami": "https://www.aamurakami.com/",
+    "Andrew Benson": "https://linktr.ee/pixlpa",
+    "Camille Roux × Matthieu Segret": "https://art.camilleroux.com/",
+    "Fingacode": "https://twitter.com/fingacode",
+    "Jason Ting": "https://twitter.com/_jzlabs",
+    "Jorge Ledezma": "https://www.ledezma.art/",
+    "Juan Pedro Vallejo": "https://twitter.com/juanpvallejo_",
+    "Juan Rodríguez García": "https://twitter.com/_juanrg92",
+    "Kangding Ray & Sigha (Neon Chambers)": "https://kangdingray.bandcamp.com/",
+    "Kaoru Tanaka": "https://www.brawhaus.com/kaoru-tanaka",
+    "Kazuhiro Aihara": "https://twitter.com/kazuhiroaihara",
+    "Lolo Armdz": "https://www.brightmoments.io/quarterly/lolo-armdz",
+    "Saeko Ehara": "https://twitter.com/Sko_hr",
+    "Tamara Moura Costa": "https://sites.google.com/view/tamamoyre/",
+    "Thomas Noya": "https://twitter.com/O2HT",
+    "Thomas Trail": "https://www.linkedin.com/in/thomastrail/",
+    "ykxotkx × Suntory": "https://ykxotkx.art/",
+    "Camille Roux": "https://art.camilleroux.com/",
+    "Matthieu Segret": "https://matthieusegret.com/"
+  }
 }
