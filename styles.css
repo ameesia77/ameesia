@@ -897,6 +897,26 @@ a.collection-artist.artist-link:hover {
     margin-top: 2px;
 }
 
+.artist-inline-list {
+    font-size: 0.9375rem;
+    color: var(--color-text-dim);
+    line-height: 1.8;
+}
+
+.artist-inline-link {
+    color: var(--color-text-dim);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.artist-inline-link:hover {
+    color: var(--color-text);
+}
+
+.artist-inline {
+    color: var(--color-text-muted);
+}
+
 /* ===========================
    Detail Page — Colorforms
    =========================== */

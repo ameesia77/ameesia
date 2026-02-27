@@ -28,6 +28,8 @@
           "note": "See standalone entry"
         }
       ],
+      "openingArtists": ["Lordess Foudre", "Brian Ziff", "Tea Hacic", "Merlin Ettore", "Ellie Pritts", "Mpkoz", "Pixlpa", "Edo Dimuralto", "Erika Weitz"],
+      "soloShows": ["Kitasavi", "Boreta x Strangeloop", "Pixlpa", "BAUHAUS x Coldie", "Jason Ebeyere x H+ Creative", "Young Gun Motion"],
       "images": [
         "images/bright-moments/01-venice-beach-genesis/IMG_7720.JPG"
       ],
@@ -1348,12 +1350,12 @@
     },
     {
       "id": "speaking-soho-house",
-      "title": "Soho House Paris — Panel with Denae",
+      "title": "Soho House Paris — Panel with Danae",
       "category": "Speaking & Directing",
       "year": "2025",
       "dateRange": "July 2025",
       "role": "Panelist",
-      "organization": "Denae",
+      "organization": "Danae",
       "location": "Paris, France",
       "venue": "Soho House, Paris",
       "featured": true,
@@ -1613,7 +1615,7 @@
     "Alida Sun": "https://alidasun.com/",
     "A Mashiro": "https://twitter.com/A_Mashiro_nft",
     "A.A. Murakami": "https://www.aamurakami.com/",
-    "Andrew Benson": "https://linktr.ee/pixlpa",
+    "Andrew Benson": "https://pixlpa.com/",
     "Camille Roux × Matthieu Segret": "https://art.camilleroux.com/",
     "Fingacode": "https://twitter.com/fingacode",
     "Jason Ting": "https://twitter.com/_jzlabs",
@@ -1630,6 +1632,18 @@
     "Thomas Trail": "https://www.linkedin.com/in/thomastrail/",
     "ykxotkx × Suntory": "https://ykxotkx.art/",
     "Camille Roux": "https://art.camilleroux.com/",
-    "Matthieu Segret": "https://matthieusegret.com/"
+    "Matthieu Segret": "https://matthieusegret.com/",
+    "Lordess Foudre": "https://www.lordess.io/",
+    "Brian Ziff": "https://brianziff.com/",
+    "Tea Hacic": "https://www.instagram.com/teahacic/",
+    "Merlin Ettore": "https://www.instagram.com/merlin_ettore/",
+    "Erika Weitz": "https://erikaweitz.com/",
+    "Kitasavi": "https://linktr.ee/kitasavi",
+    "Strangeloop": "https://strangeloop-studios.com/",
+    "Coldie": "https://coldie3d.com/",
+    "H+ Creative": "https://www.hpluscreative.com/",
+    "Young Gun Motion": "https://www.younggunmotion.com/",
+    "Pixlpa": "https://pixlpa.com/",
+    "BAUHAUS": "https://www.bauhaus-band.com/"
   }
 }

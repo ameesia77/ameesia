@@ -571,6 +571,46 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
+        // Opening Exhibition Artists (Venice Beach)
+        if (p.openingArtists && p.openingArtists.length > 0) {
+            const linkedNames = p.openingArtists.map(name => {
+                const url = artistLinks[name];
+                if (url) {
+                    return `<a href="${url}" class="artist-inline-link" target="_blank">${name}</a>`;
+                }
+                return `<span class="artist-inline">${name}</span>`;
+            });
+            sections += `
+                <div class="detail-section">
+                    <h3 class="section-heading">Opening Exhibition</h3>
+                    <p class="artist-inline-list">${linkedNames.join(', ')}, and more.</p>
+                </div>
+            `;
+        }
+
+        // Solo Shows (Venice Beach)
+        if (p.soloShows && p.soloShows.length > 0) {
+            const linkedShows = p.soloShows.map(entry => {
+                // Handle "Artist x Artist" collaborations
+                const parts = entry.split(' x ');
+                const linkedParts = parts.map(name => {
+                    const trimmed = name.trim();
+                    const url = artistLinks[trimmed];
+                    if (url) {
+                        return `<a href="${url}" class="artist-inline-link" target="_blank">${trimmed}</a>`;
+                    }
+                    return `<span class="artist-inline">${trimmed}</span>`;
+                });
+                return linkedParts.join(' x ');
+            });
+            sections += `
+                <div class="detail-section">
+                    <h3 class="section-heading">Solo Shows</h3>
+                    <p class="artist-inline-list">${linkedShows.join(', ')}</p>
+                </div>
+            `;
+        }
+
         // Opening reception mints (Buenos Aires)
         if (p.openingReceptionMints && p.openingReceptionMints.length > 0) {
             sections += `
