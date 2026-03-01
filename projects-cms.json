@@ -31,7 +31,10 @@
       "openingArtists": ["Lordess Foudre", "Brian Ziff", "Tea Hacic", "Merlin Ettore", "Ellie Pritts", "Mpkoz", "Pixlpa", "Edo Dimuralto", "Erika Weitz"],
       "soloShows": ["Kitasavi", "Boreta x Strangeloop", "Pixlpa", "BAUHAUS x Coldie", "Jason Ebeyere x H+ Creative", "Young Gun Motion"],
       "images": [
-        "images/bright-moments/01-venice-beach-genesis/IMG_7720.JPG"
+        "images/bright-moments/01-venice-beach-genesis/IMG_7752 (1).JPG",
+        "images/bright-moments/01-venice-beach-genesis/IMG_7753.JPG",
+        "images/bright-moments/01-venice-beach-genesis/IMG_7796.JPG",
+        "images/bright-moments/01-venice-beach-genesis/IMG_7854 (1).JPG"
       ],
       "press": [
         {
@@ -1311,7 +1314,7 @@
     },
     {
       "id": "speaking-livestreams",
-      "title": "Bright Moments Artist Reveal Livestreams",
+      "title": "Bright Moments Artist Livestreams",
       "category": "Speaking & Directing",
       "year": "2023",
       "dateRange": "2023",
@@ -1324,23 +1327,23 @@
       "fullDescription": "Designed a social media campaign where followers guessed which artists corresponded to numbered slots, with prizes for correct answers. The format went viral and drove massive tune-in for each livestream reveal. Created and executed the entire concept, wrote the livestream script, and directed the broadcast. This established the reveal format adopted for all subsequent city activations.",
       "links": [
         {
-          "title": "Tokyo Collection Artist Reveal",
+          "title": "Buenos Aires — La Revelación",
           "url": "https://www.youtube.com/live/VR4d287Wh5c"
         },
         {
-          "title": "Tokyo AI Collection Reveal",
+          "title": "Tokyo — Introducing the Tokyo Collection",
           "url": "https://www.youtube.com/live/ru92cREQ9as"
         },
         {
-          "title": "Tokyo Japanese Contemporary Collection Reveal",
+          "title": "Tokyo — AI Collection + Japanese Contemporary Reveal",
           "url": "https://www.youtube.com/live/4_EAGD_zlD4"
         },
         {
-          "title": "Buenos Aires Collection Artist Reveal",
+          "title": "Tokyo — Collection Mint Pass Reveal + AI Preview",
           "url": "https://www.youtube.com/live/SVfrY9qPCgQ"
         },
         {
-          "title": "Buenos Aires — Ameesia Speaking (on camera)",
+          "title": "Buenos Aires — Meet the Collection",
           "url": "https://www.youtube.com/live/l5VqOvvA_mk"
         }
       ],
