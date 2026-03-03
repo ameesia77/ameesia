@@ -453,6 +453,25 @@ button {
     line-height: 1.8;
 }
 
+.press-logos {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+}
+
+.press-logo {
+    height: 24px;
+    width: auto;
+    opacity: 0.45;
+    transition: opacity 0.3s ease;
+    filter: grayscale(100%);
+}
+
+.press-logo:hover {
+    opacity: 0.8;
+}
+
 /* ===========================
    Contact Page
    =========================== */
