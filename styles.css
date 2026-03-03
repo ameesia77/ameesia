@@ -558,50 +558,32 @@ button {
 }
 
 /* ===========================
-   Project Detail Overlay
+   Project Detail Page
    =========================== */
-
-.project-detail {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: var(--color-bg);
-    z-index: 2000;
-    overflow-y: auto;
-    transform: translateX(100%);
-    transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-}
-
-.project-detail.active {
-    transform: translateX(0);
-}
-
-.close-button {
-    position: fixed;
-    top: var(--space-md);
-    right: var(--space-md);
-    font-size: 0.8125rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    padding: 10px 20px;
-    border: 1px solid var(--color-border-light);
-    color: var(--color-text);
-    background: var(--color-bg);
-    z-index: 2001;
-    transition: all 0.3s ease;
-}
-
-.close-button:hover {
-    background: var(--color-text);
-    color: var(--color-bg);
-}
 
 .project-content {
     max-width: 900px;
     margin: 0 auto;
-    padding: calc(var(--header-height) + var(--space-xl)) 20px var(--space-xl);
+    padding: var(--space-xl) 20px var(--space-xl);
+}
+
+.detail-back {
+    margin-bottom: var(--space-lg);
+}
+
+.back-link {
+    font-size: 0.8125rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-dim);
+    text-decoration: none;
+    transition: color 0.3s ease;
+    display: inline-block;
+    padding: 6px 0;
+}
+
+.back-link:hover {
+    color: var(--color-text);
 }
 
 /* ===========================

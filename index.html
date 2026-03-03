@@ -36,13 +36,13 @@
         <header class="header">
             <div class="header-inner">
                 <div class="logo-group">
-                    <a href="#" class="logo" data-page="about">AMEESIA MAROLD</a>
+                    <a href="/" class="logo">AMEESIA MAROLD</a>
                     <span class="logo-tagline">Gallery founder, curator, and creative producer working across digital art, contemporary art, and live experience.</span>
                 </div>
                 <nav class="nav">
-                    <a href="#" class="nav-link active" data-page="work">Work</a>
-                    <a href="#" class="nav-link" data-page="about">About</a>
-                    <a href="#" class="nav-link" data-page="contact">Contact</a>
+                    <a href="/" class="nav-link active" data-page="work">Work</a>
+                    <a href="/about" class="nav-link" data-page="about">About</a>
+                    <a href="/contact" class="nav-link" data-page="contact">Contact</a>
                 </nav>
             </div>
         </header>
@@ -124,6 +124,13 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Project Detail Page (rendered by router) -->
+            <div class="page-section" id="project-detail-page">
+                <div class="project-content" id="project-content">
+                    <!-- Dynamic content loaded by script.js -->
+                </div>
+            </div>
         </main>
 
         <!-- Footer -->
@@ -140,14 +147,6 @@
                 <span class="footer-location">Berlin &middot; Global</span>
             </div>
         </footer>
-    </div>
-
-    <!-- Project Detail Overlay -->
-    <div class="project-detail" id="project-detail">
-        <button class="close-button" id="close-project">Close</button>
-        <div class="project-content" id="project-content">
-            <!-- Dynamic content loaded by script.js -->
-        </div>
     </div>
 
     <!-- Scripts -->

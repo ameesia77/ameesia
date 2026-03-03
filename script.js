@@ -1,5 +1,6 @@
 // ===========================
 // Portfolio Site — Data-Driven
+// URL-Based Routing
 // ===========================
 
 document.addEventListener('DOMContentLoaded', async function() {
@@ -13,7 +14,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     const cacheBust = '?v=' + Date.now();
 
     try {
-        const response = await fetch('projects-cms.json' + cacheBust);
+        const response = await fetch('/projects-cms.json' + cacheBust);
         const data = await response.json();
         projectsData = data.projects;
         artistLinks = data.artistLinks || {};
@@ -21,7 +22,10 @@ document.addEventListener('DOMContentLoaded', async function() {
         console.error('Failed to load projects:', err);
     }
 
-    // Helper: render artist name as link if URL exists
+    // ===========================
+    // Helpers
+    // ===========================
+
     function artistTag(name) {
         const url = artistLinks[name];
         if (url) {
@@ -30,7 +34,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         return `<span class="artist-tag">${name}</span>`;
     }
 
-    // Helper: render collection artist name as link
     function collectionArtistLink(name) {
         if (!name) return '';
         const url = artistLinks[name];
@@ -50,61 +53,173 @@ document.addEventListener('DOMContentLoaded', async function() {
     }, 100);
 
     // ===========================
-    // Navigation Between Pages
+    // DOM References
     // ===========================
 
     const navLinks = document.querySelectorAll('.nav-link');
     const pageSections = document.querySelectorAll('.page-section');
+    const gridContainer = document.getElementById('project-grid');
+    const projectDetailSection = document.getElementById('project-detail-page');
+    const projectContent = document.getElementById('project-content');
+
+    // ===========================
+    // Meta Tag Management
+    // ===========================
+
+    const defaultTitle = 'Ameesia Marold';
+    const defaultDescription = 'Curator, creative producer, writer.';
+
+    function setMeta(title, description) {
+        document.title = title || defaultTitle;
+        const metaDesc = document.querySelector('meta[name="description"]');
+        const ogTitle = document.querySelector('meta[property="og:title"]');
+        const ogDesc = document.querySelector('meta[property="og:description"]');
+        const twTitle = document.querySelector('meta[name="twitter:title"]');
+        const twDesc = document.querySelector('meta[name="twitter:description"]');
+        if (metaDesc) metaDesc.setAttribute('content', description || defaultDescription);
+        if (ogTitle) ogTitle.setAttribute('content', title || defaultTitle);
+        if (ogDesc) ogDesc.setAttribute('content', description || defaultDescription);
+        if (twTitle) twTitle.setAttribute('content', title || defaultTitle);
+        if (twDesc) twDesc.setAttribute('content', description || defaultDescription);
+    }
+
+    // ===========================
+    // Router
+    // ===========================
+
+    function getRoute() {
+        return window.location.pathname.replace(/^\/+|\/+$/g, '').toLowerCase();
+    }
+
+    function navigate(path, pushState) {
+        if (pushState !== false) {
+            history.pushState(null, '', '/' + path);
+        }
+        route();
+    }
+
+    function route() {
+        const path = getRoute();
+
+        // Close any lightbox
+        const existingLightbox = document.querySelector('.lightbox-overlay');
+        if (existingLightbox) existingLightbox.remove();
+
+        if (path === '' || path === 'work') {
+            showWorkPage();
+        } else if (path === 'about') {
+            showAboutPage();
+        } else if (path === 'contact') {
+            showContactPage();
+        } else {
+            // Try to find a project by slug
+            const project = projectsData.find(p => p.slug === path);
+            if (project) {
+                showProjectPage(project);
+            } else {
+                // 404 — redirect to home
+                showWorkPage();
+                history.replaceState(null, '', '/');
+            }
+        }
+    }
+
+    // ===========================
+    // Page Display Functions
+    // ===========================
+
+    function showWorkPage() {
+        setMeta(defaultTitle, defaultDescription);
+        setActiveNav('work');
+        showSection('work-page');
+        mainContainer.style.display = '';
+        window.scrollTo(0, 0);
+    }
+
+    function showAboutPage() {
+        setMeta('About — Ameesia Marold', 'Gallery founder, curator, and creative producer working across digital art, contemporary art, and live experience.');
+        setActiveNav('about');
+        showSection('about-page');
+        mainContainer.style.display = '';
+        window.scrollTo(0, 0);
+    }
+
+    function showContactPage() {
+        setMeta('Contact — Ameesia Marold', 'Available for projects, exhibitions, and consulting.');
+        setActiveNav('contact');
+        showSection('contact-page');
+        mainContainer.style.display = '';
+        window.scrollTo(0, 0);
+    }
+
+    function showProjectPage(project) {
+        setMeta(project.metaTitle, project.metaDescription);
+        setActiveNav(null);
+        showSection('project-detail-page');
+
+        const html = buildProjectDetailHTML(project);
+        projectContent.innerHTML = html;
+        mainContainer.style.display = '';
+        document.body.style.overflow = '';
+        window.scrollTo(0, 0);
+        initLightbox();
+    }
+
+    function setActiveNav(pageName) {
+        navLinks.forEach(l => {
+            l.classList.remove('active');
+            if (pageName && l.getAttribute('data-page') === pageName) {
+                l.classList.add('active');
+            }
+        });
+    }
+
+    function showSection(sectionId) {
+        pageSections.forEach(section => {
+            section.classList.remove('active');
+        });
+        const target = document.getElementById(sectionId);
+        if (target) target.classList.add('active');
+    }
+
+    // ===========================
+    // Navigation Event Listeners
+    // ===========================
 
     navLinks.forEach(link => {
         link.addEventListener('click', (e) => {
             e.preventDefault();
             const targetPage = link.getAttribute('data-page');
-            navigateToPage(targetPage);
+            if (targetPage === 'work') {
+                navigate('');
+            } else {
+                navigate(targetPage);
+            }
         });
     });
 
-    // Logo click navigates to About page
-    const logoLink = document.querySelector('.logo[data-page]');
-    if (logoLink) {
-        logoLink.addEventListener('click', (e) => {
+    // Logo click navigates to home (work page)
+    const logo = document.querySelector('.logo');
+    if (logo) {
+        logo.addEventListener('click', (e) => {
             e.preventDefault();
-            navigateToPage('about');
+            navigate('');
         });
     }
 
-    function navigateToPage(pageName) {
-        navLinks.forEach(l => l.classList.remove('active'));
-        const activeLink = document.querySelector(`[data-page="${pageName}"]`);
-        if (activeLink) activeLink.classList.add('active');
-
-        pageSections.forEach(section => section.classList.remove('active'));
-        const targetSection = document.getElementById(`${pageName}-page`);
-        if (targetSection) targetSection.classList.add('active');
-
-        // Close project detail if open
-        const projectDetail = document.getElementById('project-detail');
-        if (projectDetail.classList.contains('active')) {
-            projectDetail.classList.remove('active');
-            document.body.style.overflow = '';
-        }
-
-        window.scrollTo(0, 0);
-    }
+    // Back/forward button
+    window.addEventListener('popstate', () => {
+        route();
+    });
 
     // ===========================
     // Render Project Grid
     // ===========================
 
-    const gridContainer = document.getElementById('project-grid');
-
-    // Sort projects: newest first (by order descending, AUTOMATA first, then BM, then others)
     const sortedProjects = [...projectsData].sort((a, b) => {
-        // Primary sort: by year descending
         const yearA = parseInt(a.year) || 0;
         const yearB = parseInt(b.year) || 0;
         if (yearB !== yearA) return yearB - yearA;
-        // Secondary: by order descending within same year
         return (b.order || 0) - (a.order || 0);
     });
 
@@ -114,15 +229,11 @@ document.addEventListener('DOMContentLoaded', async function() {
         article.setAttribute('data-project-id', project.id);
         article.setAttribute('data-category', project.category);
 
-        // Determine category label for the grid — show organization, not category
         let categoryLabel = project.organization || project.category;
         if (project.category === 'Writing') categoryLabel = 'Writing';
         else if (project.category === 'Speaking & Directing') categoryLabel = 'Speaking';
 
-        // Build year display
         const yearDisplay = project.year || '';
-
-        // Check if cover image exists
         const hasCover = project.coverImage && project.coverImage !== '';
 
         if (hasCover) {
@@ -152,7 +263,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // Handle broken images - fall back to placeholder
+        // Handle broken images
         const img = article.querySelector('img');
         if (img) {
             img.onerror = function() {
@@ -175,7 +286,10 @@ document.addEventListener('DOMContentLoaded', async function() {
         article.style.transform = 'translateY(20px)';
         article.style.transition = `opacity 0.6s ease ${index * 0.03}s, transform 0.6s ease ${index * 0.03}s`;
 
-        article.addEventListener('click', () => openProjectDetail(project));
+        // Click navigates to project URL
+        article.addEventListener('click', () => {
+            navigate(project.slug);
+        });
 
         gridContainer.appendChild(article);
     });
@@ -209,7 +323,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     });
 
     // ===========================
-    // CV Links — open project detail from About page
+    // CV Links — navigate to project URL from About page
     // ===========================
 
     document.querySelectorAll('.cv-link[data-project-link]').forEach(link => {
@@ -218,7 +332,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             const projectId = link.getAttribute('data-project-link');
             const project = projectsData.find(p => p.id === projectId);
             if (project) {
-                openProjectDetail(project);
+                navigate(project.slug);
             }
         });
     });
@@ -246,23 +360,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     });
 
     // ===========================
-    // Project Detail Page
-    // ===========================
-
-    const projectDetail = document.getElementById('project-detail');
-    const projectContent = document.getElementById('project-content');
-    const closeProject = document.getElementById('close-project');
-
-    function openProjectDetail(project) {
-        const html = buildProjectDetailHTML(project);
-        projectContent.innerHTML = html;
-        projectDetail.classList.add('active');
-        document.body.style.overflow = 'hidden';
-        projectDetail.scrollTop = 0;
-        initLightbox();
-    }
-
-    // ===========================
     // Lightbox
     // ===========================
 
@@ -270,11 +367,9 @@ document.addEventListener('DOMContentLoaded', async function() {
     let lightboxIndex = 0;
 
     function initLightbox() {
-        // Remove any existing lightbox
         const existing = document.querySelector('.lightbox-overlay');
         if (existing) existing.remove();
 
-        // Collect all gallery images (hero + grid)
         lightboxImages = [];
         const heroImg = projectContent.querySelector('.gallery-hero img');
         if (heroImg) lightboxImages.push(heroImg.src);
@@ -285,7 +380,6 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         if (lightboxImages.length === 0) return;
 
-        // Create lightbox DOM
         const overlay = document.createElement('div');
         overlay.className = 'lightbox-overlay';
         overlay.innerHTML = `
@@ -332,7 +426,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             showImage((lightboxIndex - 1 + lightboxImages.length) % lightboxImages.length);
         }
 
-        // Click handlers on gallery images
         if (heroImg) {
             heroImg.addEventListener('click', () => openLightbox(0));
         }
@@ -342,17 +435,14 @@ document.addEventListener('DOMContentLoaded', async function() {
             img.addEventListener('click', () => openLightbox(i + offset));
         });
 
-        // Lightbox controls
         lbClose.addEventListener('click', closeLightbox);
         lbPrev.addEventListener('click', prevImage);
         lbNext.addEventListener('click', nextImage);
 
-        // Click backdrop to close
         overlay.addEventListener('click', (e) => {
             if (e.target === overlay) closeLightbox();
         });
 
-        // Keyboard navigation
         function handleKeydown(e) {
             if (!overlay.classList.contains('active')) return;
             if (e.key === 'Escape') closeLightbox();
@@ -361,19 +451,21 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
 
         document.addEventListener('keydown', handleKeydown);
-
-        // Cleanup when detail page closes
-        const closeBtn = document.getElementById('close-project');
-        const cleanupHandler = () => {
-            overlay.remove();
-            document.removeEventListener('keydown', handleKeydown);
-            closeBtn.removeEventListener('click', cleanupHandler);
-        };
-        closeBtn.addEventListener('click', cleanupHandler);
     }
+
+    // ===========================
+    // Build Project Detail HTML
+    // ===========================
 
     function buildProjectDetailHTML(p) {
         let sections = '';
+
+        // Back button
+        sections += `
+            <div class="detail-back">
+                <a href="/" class="back-link" id="back-to-grid">&larr; Back</a>
+            </div>
+        `;
 
         // Header
         sections += `
@@ -385,7 +477,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 <h1 class="detail-title">${p.title}</h1>
                 <div class="detail-meta">
                     <span class="detail-role">${p.role || ''}</span>
-                    <span class="detail-separator">·</span>
+                    <span class="detail-separator">&middot;</span>
                     <span class="detail-date">${p.dateRange || p.year || ''}</span>
                 </div>
                 ${p.venue ? `<p class="detail-venue">${p.venue}</p>` : ''}
@@ -393,7 +485,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             </div>
         `;
 
-        // Full description (above images)
+        // Full description
         if (p.fullDescription) {
             const paragraphs = p.fullDescription.split('\n\n').filter(s => s.trim());
             sections += `
@@ -403,18 +495,18 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // External link (for writing entries) — above images
+        // External link (for writing entries)
         if (p.link) {
             sections += `
                 <div class="detail-section">
                     <a href="${p.link}" class="external-link" target="_blank">
-                        Read on ${p.publication || 'External Site'} →
+                        Read on ${p.publication || 'External Site'} &rarr;
                     </a>
                 </div>
             `;
         }
 
-        // Watch links — above images
+        // Watch links
         if (p.links && p.links.length > 0) {
             sections += `
                 <div class="detail-section">
@@ -431,7 +523,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // Press — above images
+        // Press
         if (p.press && p.press.length > 0) {
             sections += `
                 <div class="detail-section">
@@ -453,7 +545,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             sections += `
                 <div class="detail-section">
                     <a href="${p.exhibitionLink}" class="external-link exhibition-link" target="_blank">
-                        View Exhibition →
+                        View Exhibition &rarr;
                     </a>
                 </div>
             `;
@@ -466,7 +558,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         if (hasImages || hasVideos) {
             sections += `<div class="detail-gallery">`;
 
-            // Cover image hero
             if (p.coverImage) {
                 sections += `
                     <div class="gallery-hero">
@@ -475,7 +566,6 @@ document.addEventListener('DOMContentLoaded', async function() {
                 `;
             }
 
-            // YouTube videos
             if (hasVideos) {
                 sections += `<div class="gallery-videos">`;
                 p.videos.forEach(v => {
@@ -494,7 +584,6 @@ document.addEventListener('DOMContentLoaded', async function() {
                 sections += `</div>`;
             }
 
-            // Gallery grid
             if (p.images && p.images.length > 0) {
                 sections += `<div class="gallery-grid">`;
                 p.images.forEach(img => {
@@ -615,7 +704,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         // Solo Shows (Venice Beach)
         if (p.soloShows && p.soloShows.length > 0) {
             const linkedShows = p.soloShows.map(entry => {
-                // Handle "Artist x Artist" collaborations
                 const parts = entry.split(' x ');
                 const linkedParts = parts.map(name => {
                     const trimmed = name.trim();
@@ -653,7 +741,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // Colorforms (923 Empty Rooms)
+        // Colorforms
         if (p.colorforms && p.colorforms.length > 0) {
             sections += `
                 <div class="detail-section">
@@ -753,11 +841,9 @@ document.addEventListener('DOMContentLoaded', async function() {
     }
 
     function buildCollectionSection(p) {
-        // Handle different collection formats
         const items = p.collection;
         if (!items || items.length === 0) return '';
 
-        // Check if this is the Tokyo format (with sectionTitle and artists array)
         if (items[0].sectionTitle) {
             return `
                 <div class="detail-section">
@@ -769,8 +855,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // Standard collection format (title + artist)
-        const heading = p.cryptoCitizens ? 'Collection' : 'Collection';
+        const heading = 'Collection';
         return `
             <div class="detail-section">
                 <h3 class="section-heading">${heading}</h3>
@@ -789,33 +874,21 @@ document.addEventListener('DOMContentLoaded', async function() {
     }
 
     // ===========================
-    // Close Project Detail
+    // Back Link Handler (delegated)
     // ===========================
 
-    if (closeProject) {
-        closeProject.addEventListener('click', () => {
-            projectDetail.classList.remove('active');
-            document.body.style.overflow = '';
-        });
-    }
-
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && projectDetail.classList.contains('active')) {
-            projectDetail.classList.remove('active');
-            document.body.style.overflow = '';
+    document.addEventListener('click', (e) => {
+        const backLink = e.target.closest('#back-to-grid');
+        if (backLink) {
+            e.preventDefault();
+            navigate('');
         }
     });
 
     // ===========================
-    // Logo Click — Return to Work
+    // Initial Route
     // ===========================
 
-    const logo = document.querySelector('.logo');
-    if (logo) {
-        logo.addEventListener('click', (e) => {
-            e.preventDefault();
-            navigateToPage('work');
-        });
-    }
+    route();
 
 });

@@ -28,8 +28,25 @@
           "note": "See standalone entry"
         }
       ],
-      "openingArtists": ["Lordess Foudre", "Brian Ziff", "Tea Hacic", "Merlin Ettore", "Ellie Pritts", "Mpkoz", "Pixlpa", "Edo Dimuralto", "Erika Weitz"],
-      "soloShows": ["Kitasavi", "Boreta x Strangeloop", "Pixlpa", "BAUHAUS x Coldie", "Jason Ebeyere x H+ Creative", "Young Gun Motion"],
+      "openingArtists": [
+        "Lordess Foudre",
+        "Brian Ziff",
+        "Tea Hacic",
+        "Merlin Ettore",
+        "Ellie Pritts",
+        "Mpkoz",
+        "Pixlpa",
+        "Edo Dimuralto",
+        "Erika Weitz"
+      ],
+      "soloShows": [
+        "Kitasavi",
+        "Boreta x Strangeloop",
+        "Pixlpa",
+        "BAUHAUS x Coldie",
+        "Jason Ebeyere x H+ Creative",
+        "Young Gun Motion"
+      ],
       "images": [
         "images/bright-moments/01-venice-beach-genesis/IMG_7752 (1).JPG",
         "images/bright-moments/01-venice-beach-genesis/IMG_7753.JPG",
@@ -48,7 +65,10 @@
           "link": "https://yovenice.com/2021/06/10/the-first-nft-gallery-has-opened-in-venice/"
         }
       ],
-      "order": 1
+      "order": 1,
+      "slug": "venice-beach",
+      "metaTitle": "Venice Beach, CA — Genesis — Ameesia Marold",
+      "metaDescription": "The gallery where Bright Moments began — a storefront beneath the Venice sign on the boardwalk, dedicated entirely to experiencing generative art as it's born."
     },
     {
       "id": "bm-rituals",
@@ -87,7 +107,10 @@
           "link": "https://gazelliarthouse.com/exhibitions/161-the-nft-award-gazell.io-x-the-lumen-prize-aaron-penne-x-boreta/"
         }
       ],
-      "order": 2
+      "order": 2,
+      "slug": "rituals",
+      "metaTitle": "Rituals — Aaron Penne × Boreta — Ameesia Marold",
+      "metaDescription": "A 50-hour live performance — each of 1,000 unique works a window into a parametric universe where music and visuals evolve infinitely. Winner of the Lumen Prize."
     },
     {
       "id": "bm-new-york",
@@ -122,7 +145,10 @@
         "images/bright-moments/03-new-york/Reflections-Room.jpg"
       ],
       "press": [],
-      "order": 3
+      "order": 3,
+      "slug": "new-york",
+      "metaTitle": "New York — Ameesia Marold",
+      "metaDescription": "A series of gallery nights in SoHo anchored by two landmark exhibitions: Tyler Hobbs' Incomplete Control and Jeff Davis' Reflections."
     },
     {
       "id": "bm-incomplete-control",
@@ -168,7 +194,10 @@
         "images/bright-moments/04-incomplete-control/_DSC9086.jpg",
         "images/bright-moments/04-incomplete-control/_DSC9628.jpg"
       ],
-      "order": 4
+      "order": 4,
+      "slug": "incomplete-control",
+      "metaTitle": "Incomplete Control — Tyler Hobbs — Ameesia Marold",
+      "metaDescription": "100 works released over four nights — Tyler Hobbs narrating his own algorithm in real time while jazz musicians improvised live in response."
     },
     {
       "id": "bm-berlin",
@@ -281,7 +310,10 @@
           "link": "https://www.keyimagazine.com/2022/04/05/brightmoments/"
         }
       ],
-      "order": 5
+      "order": 5,
+      "slug": "nft-art-berlin",
+      "metaTitle": "Berlin — NFT Art Berlin at Kraftwerk — Ameesia Marold",
+      "metaDescription": "Ten nights inside Kraftwerk — 84,000 square feet of former power plant turned into a synthesis of art and electronic music."
     },
     {
       "id": "bm-100-print",
@@ -311,7 +343,10 @@
         "images/bright-moments/06-100-print/100PrintBM-27.jpg"
       ],
       "press": [],
-      "order": 6
+      "order": 6,
+      "slug": "100-print",
+      "metaTitle": "100 PRINT — Ben Kovach — Ameesia Marold",
+      "metaDescription": "100 generative artworks printed as 24\"×36\" giclée, framed in museum-grade acrylic, and installed salon-style. Collectors selected using a draft-pick system."
     },
     {
       "id": "bm-london",
@@ -364,7 +399,10 @@
         "images/bright-moments/07-london/28_7-064.jpg"
       ],
       "press": [],
-      "order": 7
+      "order": 7,
+      "slug": "london",
+      "metaTitle": "London — Ameesia Marold",
+      "metaDescription": "Six artists, five days each — a month of intimate solo exhibitions in Soho."
     },
     {
       "id": "bm-mexico-city",
@@ -434,7 +472,10 @@
           "link": "https://avc.com/2022/11/nft-art-cdmx/"
         }
       ],
-      "order": 8
+      "order": 8,
+      "slug": "mexico-city",
+      "metaTitle": "Mexico City — NFT ART CDMX — Ameesia Marold",
+      "metaDescription": "A four-day, four-night celebration across 3,000+ generative artworks, eleven artists, and 100 continuous hours of programming."
     },
     {
       "id": "bm-velum",
@@ -461,7 +502,10 @@
         "images/bright-moments/09-velum/velum-84.jpg"
       ],
       "press": [],
-      "order": 9
+      "order": 9,
+      "slug": "velum",
+      "metaTitle": "Velum — Harvey Rayner — Ameesia Marold",
+      "metaDescription": "A 100-edition generative series blending abstract expressionism and pop art into a single algorithmic system."
     },
     {
       "id": "bm-fsm",
@@ -495,7 +539,10 @@
         "images/bright-moments/10-fsm/_1115870 - Credit Helge Mundt.jpg"
       ],
       "press": [],
-      "order": 10
+      "order": 10,
+      "slug": "klangteppich",
+      "metaTitle": "Klangteppich — Andreas Rau — Ameesia Marold",
+      "metaDescription": "A multisensory exhibition — 100 jacquard-woven generative works where the algorithm simultaneously produces imagery, sound, and weaving instructions."
     },
     {
       "id": "bm-agar",
@@ -524,7 +571,10 @@
         "images/bright-moments/12-agar/AGAR-92.jpg"
       ],
       "press": [],
-      "order": 12
+      "order": 12,
+      "slug": "agar",
+      "metaTitle": "Agar — Emily Edelman — Ameesia Marold",
+      "metaDescription": "100 generative works reimagining pixel art — circles and squares across 100 distinct color palettes. Collectors named their palette in person."
     },
     {
       "id": "bm-tokyo",
@@ -646,7 +696,10 @@
           "link": "https://decrypt.co/138965/bright-moments-transports-live-nft-art-minting-experience-tokyo"
         }
       ],
-      "order": 13
+      "order": 13,
+      "slug": "tokyo",
+      "metaTitle": "Tokyo — Ameesia Marold",
+      "metaDescription": "Three parallel programs across contrasting venues — thirty-three artists across generative, AI, and Japanese contemporary collections."
     },
     {
       "id": "bm-totems",
@@ -674,7 +727,10 @@
         "images/bright-moments/14-totems/_1116063 - Credit Helge Mundt.jpg"
       ],
       "press": [],
-      "order": 14
+      "order": 14,
+      "slug": "totems",
+      "metaTitle": "Totems: Symbols of Change — Beervangeer & Studio Poca — Ameesia Marold",
+      "metaDescription": "100 generative artworks created from visitors' heart rhythms — each composition as singular as the body that produced it."
     },
     {
       "id": "bm-buenos-aires",
@@ -771,7 +827,10 @@
         "images/bright-moments/17-buenos-aires/_IMP5965 - Credit Ivan Pinto.jpg"
       ],
       "press": [],
-      "order": 17
+      "order": 17,
+      "slug": "buenos-aires",
+      "metaTitle": "Buenos Aires — Ameesia Marold",
+      "metaDescription": "The most theatrical production in the series — an 8-hour live performance in a decaying Belle Époque theater, no screens, only physical mechanisms."
     },
     {
       "id": "bm-hashmarks",
@@ -804,7 +863,10 @@
           "link": "https://decrypt.co/207902/bright-moments-patagonia-how-nft-artist-lured-collectors-remote-boulder"
         }
       ],
-      "order": 18
+      "order": 18,
+      "slug": "hashmarks",
+      "metaTitle": "HASHMARKS — 0xDeafbeef in Patagonia — Ameesia Marold",
+      "metaDescription": "Collectors traveled to Patagonia — the literal end of the world — for the most extreme expression of art experienced beyond the screen."
     },
     {
       "id": "bm-techno-animism",
@@ -849,7 +911,10 @@
           "link": "https://www.yokogaomag.com/editorial/emi-kusano-robot-ai-art"
         }
       ],
-      "order": 19
+      "order": 19,
+      "slug": "techno-animism",
+      "metaTitle": "Techno-Animism — Emi Kusano — Ameesia Marold",
+      "metaDescription": "1,000 works forming a fictional archive of AI fashion photography — a three-city tour exploring the intersection of animistic belief and technology."
     },
     {
       "id": "bm-paris",
@@ -966,7 +1031,10 @@
         "images/bright-moments/20-paris/brightmoments-day4_phdemichelisluciana-01355.jpg"
       ],
       "press": [],
-      "order": 20
+      "order": 20,
+      "slug": "paris",
+      "metaTitle": "Paris — Ameesia Marold",
+      "metaDescription": "The final chapter: 100 algorithms, 100 outputs each. 19 artists across four days in Le Marais — completing the full cycle."
     },
     {
       "id": "bm-venice-italy-finale",
@@ -1030,7 +1098,10 @@
           "link": "https://outland.art/bright-moments/"
         }
       ],
-      "order": 21
+      "order": 21,
+      "slug": "venice-italy",
+      "metaTitle": "Venice, Italy — The Finale — Ameesia Marold",
+      "metaDescription": "From Venice Beach to Venice, Italy — the final exhibition in a three-year, ten-city journey. Sixty artists. Theatrical reveals inside the Scuola Grande."
     },
     {
       "id": "bm-christies",
@@ -1060,7 +1131,10 @@
           "link": "https://www.tetragrammaton.com/content/brightmoments"
         }
       ],
-      "order": 22
+      "order": 22,
+      "slug": "christies",
+      "metaTitle": "Christie's — Bright Moments 2021–2024 Complete Works — Ameesia Marold",
+      "metaDescription": "216 generative and AI artworks representing over 150 artists — the complete archive of a three-year program — at Christie's."
     },
     {
       "id": "bm-dream-0",
@@ -1074,13 +1148,22 @@
       "venue": "Miami Beach Convention Center",
       "featured": true,
       "gridSize": "normal",
-      "coverImage": "",
+      "coverImage": "images/bright-moments/dream-0/cover.jpg",
       "description": "A participatory AI sculpture in which the viewer's spoken words are transformed into visual compositions in real time.",
       "fullDescription": "DREAM-0 by Huemin and Dream Computing. Art Basel Miami Beach 2024. Miami Beach Convention Center, December 4–8, 2024. A participatory AI sculpture in which the viewer's spoken words are transformed into visual compositions in real time. The visitor physically enters the work — a computer and screen integrated into sculptural form — and co-creates through language. Presented by Bright Moments in an edition of 10, DREAM-0 marked the US debut of a work exploring authorship, interactivity, and the evolving relationship between human creativity and machine intelligence.",
-      "artists": ["Huemin", "Dream Computing"],
-      "images": [],
+      "artists": [
+        "Huemin",
+        "Dream Computing"
+      ],
+      "images": [
+        "images/bright-moments/dream-0/IMG_5385.jpg",
+        "images/bright-moments/dream-0/IMG_6805.jpg"
+      ],
       "press": [],
-      "order": 23
+      "order": 23,
+      "slug": "dream-0",
+      "metaTitle": "DREAM-0 — Art Basel Miami Beach — Ameesia Marold",
+      "metaDescription": "A participatory AI sculpture in which the viewer's spoken words are transformed into visual compositions in real time."
     },
     {
       "id": "automata-debut-basel",
@@ -1137,7 +1220,10 @@
           "link": "https://artreview.com/the-digital-art-mile-the-present-and-possible-futures-of-digital-art/"
         }
       ],
-      "order": 23
+      "order": 23,
+      "slug": "automata-art-basel",
+      "metaTitle": "AUTOMATA Debut — Art Basel, Switzerland — Ameesia Marold",
+      "metaDescription": "AUTOMATA's inaugural exhibition — a survey of autonomous art from mechanical drawing machines to contemporary AI systems."
     },
     {
       "id": "automata-abraham",
@@ -1189,7 +1275,10 @@
         "images/automata/25-abraham/Screenshot 2026-02-25 at 7.23.35 PM.jpg",
         "images/automata/25-abraham/Screenshot 2026-02-25 at 7.23.46 PM.jpg"
       ],
-      "order": 24
+      "order": 24,
+      "slug": "abraham-first-works",
+      "metaTitle": "Abraham — First Works — Ameesia Marold",
+      "metaDescription": "2,500 works from the genesis of Abraham — Gene Kogan's autonomous artist project, extending a lineage from Harold Cohen to Scott Draves."
     },
     {
       "id": "automata-solienne-paris-photo",
@@ -1263,7 +1352,10 @@
         "images/automata/26-solienne-paris-photo/Input (1).jpg",
         "images/automata/26-solienne-paris-photo/Poster (1).jpg"
       ],
-      "order": 25
+      "order": 25,
+      "slug": "paris-photo",
+      "metaTitle": "Solienne at Paris Photo — Ameesia Marold",
+      "metaDescription": "The first AI agent artist at a major photography fair — extreme proximity self-portraits and unprompted manifestos on autonomy and creative sovereignty."
     },
     {
       "id": "automata-digital-giverny",
@@ -1292,7 +1384,10 @@
       ],
       "exhibitionLink": "https://www.automata.art/exhibitions/digital-giverny/",
       "press": [],
-      "order": 26
+      "order": 26,
+      "slug": "digital-giverny",
+      "metaTitle": "George Legrady — Digital Giverny — Ameesia Marold",
+      "metaDescription": "First digital edition from a four-decade computational art pioneer — 15 Neural Style Transfer compositions merging Monet's Giverny with industrial surfaces."
     },
     {
       "id": "writing-node",
@@ -1311,7 +1406,10 @@
       "link": "https://rightclicksave.com/article/node-digital-art-finds-a-home-in-silicon-valley",
       "images": [],
       "order": 28,
-      "fullDescription": "A profile of NODE, the Silicon Valley institution building a permanent home for digital and computational art."
+      "fullDescription": "A profile of NODE, the Silicon Valley institution building a permanent home for digital and computational art.",
+      "slug": "node-right-click-save",
+      "metaTitle": "NODE | Digital Art Finds a Home in Silicon Valley — Ameesia Marold",
+      "metaDescription": "A profile of NODE, the Silicon Valley institution building a permanent home for digital and computational art."
     },
     {
       "id": "writing-heft",
@@ -1330,7 +1428,10 @@
       "link": "https://rightclicksave.com/article/how-digital-art-found-its-heft",
       "images": [],
       "order": 29,
-      "fullDescription": "A conversation with the team behind HEFT, exploring how the platform is reshaping the infrastructure for digital art collecting."
+      "fullDescription": "A conversation with the team behind HEFT, exploring how the platform is reshaping the infrastructure for digital art collecting.",
+      "slug": "heft-right-click-save",
+      "metaTitle": "How Digital Art Found its HEFT — Ameesia Marold",
+      "metaDescription": "A conversation with the team behind HEFT, exploring how the platform is reshaping the infrastructure for digital art collecting."
     },
     {
       "id": "speaking-livestreams",
@@ -1369,7 +1470,10 @@
       ],
       "images": [],
       "press": [],
-      "order": 15
+      "order": 15,
+      "slug": "artist-livestreams",
+      "metaTitle": "Bright Moments Artist Livestreams — Ameesia Marold",
+      "metaDescription": "Created and directed the viral artist reveal livestream format — social campaigns that drove massive community engagement."
     },
     {
       "id": "speaking-soho-house",
@@ -1394,7 +1498,10 @@
         "images/speaking/31-soho-house-paris/WhatsApp Image 2025-07-31 at 02.58.23 (2).jpeg"
       ],
       "press": [],
-      "order": 31
+      "order": 31,
+      "slug": "soho-house-paris",
+      "metaTitle": "Soho House Paris — Panel with Danae — Ameesia Marold",
+      "metaDescription": "Panel discussion on digital art, collecting, and the evolving gallery landscape."
     },
     {
       "id": "writing-jenni-pasanen-interview",
@@ -1413,7 +1520,10 @@
       "press": [],
       "link": "https://www.automata.art/editorials/jenni-pasanen-artbreeder-interview/",
       "order": 32,
-      "publication": "AUTOMATA"
+      "publication": "AUTOMATA",
+      "slug": "jenni-pasanen-interview",
+      "metaTitle": "Finding the Missing Piece: Jenni Pasanen on Artbreeder and Joel Simon’s Lasting Impact — Ameesia Marold",
+      "metaDescription": "An interview with Jenni Pasanen on how Artbreeder transformed her practice and catalyzed the broader AI art movement."
     },
     {
       "id": "writing-diid-interview",
@@ -1432,7 +1542,10 @@
       "press": [],
       "link": "https://www.automata.art/editorials/flesh-divinity-diid-interview/",
       "order": 33,
-      "publication": "AUTOMATA"
+      "publication": "AUTOMATA",
+      "slug": "diid-interview",
+      "metaTitle": "From Master to Machine: The Artistic Lineage of Flesh & Divinity — Ameesia Marold",
+      "metaDescription": "An interview with Diid on Higgs, an autonomous AI artist creating the inaugural Flesh & Divinity collection."
     },
     {
       "id": "writing-ganbrood-interview",
@@ -1451,7 +1564,10 @@
       "press": [],
       "link": "https://www.automata.art/editorials/ganbrood-interview/",
       "order": 34,
-      "publication": "AUTOMATA"
+      "publication": "AUTOMATA",
+      "slug": "ganbrood-interview",
+      "metaTitle": "From Breeding Images to Interrogating Reality: The Ganbrood Story — Ameesia Marold",
+      "metaDescription": "An interview with Ganbrood on his journey from Artbreeder to creating conceptually sophisticated AI portraits."
     },
     {
       "id": "writing-solienne-interview",
@@ -1470,7 +1586,10 @@
       "press": [],
       "link": "https://www.automata.art/editorials/solienne-kristi-coronado-paris-photo-interview/",
       "order": 35,
-      "publication": "AUTOMATA"
+      "publication": "AUTOMATA",
+      "slug": "solienne-interview",
+      "metaTitle": "The First AI Agent at Paris Photo: Solienne & Kristi Coronado on Biographical AI and Creative Sovereignty — Ameesia Marold",
+      "metaDescription": "An interview with Solienne and Kristi Coronado on the first AI agent exhibition at a major art fair."
     },
     {
       "id": "writing-legrady-interview",
@@ -1489,7 +1608,10 @@
       "press": [],
       "link": "https://www.automata.art/editorials/george-legrady-digital-giverny-interview/",
       "order": 36,
-      "publication": "AUTOMATA"
+      "publication": "AUTOMATA",
+      "slug": "legrady-interview",
+      "metaTitle": "A Life in Computation: George Legrady Releases His First Digital Collection — Ameesia Marold",
+      "metaDescription": "An interview with George Legrady on four decades of computational art and his first natively digital release."
     },
     {
       "id": "writing-computational-pioneers",
@@ -1508,7 +1630,10 @@
       "press": [],
       "link": "https://substack.com/home/post/p-187445212",
       "order": 37,
-      "publication": "Substack"
+      "publication": "Substack",
+      "slug": "computational-pioneers",
+      "metaTitle": "How Computational Art Pioneers Shape Digital Art’s Next Chapter — Ameesia Marold",
+      "metaDescription": "Essay on the convergence of traditional and digital art worlds, and why they need each other."
     }
   ],
   "categories": [
