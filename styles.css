@@ -124,14 +124,20 @@ button {
     opacity: 0.6;
 }
 
+.logo-group {
+    display: flex;
+    flex-direction: column;
+}
+
 .logo-tagline {
     display: block;
-    font-size: 0.6875rem;
+    font-size: 0.75rem;
     font-weight: 300;
     text-transform: none;
     letter-spacing: 0.02em;
-    color: var(--color-text-dim);
-    margin-top: 2px;
+    color: var(--color-text);
+    opacity: 0.85;
+    margin-top: 3px;
     line-height: 1.4;
 }
 
@@ -385,6 +391,27 @@ button {
 
 .about-text p:first-child {
     font-size: 1.25rem;
+    color: var(--color-text);
+}
+
+.about-quote {
+    margin: var(--space-xl) 0;
+    padding-left: 1.5rem;
+    border-left: 2px solid var(--color-border-light);
+    font-style: italic;
+    font-size: 1.0625rem;
+    color: var(--color-text-dim);
+    line-height: 1.7;
+}
+
+.cv-link {
+    color: var(--color-text-dim);
+    text-decoration: none;
+    transition: color 0.3s ease;
+    display: block;
+}
+
+.cv-link:hover {
     color: var(--color-text);
 }
 

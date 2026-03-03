@@ -1063,6 +1063,26 @@
       "order": 22
     },
     {
+      "id": "bm-dream-0",
+      "title": "DREAM-0 — Art Basel Miami Beach",
+      "category": "Exhibition",
+      "year": "2024",
+      "dateRange": "December 4–8, 2024",
+      "role": "Production",
+      "organization": "Bright Moments",
+      "location": "Miami Beach, FL",
+      "venue": "Miami Beach Convention Center",
+      "featured": true,
+      "gridSize": "normal",
+      "coverImage": "",
+      "description": "A participatory AI sculpture in which the viewer's spoken words are transformed into visual compositions in real time.",
+      "fullDescription": "DREAM-0 by Huemin and Dream Computing. Art Basel Miami Beach 2024. Miami Beach Convention Center, December 4–8, 2024. A participatory AI sculpture in which the viewer's spoken words are transformed into visual compositions in real time. The visitor physically enters the work — a computer and screen integrated into sculptural form — and co-creates through language. Presented by Bright Moments in an edition of 10, DREAM-0 marked the US debut of a work exploring authorship, interactivity, and the evolving relationship between human creativity and machine intelligence.",
+      "artists": ["Huemin", "Dream Computing"],
+      "images": [],
+      "press": [],
+      "order": 23
+    },
+    {
       "id": "automata-debut-basel",
       "title": "AUTOMATA Debut — Art Basel, Switzerland",
       "category": "Exhibition",

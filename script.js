@@ -64,6 +64,15 @@ document.addEventListener('DOMContentLoaded', async function() {
         });
     });
 
+    // Logo click navigates to About page
+    const logoLink = document.querySelector('.logo[data-page]');
+    if (logoLink) {
+        logoLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            navigateToPage('about');
+        });
+    }
+
     function navigateToPage(pageName) {
         navLinks.forEach(l => l.classList.remove('active'));
         const activeLink = document.querySelector(`[data-page="${pageName}"]`);
@@ -196,6 +205,21 @@ document.addEventListener('DOMContentLoaded', async function() {
                     item.style.display = category === 'Speaking & Directing' ? '' : 'none';
                 }
             });
+        });
+    });
+
+    // ===========================
+    // CV Links — open project detail from About page
+    // ===========================
+
+    document.querySelectorAll('.cv-link[data-project-link]').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const projectId = link.getAttribute('data-project-link');
+            const project = projectsData.find(p => p.id === projectId);
+            if (project) {
+                openProjectDetail(project);
+            }
         });
     });
 
