@@ -495,15 +495,33 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
         }
 
-        // External link (for writing entries)
-        if (p.link) {
+        // Embedded essay (full text on page)
+        if (p.embeddedEssay && p.embeddedEssay.length > 0) {
             sections += `
-                <div class="detail-section">
+                <div class="essay-body">
+                    ${p.embeddedEssay.map(para => `<p>${para}</p>`).join('')}
+                </div>
+            `;
+        }
+
+        // External links (for writing entries)
+        if (p.link || p.xLink) {
+            sections += `<div class="detail-section essay-links">`;
+            if (p.link) {
+                sections += `
                     <a href="${p.link}" class="external-link" target="_blank">
                         Read on ${p.publication || 'External Site'} &rarr;
                     </a>
-                </div>
-            `;
+                `;
+            }
+            if (p.xLink) {
+                sections += `
+                    <a href="${p.xLink}" class="external-link" target="_blank">
+                        View on X &rarr;
+                    </a>
+                `;
+            }
+            sections += `</div>`;
         }
 
         // Watch links

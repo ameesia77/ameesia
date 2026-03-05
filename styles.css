@@ -808,6 +808,34 @@ button {
 }
 
 /* ===========================
+   Detail Page — Embedded Essay
+   =========================== */
+
+.essay-body {
+    max-width: 680px;
+    margin-bottom: var(--space-xl);
+}
+
+.essay-body p {
+    font-size: 1.0625rem;
+    line-height: 1.85;
+    color: var(--color-text-dim);
+    margin-bottom: 1.5rem;
+}
+
+.essay-body p:first-child {
+    font-size: 1.125rem;
+    color: var(--color-text);
+    line-height: 1.75;
+}
+
+.essay-links {
+    display: flex;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+}
+
+/* ===========================
    Detail Page — Sections
    =========================== */
 
