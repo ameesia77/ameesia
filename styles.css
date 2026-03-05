@@ -819,14 +819,8 @@ button {
 .essay-body p {
     font-size: 1.0625rem;
     line-height: 1.85;
-    color: var(--color-text-dim);
-    margin-bottom: 1.5rem;
-}
-
-.essay-body p:first-child {
-    font-size: 1.125rem;
     color: var(--color-text);
-    line-height: 1.75;
+    margin-bottom: 1.5rem;
 }
 
 .essay-links {

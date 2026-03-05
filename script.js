@@ -485,8 +485,8 @@ document.addEventListener('DOMContentLoaded', async function() {
             </div>
         `;
 
-        // Full description
-        if (p.fullDescription) {
+        // Full description (skip if embedded essay is present)
+        if (p.fullDescription && !(p.embeddedEssay && p.embeddedEssay.length > 0)) {
             const paragraphs = p.fullDescription.split('\n\n').filter(s => s.trim());
             sections += `
                 <div class="detail-description">
