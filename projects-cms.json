@@ -1651,6 +1651,56 @@
       "metaDescription": "Essay on the convergence of traditional and digital art worlds, and why they need each other."
     },
     {
+      "id": "writing-geoffrey-lillemon",
+      "title": "On Finding Geoffrey Lillemon",
+      "category": "Writing",
+      "year": "2026",
+      "dateRange": "2026",
+      "role": "Author",
+      "organization": "Personal",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/writing/on-finding-geoffrey-lillemon/cover.jpg",
+      "description": "On discovering an artist who has spent twenty-five years between commercial spectacle and a deeply personal browser-based practice \u2014 and the gray area where both meet.",
+      "fullDescription": "On discovering Geoffrey Lillemon, an artist who has directed creative for Beyonc\u00e9, Gucci, Jean Paul Gaultier, and Rick Owens while quietly building Oculart: ten browser-based worlds, each with its own domain, its own visual system, its own algorithm. An essay on the gray area between commercial visibility and art-world recognition, and what it means to collect browser art.",
+      "images": [],
+      "press": [],
+      "essayLinks": [
+        {
+          "label": "Read on Substack",
+          "url": "https://substack.com/home/post/p-192857091"
+        },
+        {
+          "label": "Read on Automata",
+          "url": "https://www.automata.art/editorials/on-finding-geoffrey-lillemon/"
+        }
+      ],
+      "embeddedEssay": [
+        "I recently made a happy discovery of artist Geoffrey Lillemon, who has been sitting between two worlds for twenty-five years. What I have found is that the gray area he lives in, one between commercial visibility and art-world recognition, is a place where I want to be working.",
+        "He\u2019s directed creative for Beyonc\u00e9, Gucci, Jean Paul Gaultier, and Rick Owens to name a few. His work is in the permanent collection of the Stedelijk Museum. He\u2019s been a guest of honor at Centre Pompidou. And parallel to all of it, he\u2019s been quietly building Oculart: ten browser-based worlds, each with its own domain, its own visual system, its own algorithm, that very few in the art world have yet seen. The commercial work shaped pop culture. The personal work shaped him.",
+        "I found him on Instagram. The aesthetic was neon, surreal, eighties/nineties, alive in a way I couldn\u2019t place. Then I went to his website, saw the client list, and something clicked. I\u2019d been absorbing this visual language for years, through fashion campaigns, through the Miley Cyrus Bangerz era when I was fourteen, without knowing it had a name. I cold-emailed him. He wrote back.",
+        "What started as a curatorial discovery became something I didn\u2019t expect. I\u2019m now working with Geoffrey as a manager and creative partner in solving a problem that has no clean precedent: how do we present these browser-based worlds?",
+        "The first thing Geoffrey showed me was Oculart, which has a more relevant history than I initially realized. He started it in the late 1990s, when tools like Flash first made real-time animation possible on the web. By 2002 it had blown up, the site is now archived in the Web Design Museum as part of the \u201cGolden Age of Web Design,\u201d and it\u2019s catalogued on net-art.org as part of the net art canon. It got him invited to the Banff New Media Institute in Canada when he was twenty. He exhibited internationally under the Oculart name before the commercial career ever started. What exists now, the ten browser-based worlds built in WebGL and generative systems, is the current evolution of a practice that helped define what browser art could be in the first place.",
+        "Today on Oculart, each world occupies its own domain, runs on its own system. One is driven by a chess AI. Another by a physics simulation. Another by a procedural sound system. Together they form a body of work expressed across distinct characters and experiences, the act of reading a book, tuning a fork, watching a match.",
+        "But here\u2019s what fascinated me most: the worlds aren\u2019t isolated. They\u2019re all connected systems. The chess engine in one work can influence how a piano player performs in another, which controls the tempo of a lightning simulation, which drives an orchestra. One expression of energy translating through different artworks, becoming one ultimate body of work.",
+        "When I asked why this medium, he said something I hadn\u2019t considered. \u201cWhen working locally, in such a small space, not giant paintings, or big sculptures, you get closer to the source. It\u2019s almost the closest you can get your brain and soul into the machine.\u201d",
+        "The web is a mass medium, anything with a link can reach anyone. But Geoffrey wasn\u2019t describing reach. He was describing closeness. One person, one screen, one world generating itself in real time. The browser is both the grand stage and the intimate room.",
+        "He has spent two decades making visuals for some of the biggest names in fashion and music. Spectacle at scale. Seen by millions. And parallel to all of it, Oculart has been running, this private, uncanny, personal practice that both informed the commercial work and was formed by it.",
+        "I asked how the two coexist. \u201cOculart is this introspective, thought-provoked canvas that has deep personal meaning. I don\u2019t collaborate on it because it is a safe space that offers a clear path to a source of inspiration. Pop and commercial work are completely different \u2014 the pace and pressure can be so high that there isn\u2019t time for self-reflection, but it can be an honest expression of what comes out when you can\u2019t overthink and have to throw down and flow.\u201d",
+        "He exists between his pop-culture persona and a deeply research-driven practice. He has audiences in two very different worlds, and a much larger group of people, the ones who absorbed his aesthetic through campaigns, music videos, and fashion shows, who have never connected the two. They\u2019ve been living inside Geoffrey Lillemon\u2019s visual language without knowing his name. That gap is where I work.",
+        "Discovering Geoffrey at this stage feels serendipitous. After many years of building Oculart alongside commercial projects for the world\u2019s biggest brands, he\u2019s at a turning point, wanting to devote himself fully to his personal practice. And I found him right at that moment.",
+        "The more time I spend with Oculart, the more I realize the opportunity isn\u2019t just an exhibition. It\u2019s also a question: how do you collect a browser world?",
+        "Browser-based art has an accessibility that most art forms don\u2019t, anyone with a link can experience it. But that same accessibility creates a tension with collectability. If everyone can see it, what does it mean to own it? And if it\u2019s running in a browser, what physical object, if any, anchors that ownership?",
+        "Geoffrey and I have been working through this together, and what we\u2019ve arrived at is something I\u2019m excited about. Each of the ten Oculart worlds will come with a small physical art computer: a bespoke device that hosts the work, serves as proof of ownership, and functions as a display object in its own right. The artwork lives in the cloud, running on dedicated processing power, but the collector holds this physical key, a miniature version of the world they own, always running, always connected to the full-scale work.",
+        "It solves a problem that digital art collecting is faced with: the feeling that you don\u2019t have anything tangible. The art computer is. It runs the work and can be displayed anywhere. But it also reflects the technology behind the art itself, browser-based, cloud-hosted, scalable. The physical object and the cloud-hosted work aren\u2019t separate things. They\u2019re the same piece at different scales.",
+        "We\u2019re still designing the first prototypes. I\u2019ll be sharing that process as it unfolds. Collectors can expect something experiential, not a screen on a wall, but a dedicated object that lets you step into one of these worlds on your own terms. We\u2019re defining what it means to collect browser art today. I asked Geoffrey what he wants the private encounter with his work to feel like. \u201cI used to have a house that looked like the work in Oculart, and it made me insane to live in it. So what\u2019s better than visiting the asylum from a clickable distance?\u201d That\u2019s what we are building."
+      ],
+      "order": 38,
+      "slug": "on-finding-geoffrey-lillemon",
+      "metaTitle": "On Finding Geoffrey Lillemon \u2014 Ameesia Marold",
+      "metaDescription": "On discovering an artist who has spent twenty-five years between commercial spectacle and a deeply personal browser-based practice."
+    },
+    {
       "id": "klctn-dream-machine",
       "title": "Dream Machine — The Kollection",
       "category": "Exhibition",

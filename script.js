@@ -505,7 +505,17 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
 
         // External links (for writing entries)
-        if (p.link || p.xLink) {
+        if (p.essayLinks && p.essayLinks.length > 0) {
+            sections += `<div class="detail-section essay-links">`;
+            p.essayLinks.forEach(el => {
+                sections += `
+                    <a href="${el.url}" class="external-link" target="_blank">
+                        ${el.label} &rarr;
+                    </a>
+                `;
+            });
+            sections += `</div>`;
+        } else if (p.link || p.xLink) {
             sections += `<div class="detail-section essay-links">`;
             if (p.link) {
                 sections += `
