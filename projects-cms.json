@@ -1649,6 +1649,79 @@
       "slug": "computational-pioneers",
       "metaTitle": "How Computational Art Pioneers Shape Digital Art's Next Chapter — Ameesia Marold",
       "metaDescription": "Essay on the convergence of traditional and digital art worlds, and why they need each other."
+    },
+    {
+      "id": "klctn-dream-machine",
+      "title": "Dream Machine — The Kollection",
+      "category": "Exhibition",
+      "year": "2023",
+      "dateRange": "September 16, 2023",
+      "role": "Co-Producer",
+      "organization": "The Kollection (KLCTN)",
+      "location": "Los Angeles, CA",
+      "venue": "Future Factory, Los Angeles",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/misc/dream-machine/cover.jpg",
+      "description": "An immersive multi-stage festival spanning five distinct worlds — live music, art installations, fashion, performance, and more.",
+      "fullDescription": "Dream Machine, produced with The Kollection (KLCTN) at Future Factory in Los Angeles. A multi-stage immersive festival spanning five distinct worlds, featuring 15+ electronic and indie music acts across three festival-scale stages. The event included The Freak City Fashion Experience, immersive art installations, live painting, a performance art lounge by Projekt, a shopping marketplace, and natural wine. A format built around the idea that a single ticket should unlock an entire night of overlapping creative experiences — music, fashion, art, and community colliding under one roof.",
+      "artists": [],
+      "images": [
+        "images/misc/dream-machine/AE3A0182.jpg",
+        "images/misc/dream-machine/AE3A8592.jpg",
+        "images/misc/dream-machine/AE3A9019.jpg",
+        "images/misc/dream-machine/AE3A9154.jpg",
+        "images/misc/dream-machine/AE3A9558.jpg",
+        "images/misc/dream-machine/DSCF0317.jpg",
+        "images/misc/dream-machine/busted b_w-04.jpg",
+        "images/misc/dream-machine/future_091723-1012142.jpg",
+        "images/misc/dream-machine/future_091723-1012216.jpg",
+        "images/misc/dream-machine/future_091723-1012287.jpg"
+      ],
+      "press": [],
+      "order": 38,
+      "slug": "dream-machine",
+      "metaTitle": "Dream Machine — The Kollection — Ameesia Marold",
+      "metaDescription": "An immersive multi-stage festival spanning five distinct worlds — live music, art installations, fashion, performance, and more."
+    },
+    {
+      "id": "chosen-family",
+      "title": "Chosen Family — Silver Linings Lounge, New York",
+      "category": "Exhibition",
+      "year": "2024",
+      "dateRange": "May 2024",
+      "role": "Co-Producer",
+      "organization": "Independent",
+      "location": "New York, NY",
+      "venue": "Silver Linings Lounge, Bowery, New York",
+      "featured": false,
+      "gridSize": "normal",
+      "coverImage": "images/misc/chosen-family/cover.jpg",
+      "description": "A private variety show at Silver Linings Lounge — live comedy, bands, and singers in an intimate, fully recorded format.",
+      "fullDescription": "Chosen Family at Silver Linings Lounge in the Bowery, New York. A private, invite-only variety show blending live comedy, bands, and singers into a single evening — four performances recorded in full, creating the feeling of being inside a live taping. Part Saturday Night Live, part classic supper-club showcase. The format put the audience at the center of something between a talent show and a cultural broadcast, intimate and unexpected. Co-produced with Kian McHugh and Mitch Meleski.",
+      "performers": [
+        "Emeline (singer)",
+        "The Thing (band)",
+        "Matt Richards (comedy)",
+        "Private Browsing (band)"
+      ],
+      "coProducers": [
+        "Kian McHugh",
+        "Mitch Meleski"
+      ],
+      "images": [
+        "images/misc/chosen-family/1AC1C956-3526-4274-8409-D8ADE69FBAFB.jpeg",
+        "images/misc/chosen-family/240512027055030010.jpg",
+        "images/misc/chosen-family/240512027055030030.jpg",
+        "images/misc/chosen-family/240512027055130016.jpg",
+        "images/misc/chosen-family/6CD1DCC1-4B75-48F0-A17D-BE945206BCC0.jpeg",
+        "images/misc/chosen-family/Chosen Family - Event B&W-01.jpg"
+      ],
+      "press": [],
+      "order": 39,
+      "slug": "chosen-family",
+      "metaTitle": "Chosen Family — Silver Linings Lounge, New York — Ameesia Marold",
+      "metaDescription": "A private variety show at Silver Linings Lounge — live comedy, bands, and singers in an intimate, fully recorded format."
     }
   ],
   "categories": [
