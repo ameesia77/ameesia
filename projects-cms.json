@@ -1660,10 +1660,12 @@
       "organization": "Personal",
       "featured": false,
       "gridSize": "normal",
-      "coverImage": "images/writing/on-finding-geoffrey-lillemon/cover.jpg",
+      "coverImage": "images/writing/on-finding-geoffrey-lillemon/cover.png",
       "description": "On discovering an artist who has spent twenty-five years between commercial spectacle and a deeply personal browser-based practice \u2014 and the gray area where both meet.",
       "fullDescription": "On discovering Geoffrey Lillemon, an artist who has directed creative for Beyonc\u00e9, Gucci, Jean Paul Gaultier, and Rick Owens while quietly building Oculart: ten browser-based worlds, each with its own domain, its own visual system, its own algorithm. An essay on the gray area between commercial visibility and art-world recognition, and what it means to collect browser art.",
-      "images": [],
+      "images": [
+        "images/writing/on-finding-geoffrey-lillemon/canon-of-eclipse.png"
+      ],
       "press": [],
       "essayLinks": [
         {
