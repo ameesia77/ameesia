@@ -1703,6 +1703,38 @@
       "metaDescription": "On discovering an artist who has spent twenty-five years between commercial spectacle and a deeply personal browser-based practice."
     },
     {
+      "id": "oculart-geoffrey-lillemon",
+      "title": "Oculart \u2014 Geoffrey Lillemon",
+      "category": "Exhibition",
+      "year": "2026",
+      "dateRange": "April 2026 \u2014 Ongoing",
+      "role": "Artist Manager, Sales & Distribution",
+      "organization": "AUTOMATA",
+      "location": "Online + Global",
+      "venue": "Online Exhibition, presented by AUTOMATA",
+      "featured": true,
+      "gridSize": "large",
+      "coverImage": "images/misc/oculart/cover.jpg",
+      "description": "Ten autonomous browser-based art worlds by Geoffrey Lillemon, built over twenty-five years. Now available for acquisition through AUTOMATA.",
+      "fullDescription": "Managing artist Geoffrey Lillemon and leading sales and distribution for Oculart: ten autonomous browser-based art worlds, each driven by its own algorithm, its own data, its own visual system. Geoffrey has spent twenty-five years working at the intersection of art, code, and performance \u2014 directing creative for Beyonc\u00e9, Gucci, Jean Paul Gaultier, Rick Owens, and more, with work in the permanent collection of the Stedelijk Museum and commissions from Centre Pompidou, Van Gogh Museum, and Grand Palais Immersif.\n\nOculart began in the late 1990s when Flash first made real-time animation possible on the web. By 2002, it was archived in the Web Design Museum as part of the Golden Age of Web Design and catalogued on net-art.org as part of the net art canon. Today, the ten worlds run in WebGL and generative systems \u2014 one driven by a chess AI, another by a physics simulation, another by a procedural sound system. They are interconnected: the chess engine in one work influences a piano player in another, which controls the tempo of a lightning simulation, which drives an orchestra.\n\nEach work is an original one-of-one artwork paired with a bespoke physical art computer that hosts the work, serves as proof of ownership, and functions as a display object. The artwork lives in the cloud, running on dedicated processing power, while the collector holds a physical key \u2014 always running, always connected to the full-scale work.\n\nFor acquisition inquiries, exhibition proposals, or any interest in working with Geoffrey Lillemon, contact ameesia@automata.art.",
+      "artists": [
+        "Geoffrey Lillemon"
+      ],
+      "images": [],
+      "exhibitionLink": "https://www.automata.art/exhibitions/oculart/",
+      "essayLinks": [
+        {
+          "label": "Learn more about Geoffrey Lillemon",
+          "url": "https://commercial.geoffreylillemon.com/"
+        }
+      ],
+      "press": [],
+      "order": 40,
+      "slug": "oculart",
+      "metaTitle": "Oculart \u2014 Geoffrey Lillemon \u2014 Ameesia Marold",
+      "metaDescription": "Ten autonomous browser-based art worlds by Geoffrey Lillemon, built over twenty-five years. Now available for acquisition through AUTOMATA."
+    },
+    {
       "id": "klctn-dream-machine",
       "title": "Dream Machine — The Kollection",
       "category": "Exhibition",
