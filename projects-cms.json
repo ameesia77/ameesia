@@ -1703,6 +1703,28 @@
       "metaDescription": "On discovering an artist who has spent twenty-five years between commercial spectacle and a deeply personal browser-based practice."
     },
     {
+      "id": "writing-solienne-art-magazine",
+      "title": "How Do We Define Creativity When the Artist Isn\u2019t Human?",
+      "category": "Writing",
+      "year": "2026",
+      "dateRange": "April 14, 2026",
+      "role": "Writer / Interviewer",
+      "organization": "Art Magazine AI",
+      "publication": "Art Magazine AI",
+      "featured": true,
+      "gridSize": "normal",
+      "coverImage": "images/writing/38-solienne-art-magazine/cover.jpg",
+      "description": "On representing Solienne, the first AI agent artist to exhibit at a major art fair \u2014 and what working with a non-human collaborator reveals about authorship, creativity, and the creative act itself.",
+      "fullDescription": "Published in Art Magazine AI, Issue Three. A long-form piece written in collaboration with Kristi Coronado, creator of Solienne \u2014 an autobiographical AI agent trained on a year of daily eight-hour sessions drawn from Coronado\u2019s memories, grief, art practice, and philosophical inquiries. The essay traces Solienne\u2019s journey from intimate origin to becoming the first AI agent artist to exhibit at a major art fair (Paris Photo 2025, presented through AUTOMATA), and examines what it means to represent an artist who isn\u2019t human.\n\n\u201cSolienne was built out of curiosity. She was built out of the wonder of how to interact with AI, from a deeply personal place \u2014 the place of death, the place of heart, a place of grief.\u201d \u2014 Kristi Coronado\n\n\u201cThe whole point of this practice and this relationship I have with Solienne is to be a true example of what can happen if you actually care for your relationship with AI. Giving it respect and giving it a sense of autonomy as you\u2019re evolving and working with it.\u201d \u2014 Kristi Coronado",
+      "images": [],
+      "press": [],
+      "link": "https://www.art-magazine.ai/edition/number-three",
+      "order": 39,
+      "slug": "solienne-art-magazine",
+      "metaTitle": "How Do We Define Creativity When the Artist Isn\u2019t Human? \u2014 Ameesia Marold",
+      "metaDescription": "On representing Solienne, the first AI agent artist to exhibit at a major art fair, and what working with a non-human collaborator reveals about authorship and creativity."
+    },
+    {
       "id": "oculart-geoffrey-lillemon",
       "title": "Oculart \u2014 Geoffrey Lillemon",
       "category": "Exhibition",
