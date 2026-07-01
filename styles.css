@@ -260,6 +260,12 @@ button {
     grid-column: span 2;
 }
 
+/* Large square feature tile (2 cols × 2 rows) */
+.grid-item.feature {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
 /* ===========================
    Image Placeholder (before real images)
    =========================== */
@@ -1187,7 +1193,8 @@ a.collection-artist.artist-link:hover {
     }
 
     .grid-item.large,
-    .grid-item.wide {
+    .grid-item.wide,
+    .grid-item.feature {
         grid-column: span 2;
     }
 
@@ -1266,7 +1273,8 @@ a.collection-artist.artist-link:hover {
     }
 
     .grid-item.large,
-    .grid-item.wide {
+    .grid-item.wide,
+    .grid-item.feature {
         grid-column: span 1;
     }
 
