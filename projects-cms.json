@@ -2070,6 +2070,28 @@
           "download": true
         }
       ]
+    },
+    {
+      "id": "writing-sunday-salon-sleek",
+      "title": "Sunday Salon: Corrupting Gaze",
+      "category": "Writing",
+      "year": "2026",
+      "dateRange": "June 25, 2026",
+      "role": "Author",
+      "organization": "Sleek Magazine",
+      "publication": "Sleek Magazine",
+      "publicationType": "Essay",
+      "featured": true,
+      "gridSize": "normal",
+      "coverImage": "images/writing/40-sunday-salon-sleek/cover.jpg",
+      "description": "A shared diary of Sunday Salon: Corrupting Gaze in three voices, written for Sleek Magazine with Casey Spooner and Serkan Sarier.",
+      "fullDescription": "A three-voice account of Sunday Salon: Corrupting Gaze, written for Sleek Magazine with Casey Spooner and Serkan Sarier. Ameesia Marold writes on the curatorial framework that brought the work into being, Spooner from inside the physical and psychological experience of the living sculpture, and Sarier on the art-historical lineage of the reclining nude. Together the texts unfold like a shared diary of one night during Berlin Gallery Weekend 2026.",
+      "link": "https://www.sleek-mag.com/article/sunday-salon-corrupting-gaze/",
+      "images": [],
+      "order": 45,
+      "slug": "sunday-salon-sleek",
+      "metaTitle": "Sunday Salon: Corrupting Gaze (Sleek Magazine) — Ameesia Marold",
+      "metaDescription": "A shared diary of Sunday Salon: Corrupting Gaze in three voices, written for Sleek Magazine with Casey Spooner and Serkan Sarier."
     }
   ],
   "categories": [
