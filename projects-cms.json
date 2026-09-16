@@ -1748,6 +1748,10 @@
       "exhibitionLink": "https://www.automata.art/exhibitions/oculart/",
       "essayLinks": [
         {
+          "label": "View Oculart",
+          "url": "https://www.oculart.com/"
+        },
+        {
           "label": "Learn more about Geoffrey Lillemon",
           "url": "https://commercial.geoffreylillemon.com/"
         }
