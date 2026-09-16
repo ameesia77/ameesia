@@ -1393,8 +1393,8 @@
       "id": "writing-node",
       "title": "NODE | Digital Art Finds a Home in Silicon Valley",
       "category": "Writing",
-      "year": "2025",
-      "dateRange": "2025",
+      "year": "2026",
+      "dateRange": "January 2026",
       "role": "Author",
       "organization": "Right Click Save",
       "publication": "Right Click Save",
@@ -1960,13 +1960,13 @@
           "link": "https://thecoldmagazine.co.uk/five-exhibitions-to-see-during-paris-mens-fashion-week-surrealism-to-wwii/"
         },
         {
-          "publication": "Instagram",
-          "title": "Futur Passé — Opening (@ameesia)",
+          "publication": "Duriev",
+          "title": "Futur Passé — Opening",
           "link": "https://www.instagram.com/p/DZpS8HmjBDu/"
         },
         {
-          "publication": "Instagram",
-          "title": "Futur Passé — Exhibition (@ameesia)",
+          "publication": "CodinCowboyX",
+          "title": "Futur Passé — Exhibition",
           "link": "https://www.instagram.com/p/DZ2igTECv2f/"
         }
       ],
@@ -2057,7 +2057,14 @@
       "order": 44,
       "slug": "notfallgruppenshow",
       "metaTitle": "Notfallgruppenshow — Berlin Art Week — Ameesia Marold",
-      "metaDescription": "An emergency group show by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD, Berlin Art Week 2026. Curated and produced by Ameesia Marold."
+      "metaDescription": "An emergency group show by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD, Berlin Art Week 2026. Curated and produced by Ameesia Marold.",
+      "essayLinks": [
+        {
+          "label": "Download the Art Guide (PDF)",
+          "url": "/downloads/Notfallgruppenshow_Art_Guide.pdf",
+          "download": true
+        }
+      ]
     }
   ],
   "categories": [

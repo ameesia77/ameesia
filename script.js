@@ -509,7 +509,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             sections += `<div class="detail-section essay-links">`;
             p.essayLinks.forEach(el => {
                 sections += `
-                    <a href="${el.url}" class="external-link" target="_blank">
+                    <a href="${el.url}" class="external-link" target="_blank"${el.download ? ' download' : ''}>
                         ${el.label} &rarr;
                     </a>
                 `;
