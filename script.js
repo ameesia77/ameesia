@@ -507,6 +507,9 @@ document.addEventListener('DOMContentLoaded', async function() {
         // External links (for writing entries)
         if (p.essayLinks && p.essayLinks.length > 0) {
             sections += `<div class="detail-section essay-links">`;
+            if (p.essayNote) {
+                sections += `<p class="essay-note">${p.essayNote}</p>`;
+            }
             p.essayLinks.forEach(el => {
                 sections += `
                     <a href="${el.url}" class="external-link" target="_blank"${el.download ? ' download' : ''}>
