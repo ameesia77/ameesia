@@ -2040,14 +2040,14 @@
       "category": "Exhibition",
       "year": "2026",
       "dateRange": "September 11 – October 9, 2026 · Open Wednesday to Friday, 12–6 pm",
-      "role": "Curator & Producer",
+      "role": "Curator",
       "organization": "SPOONERHOLLYWOOD",
       "location": "Berlin, Germany",
       "venue": "SPOONERHOLLYWOOD, Mollstrasse 1, First Floor, 10178 Berlin-Mitte",
       "featured": true,
       "gridSize": "feature",
       "coverImage": "images/misc/notfallgruppenshow/cover.jpg",
-      "description": "An emergency group show of painting, sculpture, film and photography by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD during Berlin Art Week. Curated and produced by Ameesia Marold.",
+      "description": "An emergency group show of painting, sculpture, film and photography by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD during Berlin Art Week. Curated by Ameesia Marold.",
       "fullDescription": "For Berlin Art Week, SPOONERHOLLYWOOD presented Notfallgruppenshow, or Emergency Group Show, of painting, sculpture, film and photography by four artists from its close circle.\n\nSPOONERHOLLYWOOD is Casey Spooner’s new artist studio in Mitte, programmed with curator Ameesia Marold. Part artist studio space, part gallery, basically a large room shared by the community of creatives around it. Rather than presenting works within the conventions of a whitewalls gallery, it is raw, intimate, and atmospheric. Its first exhibition, Sunday Salon, opened during Gallery Weekend. Notfallgruppenshow was the second, positioned during Berlin Art Week.\n\nThe show ran on whimsicality, surrealism, and quiet unease. Dafni Krazoudi presented her short film Disaster, shot in Berlin and Biesenthal, screening throughout the night. In her words, “Disaster is about wounds that have not happened yet. Perhaps they never will. But if they do, they will grow like roots.”\n\nSofiia Stepanova showed new oil paintings: figures that move between presence and dissolution, where vulnerability and control coexist.\n\nTarron Ruiz Avila showed a body of work called Rehabilitation Exercises for Online Chess Addiction: what he calls ‘assemblages’, each of which took him over a year to make, alongside an equally painfully detailed felt tip pen drawing. He individually cut thousands of the letter Z out of magazines and newspapers with a scalpel, then dyed each one black, before arranging them on many layers of glass to achieve the effect. His layered works trace how memory bends under the pressure of the technological present.\n\nCasey Spooner turned his own office into an installation: photographs by Max von Gumppenberg from his last exhibition at the space, recent bronzes from Noack Berlin, and the working clutter of a studio life laid open.\n\nMeant to be fun, casual, and communal. Magma, the new local wine bar and restaurant, came to pour, with the couple behind it working the room themselves. Nothing about it was precious or pretentious. Think of it as the new hot welcoming art space in Berlin.\n\nCasey Spooner is an American multidisciplinary artist and musician based in Berlin and Paris. As co-founder of Fischerspooner, he helped shape electroclash worldwide. His works and performances have been presented at MoMA, the Guggenheim, Centre Pompidou, Fondation Beyeler, Kestnergesellschaft, mumok Vienna, Gropius Bau, and the Neue Nationalgalerie Berlin.\n\nDafni Krazoudi is a Greek artist based in Berlin, working across choreography, language and installation. Her practice draws on mythology, belief systems and historical residue, exploring how memory, perception and meaning are formed, displaced and never fully grasped. Her work has been presented at the Neue Nationalgalerie, Berlin Art Week, Berlin Fashion Week and Alice Black Gallery, among others.\n\nSofiia Stepanova is a Ukrainian artist based in Berlin. She studied painting at the Kyiv Academy of Fine Arts and Architecture, where her background in iconography, religious art, and symbolism continues to inform the compositional and psychological structure of her work.\n\nTarron Ruiz Avila is an Australian visual artist based in Berlin, working in collage, assemblage, drawing, and sculpture.",
       "artists": [
         "Dafni Krazoudi",
@@ -2122,7 +2122,7 @@
       "order": 45,
       "slug": "notfallgruppenshow",
       "metaTitle": "Notfallgruppenshow — Berlin Art Week — Ameesia Marold",
-      "metaDescription": "An emergency group show by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD, Berlin Art Week 2026. Curated and produced by Ameesia Marold.",
+      "metaDescription": "An emergency group show by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD, Berlin Art Week 2026. Curated by Ameesia Marold.",
       "essayLinks": [
         {
           "label": "Download the Art Guide (PDF)",
