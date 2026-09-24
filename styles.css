@@ -679,6 +679,17 @@ button {
     margin-top: var(--space-xs);
 }
 
+.detail-note {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-top: var(--space-sm);
+}
+
+.detail-note a {
+    color: inherit;
+    text-decoration: underline;
+}
+
 .detail-location {
     font-size: 0.8125rem;
     color: var(--color-text-muted);

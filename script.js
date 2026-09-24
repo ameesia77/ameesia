@@ -482,6 +482,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 </div>
                 ${p.venue ? `<p class="detail-venue">${p.venue}</p>` : ''}
                 ${p.location && p.location !== p.venue ? `<p class="detail-location">${p.location}</p>` : ''}
+                ${p.headerNote ? `<p class="detail-note">${p.headerNote}</p>` : ''}
             </div>
         `;
 
