@@ -491,7 +491,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             const paragraphs = p.fullDescription.split('\n\n').filter(s => s.trim());
             sections += `
                 <div class="detail-description">
-                    ${paragraphs.map(para => `<p>${para}</p>`).join('')}
+                    ${paragraphs.map(para => para.trim() === '---' ? '<hr class="text-divider">' : `<p>${para}</p>`).join('')}
                 </div>
             `;
         }

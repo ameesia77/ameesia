@@ -842,6 +842,12 @@ button {
     margin-bottom: 1.5rem;
 }
 
+.text-divider {
+    border: 0;
+    border-top: 1px solid var(--color-border, #e5e5e5);
+    margin: var(--space-lg) 0;
+}
+
 .essay-links {
     display: flex;
     gap: var(--space-md);
