@@ -483,6 +483,8 @@ document.addEventListener('DOMContentLoaded', async function() {
                 ${p.venue ? `<p class="detail-venue">${p.venue}</p>` : ''}
                 ${p.location && p.location !== p.venue ? `<p class="detail-location">${p.location}</p>` : ''}
                 ${p.headerNote ? `<p class="detail-note">${p.headerNote}</p>` : ''}
+                ${p.headerLinks && p.headerLinks.length > 0 ? `<div class="header-links">${p.headerLinks.map(el => `
+                    <a href="${el.url}" class="external-link" target="_blank"${el.download ? ' download' : ''}>${el.label} &rarr;</a>`).join('')}</div>` : ''}
             </div>
         `;
 

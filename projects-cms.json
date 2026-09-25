@@ -2123,14 +2123,14 @@
       "slug": "notfallgruppenshow",
       "metaTitle": "Notfallgruppenshow — Berlin Art Week — Ameesia Marold",
       "metaDescription": "An emergency group show by Dafni Krazoudi, Sofiia Stepanova, Tarron Ruiz Avila and Casey Spooner at SPOONERHOLLYWOOD, Berlin Art Week 2026. Curated by Ameesia Marold.",
-      "essayLinks": [
+      "headerNote": "Works in the show are available for sale. Inquire for details and pricing at <a href=\"mailto:ameesia@gmail.com\">ameesia@gmail.com</a>.",
+      "headerLinks": [
         {
           "label": "Download the Art Guide (PDF)",
           "url": "/downloads/Notfallgruppenshow_Art_Guide.pdf",
           "download": true
         }
-      ],
-      "headerNote": "Works in the show are available for sale. Inquire for details and pricing at <a href=\"mailto:ameesia@gmail.com\">ameesia@gmail.com</a>."
+      ]
     },
     {
       "id": "writing-sunday-salon-sleek",

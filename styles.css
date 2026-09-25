@@ -690,6 +690,13 @@ button {
     text-decoration: underline;
 }
 
+.header-links {
+    display: flex;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+    margin-top: var(--space-md);
+}
+
 .detail-location {
     font-size: 0.8125rem;
     color: var(--color-text-muted);
